@@ -1,0 +1,32 @@
+rename-w
+rename-win
+fset classical=genre="Classical"
+update-cache
+help
+reload
+add Feist (2023) - Multitudes/
+wq
+colorscheme gruvbox-light
+q
+colorscheme gruvbox
+w
+colorscheme gruvbox-warm
+colorscheme gruvbox-alt
+add ~/music/
+add Music
+add /home/gergo/noise
+queue
+add ~/music/caretaker
+add ~/music/caretakes
+play
+?
+a
+clear
+player-pause
+player-play 
+add ~/SZILÁGYI/Inter/Audio/part2/
+pla
+player-prev
+player-play
+add ~/SZILÁGYI/Inter/Audio
+add ~/Downloads/

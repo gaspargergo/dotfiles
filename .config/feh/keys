@@ -1,0 +1,8 @@
+scroll_up k
+scroll_down j
+scroll_left h
+scroll_right l
+zoom_fit a
+zoom_default s
+save_image C-s
+toggle_actions C-a

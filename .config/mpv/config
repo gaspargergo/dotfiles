@@ -1,0 +1,2 @@
+ytdl-format=bv*[height<=720]+ba/b[height<=720] / wv*+ba/w
+script-opts-append=ytdl_hook-ytdl_path=yt-dlp

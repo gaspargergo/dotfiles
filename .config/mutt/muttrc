@@ -1,0 +1,22 @@
+# vim: filetype=neomuttrc
+source /home/gergo/.config/mutt/accounts/gaspar.gergo@gmail.com.muttrc
+source /home/gergo/.config/mutt/aliases
+source /home/gergo/.config/mutt/vim-keys.rc
+
+macro pager \cb <pipe-entry>'urlview'<enter> 'Follow links
+
+
+set alias_file=/home/gergo/.config/mutt/aliases
+set sort = "reverse-date-received"
+set editor = nvim
+set ssl_force_tls = yes
+set abort_nosubject = no
+set copy = no
+set header_cache = "~/.neomutt/hcache"
+set message_cachedir = "~/.neomutt/bcache" 
+
+# keybindings
+bind index A alias-dialog
+
+# color rules
+color index bold default color178 "~U"
