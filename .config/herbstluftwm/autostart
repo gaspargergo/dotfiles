@@ -23,7 +23,7 @@ hc keybind $Mod-Shift-r reload
 hc keybind $Mod-w close_or_remove
 
 # application shortcuts
-hc keybind $Mod-Return spawn uxterm +pc 
+hc keybind $Mod-Return spawn st 
 hc keybind $Mod-s spawn ~/scripts/screenshot.sh 
 hc keybind $Mod-o spawn ~/scripts/menus/zathura.sh 
 
