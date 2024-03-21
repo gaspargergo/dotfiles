@@ -28,8 +28,8 @@ hc keybind $Mod-s spawn ~/scripts/screenshot.sh
 hc keybind $Mod-o spawn ~/scripts/menus/zathura.sh 
 
 # sound
-hc keybind $Mod-u spawn sh -c "pactl set-sink-mute 0 false ; pactl set-sink-volume 0 +5% && ~/scripts/volume_display.sh"
-hc keybind $Mod-d spawn sh -c "pactl set-sink-mute 0 false ; pactl set-sink-volume 0 -5% && ~/scripts/volume_display.sh"
+hc keybind $Mod-u spawn sh -c "pactl set-sink-mute 0 false ; pactl set-sink-volume 0 +5%" 
+hc keybind $Mod-d spawn sh -c "pactl set-sink-mute 0 false ; pactl set-sink-volume 0 -5%"
 hc keybind $Mod-0 spawn pactl set-sink-mute 0 toggle
 hc keybind $Mod-Alt-0 spawn pactl set-source-mute 1 toggle
 

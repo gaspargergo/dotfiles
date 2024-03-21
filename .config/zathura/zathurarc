@@ -4,6 +4,6 @@ map <C-s> toggle_statusbar
 set recolor true
 set selection-clipboard clipboard
 
-set default-bg "#282828"
-set recolor-darkcolor "#ebdbb2"
-set recolor-lightcolor "#282828"
+set default-bg "#fbf1c7"
+set recolor-darkcolor "#3c3836"
+set recolor-lightcolor "#fbf1c7"
