@@ -67,7 +67,8 @@ export HISTFILESIZE=6000
 export HISTCONTROL=erasedups
 export HISTSIZE=3000
 
-if [[ "$TERM" == "tmux" ]]
+# this is confusing, but st-256color is for the tmux session inside st, and xterm-256color is for st itself
+if [[ "$TERM" == "st-256color" ]]
 then
 	/home/gergo/scripts/pokescript/pokemon-colorscripts.sh -r
 fi
