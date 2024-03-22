@@ -1,3 +1,4 @@
+q
 rename-w
 rename-win
 fset classical=genre="Classical"
@@ -7,7 +8,6 @@ reload
 add Feist (2023) - Multitudes/
 wq
 colorscheme gruvbox-light
-q
 colorscheme gruvbox
 w
 colorscheme gruvbox-warm
