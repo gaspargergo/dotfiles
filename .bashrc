@@ -68,6 +68,7 @@ export HISTCONTROL=erasedups
 export HISTSIZE=3000
 
 # this is confusing, but st-256color is for the tmux session inside st, and xterm-256color is for st itself
+# This is needed in order to have proper color, italics, and ncurses functions inside tmux
 if [[ "$TERM" == "st-256color" ]]
 then
 	/home/gergo/scripts/pokescript/pokemon-colorscripts.sh -r
