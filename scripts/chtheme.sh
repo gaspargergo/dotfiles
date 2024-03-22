@@ -17,7 +17,7 @@ modifyTheme() {
 	modifyConfig ~/.config/zathura/zathurarc ~/.config/colors/zathura/$1
 	modifyConfig ~/.config/nvim/init.vim ~/.config/colors/nvim/$1
 	modifyConfig ~/.Xresources ~/.config/colors/xterm/$1
-	xrdb ~/.Xresources
+	xrdb ~/.Xresources && pidof st | xargs kill -s USR1
 	~/.config/colors/herbstluftwm/$1.sh
 	sed -i "5 c\ <link rel=\"stylesheet\" href=\"/home/gergo/homepage/colors/$1.css\">" ~/homepage/homepage.html
 	echo "$1 theme set!"
