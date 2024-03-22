@@ -67,7 +67,7 @@ export HISTFILESIZE=6000
 export HISTCONTROL=erasedups
 export HISTSIZE=3000
 
-if [[ "$TERM" == "screen-256color" ]]
+if [[ "$TERM" == "tmux" ]]
 then
 	/home/gergo/scripts/pokescript/pokemon-colorscripts.sh -r
 fi
