@@ -54,9 +54,9 @@ shopt -s no_empty_cmd_completion
 #append history instead of overwriting
 shopt -s histappend
 
-set EDITOR ='nvim'
-set BROWSER='w3m'
-set VISUAL='nvim'
+export EDITOR='nvim'
+export BROWSER='w3m'
+export VISUAL='nvim'
 xset b off
 
 # show man page for command preceding the cursor
