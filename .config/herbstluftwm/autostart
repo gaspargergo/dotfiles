@@ -146,14 +146,9 @@ hc rule windowtype~'_NET_WM_WINDOW_TYPE_(NOTIFICATION|DOCK|DESKTOP)' manage=off
 hc rule fixedsize floating=on
 hc rule class='feh' floating=on
 	#Rules for floating xterm
-hc rule title='floating_xterm' floating=on
-hc rule title='floating_xterm' floating_geometry=800x500
-hc rule title='floating_xterm' floatplacement=center
-	#Rules for volume display
-hc rule title='volume_display' floating=on
-hc rule title='volume_display' floating_geometry=80x60
-hc rule title='volume_display' floatplacement=center
-hc rule title='volume_display' focus=off
+hc rule class='fzfmenu' floating=on
+hc rule class='fzfmenu' floating_geometry=800x500
+hc rule class='fzfmenu' floatplacement=center
 
 hc set tree_style '╾│ ├└╼─┐'
 
