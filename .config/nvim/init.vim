@@ -61,8 +61,10 @@ set statusline+=\ \ %l:%c\ \       " Current line and coloumn
 set completeopt=menuone,longest
 set shortmess+=c
 
-"automatically wrap git commits
-set fo+=t
+" wrapping settings
+au Filetype mail setlocal tw=0
+au Filetype mail setlocal linebreak
+au Filetype mail setlocal formatoptions-=t
 au Filetype gitcommit setlocal tw=72
 
 " --- Plugins ---
@@ -72,11 +74,15 @@ Plug 'ap/vim-css-color'
 Plug 'vim-scripts/AutoComplPop'
 Plug 'tpope/vim-surround'
 Plug 'christoomey/vim-tmux-navigator'
+Plug 'dusans/vim-hardmode'
 call plug#end()
 
 "no autocomplete in textfiles and markdown files
 autocmd Filetype markdown AutoComplPopDisable
 autocmd Filetype text AutoComplPopDisable
+
+"autoenable vim-hardmode
+autocmd VimEnter,BufNewFile,BufReadPost * silent! call HardMode()
 
 " --- Search ---
 " incremental search
@@ -84,11 +90,12 @@ set incsearch
 " only ignore case when there is no capital letter in search term
 set ignorecase
 set smartcase
+set nohlsearch
 " highlight matches, and clear them with ctrl+a
-set hlsearch
-if maparg('<C-A>', 'n') ==# ''
-	nnoremap <silent> <C-A> :nohlsearch<CR>
-endif
+"set hlsearch
+"if maparg('<C-A>', 'n') ==# ''
+	"nnoremap <silent> <C-A> :nohlsearch<CR>
+"endif
 
 " --- Functions ---
 function! Angol()
@@ -103,13 +110,13 @@ endfunction
 
 " --- Theming ---
 colorscheme gruvbox
-set background=dark
+set background=light
 highlight Comment gui=italic
-highlight StatusLineColor guifg=White guibg=#3c3836
+highlight StatusLineColor guifg=Black guibg=#ebdbb2
 highlight NormalColor guifg=Black guibg=#b8bb26 gui=bold
 highlight InsertColor guifg=White guibg=#458588 gui=bold
 highlight ReplaceColor guifg=Black guibg=maroon1 
 highlight VisualColor guifg=White guibg=#b16286 gui=bold
 highlight CommandColor guifg=White guibg=#427b58 gui=bold
-highlight FileNameColor guifg=White guibg=#3c3836
-highlight LineNumberColor guifg=White guibg=#3c3836
+highlight FileNameColor guifg=Black guibg=#d5c4a1
+highlight LineNumberColor guifg=Black guibg=#d5c4a1
