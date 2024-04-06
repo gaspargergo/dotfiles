@@ -65,7 +65,7 @@ run-help() { help "$READLINE_LINE" 2>/dev/null || man "$READLINE_LINE"; }
 bind -m vi-insert -x '"\eh": run-help'
 
 export HISTFILESIZE=6000
-export HISTCONTROL=erasedups
+export HISTCONTROL=ignoreboth
 export HISTSIZE=3000
 
 #when in terminal only, create tmux session; in tmux window, print a pokemon
