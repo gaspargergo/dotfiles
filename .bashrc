@@ -10,6 +10,7 @@ source /usr/share/fzf/key-bindings.bash
 
 
 # --- ALIASES ---
+alias sudo="sudo "
 alias web="w3m /home/gergo/.w3m/bookmark.html"
 alias less="less -Q"
 alias weather="curl wttr.in"
@@ -23,9 +24,7 @@ alias hc="herbstclient"
 alias chtheme="~/scripts/chtheme.sh"
 alias munka="~/scripts/munka.sh"
 alias ls="ls -p --group-directories-first --color=auto"
-alias messenger="~/Downloads/Caprine*"
 alias radio="curseradio"
-alias refresh_z="~/scripts/menus/zathura/refresh_db.sh"
 
 # Prompt, current dir and decoration
 export PS1=" \[\e[01;34m\]\w\[\e[m\] \[\e[01;31m\]>\[\e[m\]\[\e[01;33m\]>\[\e[m\]\[\e[01;32m\]>\[\e[m\] "
