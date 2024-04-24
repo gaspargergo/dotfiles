@@ -74,15 +74,11 @@ Plug 'ap/vim-css-color'
 Plug 'vim-scripts/AutoComplPop'
 Plug 'tpope/vim-surround'
 Plug 'christoomey/vim-tmux-navigator'
-Plug 'dusans/vim-hardmode'
 call plug#end()
 
 "no autocomplete in textfiles and markdown files
 autocmd Filetype markdown AutoComplPopDisable
 autocmd Filetype text AutoComplPopDisable
-
-"autoenable vim-hardmode
-autocmd VimEnter,BufNewFile,BufReadPost * silent! call HardMode()
 
 " --- Search ---
 " incremental search
