@@ -25,7 +25,7 @@ alias chtheme="~/scripts/chtheme.sh"
 alias munka="~/scripts/munka.sh"
 alias ls="ls -p --group-directories-first --color=auto"
 alias radio="curseradio"
-
+alias yt-dlp="yt-dlp --embed-subs --restrict-filenames -f 'best[height<=720]'" 
 # Prompt, current dir and decoration
 export PS1=" \[\e[01;34m\]\w\[\e[m\] \[\e[01;31m\]>\[\e[m\]\[\e[01;33m\]>\[\e[m\]\[\e[01;32m\]>\[\e[m\] "
 
@@ -63,7 +63,7 @@ xset b off
 run-help() { help "$READLINE_LINE" 2>/dev/null || man "$READLINE_LINE"; }
 bind -m vi-insert -x '"\eh": run-help'
 
-export HISTFILESIZE=6000
+export HISTFILESIZE=15000
 export HISTCONTROL=ignoreboth
 export HISTSIZE=3000
 
