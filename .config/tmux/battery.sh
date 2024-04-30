@@ -9,6 +9,7 @@ then
 	echo "#[fg=green,bold]$percentage%"
 elif [[ $percentage -lt 26 ]]
 then
+	echo -e "\a"
 	echo "#[fg=black,bold,bg=red]$percentage%"
 else
 	echo "#[fg=default,bg=default]$percentage%"
