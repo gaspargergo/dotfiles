@@ -3,4 +3,7 @@
 # Get the aliases and functions
 [ -f $HOME/.bashrc ] && . $HOME/.bashrc
 
-exec startx
+if command -v startx &> /dev/null 
+then
+	exec startx
+fi
