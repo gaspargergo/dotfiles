@@ -16,3 +16,7 @@ stow .
     2. restart tmux
     3. press prefix + I to install plugins
 
+
+# Prerequisites
+
+neovim bash-completion fzf

@@ -1,4 +1,5 @@
 /home/gergo/projekt/gameboy/wideboy/gameboy-sp-slab-v2-model_files/174622-gameboy-sp-slab-v2-0f00cc29-203d-42d9-b21f-00323950ca12.pdf
+/home/gergo/projekt/táblák/Kresz-tablak.pdf
 /home/gergo/projekt/tavaszi/tavasz_pdf.pdf
 /home/gergo/projekt/tavaszi/fotópapírra/fotóspdf.pdf
 /home/gergo/projekt/tavaszi/tavasz_nyomtatni/szöveges_pdf.pdf
@@ -6,10 +7,16 @@
 /home/gergo/projekt/tavaszi/nyomtatni/képespdf.pdf
 /home/gergo/projekt/tavaszi/szevasz_nyomtatni/képespdf.pdf
 /home/gergo/projekt/esküvő/sárvár.pdf
+/home/gergo/projekt/esküvő/groff/pattern.pdf
+/home/gergo/projekt/esküvő/groff/background.pdf
+/home/gergo/projekt/esküvő/groff/test.pdf
+/home/gergo/projekt/esküvő/groff/ültetőkártyak_front.pdf
 /home/gergo/projekt/esküvő/nyomtatni/print.pdf
 /home/gergo/projekt/esküvő/nyomtatni/back.pdf
 /home/gergo/projekt/esküvő/nyomtatni/meghívó_nyomtatni_1.pdf
 /home/gergo/projekt/esküvő/nyomtatni/front.pdf
+/home/gergo/projekt/esküvő/nyomtatni/ültetőkártyák.pdf
+/home/gergo/projekt/esküvő/nyomtatni/menu.pdf
 /home/gergo/projekt/esküvő/nyomtatni/meghívó_nyomtatni_2.pdf
 /home/gergo/projekt/esküvő/nyomtatni/meghívó_nyomtatni_3.pdf
 /home/gergo/projekt/uxntest/tutorial/introduction-to-uxn-programming.epub
@@ -26,7 +33,7 @@
 /home/gergo/projekt/Courses/PDF/Candle_cannotative.pdf
 /home/gergo/projekt/Courses/poster.pdf
 /home/gergo/projekt/Karikarikari/próba.pdf
-/home/gergo/projekt/groff/mom-2.6_c/examples/penguin.pdf
+/home/gergo/projekt/groff/document.pdf
 /home/gergo/projekt/népművészet/borsod_megye/a8.pdf
 /home/gergo/projekt/népművészet/borsod_megye/b4.pdf
 /home/gergo/projekt/népművészet/borsod_megye/b2.pdf
@@ -59,32 +66,41 @@
 /home/gergo/projekt/népművészet/borsod_megye/3.pdf
 /home/gergo/projekt/népművészet/borsod_megye/merged.pdf
 /home/gergo/projekt/népművészet/merged.pdf
+/home/gergo/projekt/jella/jella.pdf
 /home/gergo/sitesToRead/archive/230711.epub
 /home/gergo/sitesToRead/archive/231003_1046.epub
 /home/gergo/sitesToRead/archive/240320_2208.epub
 /home/gergo/sitesToRead/archive/231122_1606.epub
 /home/gergo/sitesToRead/archive/231028_1838.epub
 /home/gergo/sitesToRead/archive/231231_1537.epub
+/home/gergo/sitesToRead/archive/240417_0900.epub
 /home/gergo/sitesToRead/archive/231010_2216.epub
 /home/gergo/sitesToRead/archive/231016_0821.epub
 /home/gergo/sitesToRead/archive/240124_2147.epub
+/home/gergo/sitesToRead/archive/240718_2056.epub
 /home/gergo/sitesToRead/archive/240217_2158.epub
 /home/gergo/sitesToRead/archive/231229_2326.epub
 /home/gergo/sitesToRead/archive/240118_2108.epub
 /home/gergo/sitesToRead/archive/240331_2229.epub
 /home/gergo/sitesToRead/archive/240205_1834.epub
+/home/gergo/sitesToRead/archive/240406_1105.epub
+/home/gergo/sitesToRead/archive/240626_1002.epub
 /home/gergo/sitesToRead/archive/231102_0755.epub
 /home/gergo/sitesToRead/archive/231106_0815.epub
 /home/gergo/sitesToRead/archive/240129_1103.epub
+/home/gergo/sitesToRead/archive/240729_1335.epub
 /home/gergo/sitesToRead/archive/240109_2034.epub
 /home/gergo/sitesToRead/archive/240328_2151.epub
 /home/gergo/sitesToRead/archive/240114_1102.epub
+/home/gergo/sitesToRead/archive/240716_1516.epub
 /home/gergo/sitesToRead/archive/230713_0822.epub
 /home/gergo/sitesToRead/archive/231012_1029.epub
+/home/gergo/sitesToRead/archive/240412_2204.epub
 /home/gergo/sitesToRead/archive/231113_0950.epub
 /home/gergo/sitesToRead/archive/231124_2315.epub
 /home/gergo/sitesToRead/archive/230923_2105.epub
 /home/gergo/sitesToRead/archive/231011_2246.epub
+/home/gergo/sitesToRead/archive/240806_1738.epub
 /home/gergo/sitesToRead/archive/230831_1125.epub
 /home/gergo/sitesToRead/archive/230925_0820.epub
 /home/gergo/sitesToRead/archive/231004_1012.epub
@@ -94,6 +110,9 @@
 /home/gergo/sitesToRead/archive/240201_0951.epub
 /home/gergo/sitesToRead/archive/230716_0802.epub
 /home/gergo/sitesToRead/archive/231129_1045.epub
+/home/gergo/sitesToRead/archive/240811_1540.epub
+/home/gergo/sitesToRead/archive/240719_2215.epub
+/home/gergo/sitesToRead/How to Build a Practical Household Bike Generator _ LOW←TECH MAGAZINE.pdf
 /home/gergo/Documents/612f8e3e010ff2e211c92019_2 - Persuasive Technology Issue Guide.pdf
 /home/gergo/Documents/norpet.pdf
 /home/gergo/Documents/diplomamásolat.pdf
@@ -103,6 +122,8 @@
 /home/gergo/Documents/munkás/Motivacios_level_GG.pdf
 /home/gergo/Documents/munkás/coverletter_GG.pdf
 /home/gergo/Documents/munkás/CL_GG.pdf
+/home/gergo/Documents/munkás/Aleido/TanenbaumAlter1.pdf
+/home/gergo/Documents/munkás/Aleido/Ericsson Cloud System.pdf
 /home/gergo/Documents/munkás/diploma.pdf
 /home/gergo/Documents/munkás/erkölcsi_nyilatkozat.pdf
 /home/gergo/Documents/munkás/old.Önéletrajz_GG.pdf
@@ -111,6 +132,11 @@
 /home/gergo/Documents/munkás/Önéletrajz_GG.pdf
 /home/gergo/Documents/munkás/motiv_kozl_GG.pdf
 /home/gergo/Documents/munkás/cover-letter_GG.pdf
+/home/gergo/Documents/munkás/groff_test/output/cv_GG.pdf
+/home/gergo/Documents/munkás/groff_test/output/önéletrajz_GG.pdf
+/home/gergo/Documents/munkás/groff_test/images/kep.pdf
+/home/gergo/Documents/munkás/groff_test/images/kiskep.pdf
+/home/gergo/Documents/receptek/chilis_bab_etcsokival.pdf
 /home/gergo/Documents/TransferWise-handbook-180702-v12.pdf
 /home/gergo/Documents/writing archive/home and crits.pdf
 /home/gergo/Documents/laktanya/VASM_Vhk_2011_02__pages35-48.pdf
@@ -182,13 +208,57 @@
 /home/gergo/Documents/bible_calendar.pdf
 /home/gergo/Documents/Önéletrajz_GG.pdf
 /home/gergo/Documents/collapseos/doc/hw/z80/img/dan.pdf
+/home/gergo/Downloads/the-jane-addams-collective-mutual-aid-self-social-therapy.pdf
+/home/gergo/Downloads/sourcepr-3.pdf
+/home/gergo/Downloads/leaflet-cubitaltunnel_2.pdf
+/home/gergo/Downloads/Heroes_of_Might_and_Magic_-_2000_-_3DO.pdf
+/home/gergo/Downloads/angol_nyelv_kommunikacios_szandekok_listaja_2024maj.pdf
+/home/gergo/Downloads/Stop-the-Damage-Build-a-Better-full-v-5.pdf
+/home/gergo/Downloads/k_angol_24maj_ut.pdf
+/home/gergo/Downloads/AI the risks and benefits student worksheet.pdf
 /home/gergo/Downloads/B785_K11223_Haziipar_Hunyadmegye.pdf
-/home/gergo/Downloads/kma_gyakorlati_vizsga_informaciok_2024.pdf
+/home/gergo/Downloads/154-2-Hiley.pdf
+/home/gergo/Downloads/Haromhollo_programok.pdf
+/home/gergo/Downloads/kner-antikva-minta.pdf
+/home/gergo/Downloads/k_magyir_24maj_ut.pdf
+/home/gergo/Downloads/OR23241Boszt.pdf
+/home/gergo/Downloads/groff-1.pdf
+/home/gergo/Downloads/groff.pdf
+/home/gergo/Downloads/OTPdirekt.pdf
+/home/gergo/Downloads/OR23241Btan.pdf
+/home/gergo/Downloads/nev5893881.pdf
+/home/gergo/Downloads/179_magyar_nyelv_feladatlap_1.pdf
 /home/gergo/Downloads/motiv_letter_GG.pdf
+/home/gergo/Downloads/nev5958228.pdf
 /home/gergo/Downloads/Magyar_nepmuveszet_14.pdf
+/home/gergo/Downloads/AI risks and benefits lesson plan.pdf
+/home/gergo/Downloads/00688.pdf
+/home/gergo/Downloads/AI the risks and benefits presentation.pdf
+/home/gergo/Downloads/114078425_20240517_154455_jgv_valt.pdf
+/home/gergo/Downloads/mom-pdf-1.pdf
+/home/gergo/Downloads/OTPdirekt-1.pdf
 /home/gergo/Downloads/CV_GG.pdf
-/home/gergo/Downloads/kma_alkalmassagi_vizsga_2024.pdf
+/home/gergo/Downloads/3546591.3547527.pdf
+/home/gergo/Downloads/mom-pdf.pdf
+/home/gergo/Downloads/eurobsdcon2018-mandoc-1.pdf
+/home/gergo/Downloads/8477631573_4373378737.pdf
+/home/gergo/Downloads/MIKTI_Jegyzetelési útmutató.pdf
+/home/gergo/Downloads/atjelentkezes_20240418_100149.pdf
+/home/gergo/Downloads/114078425_20240521_094433_jgv_valt.pdf
+/home/gergo/Downloads/t-s-eliot_poetry.epub
+/home/gergo/Downloads/DRD-2024-289.pdf
+/home/gergo/Downloads/atjelentkezes_20240404_151638.pdf
+/home/gergo/Downloads/MOMETYPO-2024_weboldal.pdf
+/home/gergo/Downloads/Munkakotelezettseg_megallapitasa_hataridoben_nem_teljesult_oklevelszerzes_kapcsan.pdf
+/home/gergo/Downloads/eurobsdcon2018-mandoc.pdf
+/home/gergo/Downloads/k_magyir_23okt_ut.pdf
+/home/gergo/Downloads/mom-2.6_c/examples/penguin.pdf
+/home/gergo/Downloads/the-jane-addams-collective-mutual-aid-self-social-therapy.epub
+/home/gergo/Downloads/ce-5.pdf
+/home/gergo/Downloads/MIKTI szemináriumi dolgozatok követelményei.pdf
+/home/gergo/Downloads/OR23241Atan.pdf
 /home/gergo/Downloads/combinepdf-5.pdf
+/home/gergo/budapest.pdf
 /home/gergo/music/Dawes/Dawes - All Your Favorite Bands/All Your Favorite Bands - booklet.pdf
 /home/gergo/music/JPEGmafia/Veteran/JPEGMAFIA - Veteran - Lyrics -.pdf
 /home/gergo/music/JPEGmafia/LP/JPEGMAFIA - LP! - LP! CREDITS - LYRICS.pdf
@@ -276,14 +346,36 @@
 /home/gergo/angoll/régi/Bence/my_town_-_exercises_4 A2.pdf
 /home/gergo/angoll/régi/Bence/NHW Student Book.pdf
 /home/gergo/angoll/régi/- New English File Elementary Students Book-Oxford University Press, USA.pdf
-/home/gergo/angoll/jamboard_archive/verselemzés.pdf
-/home/gergo/angoll/jamboard_archive/Szófajok.pdf
-/home/gergo/angoll/jamboard_archive/Szóképek, alakzatok.pdf
-/home/gergo/angoll/jamboard_archive/Klasszicizmus, Tartuffe.pdf
-/home/gergo/angoll/jamboard_archive/Romantika.pdf
-/home/gergo/angoll/jamboard_archive/Arany János - A lejtőn.pdf
-/home/gergo/angoll/jamboard_archive/Barokk, Zrínyi.pdf
-/home/gergo/angoll/jamboard_archive/Költői képek.pdf
+/home/gergo/angoll/jamboard_archive/ird/verselemzés.pdf
+/home/gergo/angoll/jamboard_archive/ird/Kosztolányi zászló verselemzés.pdf
+/home/gergo/angoll/jamboard_archive/ird/A lejtőn elemzés.pdf
+/home/gergo/angoll/jamboard_archive/ird/Jónás imája.pdf
+/home/gergo/angoll/jamboard_archive/ird/Szóképek, alakzatok.pdf
+/home/gergo/angoll/jamboard_archive/ird/Tartózkodó kérelem verselemzés.pdf
+/home/gergo/angoll/jamboard_archive/ird/Klasszicizmus, Tartuffe.pdf
+/home/gergo/angoll/jamboard_archive/ird/Romantika.pdf
+/home/gergo/angoll/jamboard_archive/ird/Móricz.pdf
+/home/gergo/angoll/jamboard_archive/ird/Balassi képek.pdf
+/home/gergo/angoll/jamboard_archive/ird/Elemzések.pdf
+/home/gergo/angoll/jamboard_archive/ird/Vanitatum vanitas.pdf
+/home/gergo/angoll/jamboard_archive/ird/Intertextualitás.pdf
+/home/gergo/angoll/jamboard_archive/ird/Arany János - A lejtőn.pdf
+/home/gergo/angoll/jamboard_archive/ird/Fogalmazás vázlat.pdf
+/home/gergo/angoll/jamboard_archive/ird/Balassi elemzés.pdf
+/home/gergo/angoll/jamboard_archive/ird/Barokk, Zrínyi.pdf
+/home/gergo/angoll/jamboard_archive/ird/Költői_ képek.pdf
+/home/gergo/angoll/jamboard_archive/ird/Költői képek.pdf
+/home/gergo/angoll/jamboard_archive/nyelvtan/Szófajok.pdf
+/home/gergo/angoll/jamboard_archive/angol/Education in the UK.pdf
+/home/gergo/angoll/jamboard_archive/angol/Imaginary situations.pdf
+/home/gergo/angoll/jamboard_archive/angol/Graffiti and street art.pdf
+/home/gergo/angoll/jamboard_archive/angol/Present perfect v. past simple.pdf
+/home/gergo/angoll/jamboard_archive/angol/English accents.pdf
+/home/gergo/angoll/jamboard_archive/angol/do, make, take.pdf
+/home/gergo/angoll/jamboard_archive/angol/Making words, weird museums.pdf
+/home/gergo/angoll/jamboard_archive/angol/Shakespeare's idioms.pdf
+/home/gergo/angoll/jamboard_archive/angol/Traveling_vlogging.pdf
+/home/gergo/angoll/jamboard_archive/angol/Photo comparison.pdf
 /home/gergo/angoll/christmas/handouts/xmas-around-the-world.pdf
 /home/gergo/angoll/christmas/handouts/christmas-in-england-a-picture-story.pdf
 /home/gergo/angoll/SZILÁGYI/700_Classroom_Activities.pdf
@@ -521,6 +613,9 @@
 /home/gergo/angoll/Tomi/szövegértés/egyesével/2_szenzacios_otlet.pdf
 /home/gergo/angoll/Tomi/szövegértés/egyesével/vártúrák.pdf
 /home/gergo/angoll/Tomi/szövegértés/szövegértés_gyakorlás.pdf
+/home/gergo/angoll/Tomi/stilisztika/társalgási_stílus.pdf
+/home/gergo/angoll/Tomi/stilisztika/ird_stílus.pdf
+/home/gergo/angoll/Tomi/k_angol_07maj_fl.pdf
 /home/gergo/angoll/Bence/worksheets/esports_-_exercises.pdf
 /home/gergo/angoll/Bence/worksheets/TE_LP_KB_afoodfestival.pdf
 /home/gergo/angoll/Bence/worksheets/Shopping_Sales_tricks_Worksheet.pdf
@@ -544,20 +639,29 @@
 /home/gergo/angoll/Bence/worksheets/Pocket money and pester power student worksheet.pdf
 /home/gergo/angoll/Bence/fogalmazás/Találkozás-egy-fiatalemberrel.pdf
 /home/gergo/angoll/Bence/fogalmazás/bencenek.pdf
+/home/gergo/angoll/Bence/érettségi/k_magyir_23okt_fl.pdf
 /home/gergo/angoll/Bence/érettségi/id_nyelv_requirements.pdf
+/home/gergo/angoll/Bence/érettségi/feladatsorok/done/k_angol_06maj_ut.pdf
+/home/gergo/angoll/Bence/érettségi/feladatsorok/done/k_angol_06maj_fl.pdf
 /home/gergo/angoll/Bence/érettségi/feladatsorok/e_angol_22okt_ut.pdf
 /home/gergo/angoll/Bence/érettségi/feladatsorok/e_angol_22maj_ut.pdf
 /home/gergo/angoll/Bence/érettségi/feladatsorok/e_angol_22okt_fl.pdf
-/home/gergo/angoll/Bence/érettségi/feladatsorok/k_angol_06maj_ut.pdf
-/home/gergo/angoll/Bence/érettségi/feladatsorok/k_angol_06maj_fl.pdf
+/home/gergo/angoll/Bence/érettségi/feladatsorok/k_angol_07maj_fl.pdf
 /home/gergo/angoll/Bence/érettségi/feladatsorok/e_angol_23maj_ut.pdf
 /home/gergo/angoll/Bence/érettségi/feladatsorok/e_angol_22maj_fl.pdf
 /home/gergo/angoll/Bence/érettségi/feladatsorok/e_angol_23maj_fl.pdf
+/home/gergo/angoll/Bence/érettségi/feladatsorok/k_angol_08maj_fl.pdf
+/home/gergo/angoll/Bence/érettségi/angol_nyelv_kozep_szob_mintafeladat_vizsgazoi_peldany_2024maj.pdf
 /home/gergo/angoll/Bence/érettségi/OH-MIR912GY__teljes.pdf
 /home/gergo/angoll/Bence/érettségi/angol_nyelv_em_szob_mintafeladat_vizsgazoi_peldany_2023maj.pdf
 /home/gergo/angoll/Bence/érettségi/kisérettségi/AngolFelkeszitoMunkafuzet.pdf
+/home/gergo/angoll/Bence/érettségi/angol_nyelv_kozep_szobeli_egyeni_ertekelo_lap_2024maj.pdf
 /home/gergo/angoll/Bence/érettségi/angol_nyelv_em_szob_mintafeladat_vizsgaztatoi_peldany_2023maj.pdf
 /home/gergo/angoll/Bence/érettségi/angol_emelt_szóbeli.pdf
+/home/gergo/angoll/Bence/érettségi/k_magyir_23maj_fl.pdf
+/home/gergo/angoll/Bence/érettségi/angol_nyelv_kozep_szob_mintafeladat_vizsgaztatoi_peldany_2024maj.pdf
+/home/gergo/angoll/Bence/szövegek/output/olvaso.pdf
+/home/gergo/angoll/Bence/szövegek/output/legmereszebb.pdf
 /home/gergo/angoll/Sebi/Clive Oxenden, Christina Latham-Koenig, Paul Seligson - English File_ Pre-intermediate_ Student’s Book-Oxford University Press (2012).pdf
 /home/gergo/angoll/Sebi/worksheets/at_the_train_station_-_exercises_4_A1.pdf
 /home/gergo/angoll/Sebi/worksheets/going_out_-_exercises_4.pdf
@@ -572,6 +676,7 @@
 /home/gergo/booksToRead/képző/Massey, Anne_Seago, Alex - Pop Art and Design-Bloomsbury UK_Bloomsbury Academic (2018_2017).epub
 /home/gergo/booksToRead/képző/Alastair Sooke - Pop Art_ A Colourful History-Penguin (2016).epub
 /home/gergo/booksToRead/képző/(Temporis Collection) Eric Shanes - The Pop Art Tradition_ Responding to Mass-Culture-Parkstone Press (2006).epub
+/home/gergo/booksToRead/Umberto Eco, Caterina Mongiat Farina, Geoff Farina, Francesco Erspamer - How to Write a Thesis-The MIT Press (2015).epub
 /home/gergo/booksToRead/done/(Pragmatic Programmers) Drew Neil - Practical Vim_ Edit Text at the Speed of Thought-Pragmatic Bookshelf (2012).epub
 /home/gergo/booksToRead/done/No-waste kitchen gardening regrow your leftover greens, pits, seeds, and more by Elzer-Peters, Katie (z-lib.org).epub
 /home/gergo/booksToRead/done/Umberto Eco, Caterina Mongiat Farina, Geoff Farina, Francesco Erspamer - How to Write a Thesis-The MIT Press (2015).epub
@@ -625,9 +730,11 @@
 /home/gergo/booksToRead/programozás/Drew Neil - Modern Vim-The Pragmatic Bookshelf, LLC (2018).epub
 /home/gergo/booksToRead/programozás/ProgrammingGroundUp-0-9.epub
 /home/gergo/booksToRead/programozás/Unix_programming.epub
+/home/gergo/booksToRead/programozás/beforecomputers.pdf
 /home/gergo/booksToRead/programozás/Jared Bhatti - Docs for Developers_ An Engineer’s Field Guide to Technical Writing-Apress (2021).epub
 /home/gergo/booksToRead/Robin Wall Kimmerer - Braiding Sweetgrass_ Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants-Milkweed Editions.epub
 /home/gergo/booksToRead/szépirodalom/Daniel Kehlmann - Tyll (2019, Magvető Könyvkiadó) - libgen.li.epub
+/home/gergo/booksToRead/szépirodalom/McCarthy, Cormac - The Road.epub
 /home/gergo/booksToRead/szépirodalom/pestis.epub
 /home/gergo/booksToRead/szépirodalom/(Európa Zsebkönyvek 82) Stanisław Lem - Kiberiáda.epub
 /home/gergo/booksToRead/tipo/stop_stealing_sheep.pdf
@@ -639,6 +746,19 @@
 /home/gergo/booksToRead/tipo/Pamental, Jason - Responsive typography_ Using type well on the web-O'Reilly Media, Inc.epub
 /home/gergo/booksToRead/tipo/Strizver, Ilene - Type Rules_ The Designer's Guide to Professional Typography, 4th Edition-John Wiley and Sons.epub
 /home/gergo/booksToRead/tipo/Karin Wagner - From ASCII Art To Comic Sans_ Typography And Popular Culture In The Digital Age-The MIT Press.pdf
+/home/gergo/groff/contrib/mom/examples/penguin.pdf
+/home/gergo/groff/build/contrib/pdfmark/pdfmark.pdf
+/home/gergo/groff/build/contrib/sboxes/msboxes.pdf
+/home/gergo/groff/build/contrib/mom/examples/copyright-default.pdf
+/home/gergo/groff/build/contrib/mom/examples/sample_docs.pdf
+/home/gergo/groff/build/contrib/mom/examples/slide-demo.pdf
+/home/gergo/groff/build/contrib/mom/examples/mon_premier_doc.pdf
+/home/gergo/groff/build/contrib/mom/examples/mom-pdf.pdf
+/home/gergo/groff/build/contrib/mom/examples/letter.pdf
+/home/gergo/groff/build/contrib/mom/examples/copyright-chapter.pdf
+/home/gergo/groff/build/penguin.pdf
+/home/gergo/groff/build/doc/groff-man-pages.pdf
+/home/gergo/groff/build/doc/automake.pdf
 /home/gergo/MA/sem3/Kertész/Jegyzőkönyv.epub
 /home/gergo/MA/sem3/Kertész/kertesz_naplobejegyzesek_valogatas.pdf
 /home/gergo/MA/sem3/Kertész/2021-2022_1_tematika_KERTESZ.pdf
@@ -1324,3 +1444,4 @@
 /home/gergo/MA/School archive/BA/sem6/töri/Magyarics könyv - Handouts for USA Hitory/DOC110301-006.pdf
 /home/gergo/MA/School archive/BA/sem6/töri/Magyarics könyv - Handouts for USA Hitory/DOC110301-004.pdf
 /home/gergo/MA/School archive/BA/sem6/töri/Magyarics könyv - Handouts for USA Hitory/DOC110301-007.pdf
+/home/gergo/ce-5.pdf

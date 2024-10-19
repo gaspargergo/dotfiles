@@ -99,20 +99,24 @@
 /home/gergo/music/Let's Hope Heteros Fail, Learn and Retire/06. Hëłlœ Kįttÿ.flac
 /home/gergo/music/Let's Hope Heteros Fail, Learn and Retire/07. .Sex.flac
 /home/gergo/music/Let's Hope Heteros Fail, Learn and Retire/08. (Reprise) Let's Hope Heteros Fail, Learn, and Retire.flac
-/home/gergo/music/Beatles/1965 - Rubber Soul/01 - Drive My Car.mp3
-/home/gergo/music/Beatles/1965 - Rubber Soul/02 - Norwegian Wood (This Bird Has Flown).mp3
-/home/gergo/music/Beatles/1965 - Rubber Soul/03 - You Won't See Me.mp3
-/home/gergo/music/Beatles/1965 - Rubber Soul/04 - Nowhere Man.mp3
-/home/gergo/music/Beatles/1965 - Rubber Soul/05 - Think For Yourself.mp3
-/home/gergo/music/Beatles/1965 - Rubber Soul/06 - The Word.mp3
-/home/gergo/music/Beatles/1965 - Rubber Soul/07 - Michelle.mp3
-/home/gergo/music/Beatles/1965 - Rubber Soul/08 - What Goes On.mp3
-/home/gergo/music/Beatles/1965 - Rubber Soul/09 - Girl.mp3
-/home/gergo/music/Beatles/1965 - Rubber Soul/10 - I'm Looking Through You.mp3
-/home/gergo/music/Beatles/1965 - Rubber Soul/11 - In My Life.mp3
-/home/gergo/music/Beatles/1965 - Rubber Soul/12 - Wait.mp3
-/home/gergo/music/Beatles/1965 - Rubber Soul/13 - If I Needed Someone.mp3
-/home/gergo/music/Beatles/1965 - Rubber Soul/14 - Run For Your Life.mp3
+/home/gergo/music/The Avalanches/2000 - Since I Left You/01 - Since I Left You.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/02 - Stay Another Season.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/03 - Radio.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/04 - Two Hearts in 3／4 Time.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/05 - Avalanche Rock.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/06 - Flight Tonight.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/07 - Close to You.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/08 - Diners Only.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/09 - A Different Feeling.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/10 - Electricity.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/11 - Tonight.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/12 - Pablo's Cruise.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/13 - Frontier Psychiatrist.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/14 - Etoh.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/15 - Summer Crane.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/16 - Little Journey.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/17 - Live at Dominoes.flac
+/home/gergo/music/The Avalanches/2000 - Since I Left You/18 - Extra Kings.flac
 /home/gergo/music/Bob Dylan/1966 - Blonde On Blonde/01 - Rainy Day Women #12 & 35.mp3
 /home/gergo/music/Bob Dylan/1966 - Blonde On Blonde/02 - Pledging My Time.mp3
 /home/gergo/music/Bob Dylan/1966 - Blonde On Blonde/03 - Visions of Johanna.mp3
@@ -220,6 +224,23 @@
 /home/gergo/music/Brockhampton/Brockhampton - Ginger/10 BIG BOY.mp3
 /home/gergo/music/Brockhampton/Brockhampton - Ginger/11 LOVE ME FOR LIFE.mp3
 /home/gergo/music/Brockhampton/Brockhampton - Ginger/12 VICTOR ROBERTS.mp3
+/home/gergo/music/Brockhampton/Roadrunner/01 - BUZZCUT (feat. Danny Brown).flac
+/home/gergo/music/Brockhampton/Roadrunner/02 - CHAIN ON (feat. JPEGMAFIA).flac
+/home/gergo/music/Brockhampton/Roadrunner/03 - COUNT ON ME.flac
+/home/gergo/music/Brockhampton/Roadrunner/04 - BANKROLL (feat. A$AP Rocky & A$AP Ferg).flac
+/home/gergo/music/Brockhampton/Roadrunner/05 - THE LIGHT.flac
+/home/gergo/music/Brockhampton/Roadrunner/06 - WINDOWS (feat. SoGone SoFlexy).flac
+/home/gergo/music/Brockhampton/Roadrunner/07 - I'LL TAKE YOU ON (feat. Charlie Wilson).flac
+/home/gergo/music/Brockhampton/Roadrunner/08 - OLD NEWS (feat. Baird).flac
+/home/gergo/music/Brockhampton/Roadrunner/09 - WHAT'S THE OCCASION.flac
+/home/gergo/music/Brockhampton/Roadrunner/10 - WHEN I BALL.flac
+/home/gergo/music/Brockhampton/Roadrunner/11 - DON'T SHOOT UP THE PARTY.flac
+/home/gergo/music/Brockhampton/Roadrunner/12 - DEAR LORD.flac
+/home/gergo/music/Brockhampton/Roadrunner/13 - THE LIGHT PT. II.flac
+/home/gergo/music/Brockhampton/Roadrunner/14 - ROBERTO'S INTERLUDE.flac
+/home/gergo/music/Brockhampton/Roadrunner/15 - JEREMIAH.flac
+/home/gergo/music/Brockhampton/Roadrunner/16 - SEX.flac
+/home/gergo/music/Brockhampton/Roadrunner/17 - PRESSURE , BOW WOW (feat. ssgkobe).flac
 /home/gergo/music/Brockhampton/BROCKHAMPTON - 2022 - The Family/01. Take It Back.mp3
 /home/gergo/music/Brockhampton/BROCKHAMPTON - 2022 - The Family/02. RZA.mp3
 /home/gergo/music/Brockhampton/BROCKHAMPTON - 2022 - The Family/03. Gold Teeth.mp3
@@ -377,6 +398,21 @@
 /home/gergo/music/Death Grips/Exmilitary/Death Grips - Exmilitary - 11 - Known for it.mp3
 /home/gergo/music/Death Grips/Exmilitary/Death Grips - Exmilitary - 12 - I Want it I need it (Death Heated).mp3
 /home/gergo/music/Death Grips/Exmilitary/Death Grips - Exmilitary - 13 - Blood Creepin.mp3
+/home/gergo/music/Earl Sweatshirt/Earl Sweatshirt - Some Rap Songs (2018) [19075898042] [CD FLAC]/01 - Shattered Dreams.flac
+/home/gergo/music/Earl Sweatshirt/Earl Sweatshirt - Some Rap Songs (2018) [19075898042] [CD FLAC]/02 - Red Water.flac
+/home/gergo/music/Earl Sweatshirt/Earl Sweatshirt - Some Rap Songs (2018) [19075898042] [CD FLAC]/03 - Cold Summers.flac
+/home/gergo/music/Earl Sweatshirt/Earl Sweatshirt - Some Rap Songs (2018) [19075898042] [CD FLAC]/04 - Nowhere2go.flac
+/home/gergo/music/Earl Sweatshirt/Earl Sweatshirt - Some Rap Songs (2018) [19075898042] [CD FLAC]/05 - December 24.flac
+/home/gergo/music/Earl Sweatshirt/Earl Sweatshirt - Some Rap Songs (2018) [19075898042] [CD FLAC]/06 - Ontheway!.flac
+/home/gergo/music/Earl Sweatshirt/Earl Sweatshirt - Some Rap Songs (2018) [19075898042] [CD FLAC]/07 - The Mint.flac
+/home/gergo/music/Earl Sweatshirt/Earl Sweatshirt - Some Rap Songs (2018) [19075898042] [CD FLAC]/08 - The Bends.flac
+/home/gergo/music/Earl Sweatshirt/Earl Sweatshirt - Some Rap Songs (2018) [19075898042] [CD FLAC]/09 - Loosie.flac
+/home/gergo/music/Earl Sweatshirt/Earl Sweatshirt - Some Rap Songs (2018) [19075898042] [CD FLAC]/10 - Azucar.flac
+/home/gergo/music/Earl Sweatshirt/Earl Sweatshirt - Some Rap Songs (2018) [19075898042] [CD FLAC]/11 - Eclipse.flac
+/home/gergo/music/Earl Sweatshirt/Earl Sweatshirt - Some Rap Songs (2018) [19075898042] [CD FLAC]/12 - Veins.flac
+/home/gergo/music/Earl Sweatshirt/Earl Sweatshirt - Some Rap Songs (2018) [19075898042] [CD FLAC]/13 - Playing Possum.flac
+/home/gergo/music/Earl Sweatshirt/Earl Sweatshirt - Some Rap Songs (2018) [19075898042] [CD FLAC]/14 - Peanut.flac
+/home/gergo/music/Earl Sweatshirt/Earl Sweatshirt - Some Rap Songs (2018) [19075898042] [CD FLAC]/15 - Riot!.flac
 /home/gergo/music/Elliott Smith/1994 - Roman Candle/01 - Roman Candle.mp3
 /home/gergo/music/Elliott Smith/1994 - Roman Candle/02 - Condor Ave.mp3
 /home/gergo/music/Elliott Smith/1994 - Roman Candle/03 - No Name #1.mp3
@@ -609,6 +645,17 @@
 /home/gergo/music/Elliott Smith/2012 - Grand Mal - Studio Rarities - Expanded - 8 Disc/Disc 8 - Crushed Blind (even more alt versions)/18 High Times [alt mix].mp3
 /home/gergo/music/Elliott Smith/2012 - Grand Mal - Studio Rarities - Expanded - 8 Disc/Disc 8 - Crushed Blind (even more alt versions)/19 Stickman [acoustic alt version].mp3
 /home/gergo/music/Elliott Smith/2012 - Grand Mal - Studio Rarities - Expanded - 8 Disc/Disc 8 - Crushed Blind (even more alt versions)/20 True Love [instrumental].mp3
+/home/gergo/music/Feist/Pleasure/01-Pleasure.flac
+/home/gergo/music/Feist/Pleasure/02-I Wish I Didn't Miss You.flac
+/home/gergo/music/Feist/Pleasure/03-Get Not High, Get Not Low.flac
+/home/gergo/music/Feist/Pleasure/04-Lost Dreams.flac
+/home/gergo/music/Feist/Pleasure/05-Any Party.flac
+/home/gergo/music/Feist/Pleasure/06-A Man Is Not His Song.flac
+/home/gergo/music/Feist/Pleasure/07-The Wind.flac
+/home/gergo/music/Feist/Pleasure/08-Century.flac
+/home/gergo/music/Feist/Pleasure/09-Baby Be Simple.flac
+/home/gergo/music/Feist/Pleasure/10-I'm Not Running Away.flac
+/home/gergo/music/Feist/Pleasure/11-Young Up.flac
 /home/gergo/music/Feist/Multitudes/01 - In Lightning.mp3
 /home/gergo/music/Feist/Multitudes/02 - Forever Before.mp3
 /home/gergo/music/Feist/Multitudes/03 - Love Who We Are Meant To.mp3
@@ -621,85 +668,28 @@
 /home/gergo/music/Feist/Multitudes/10 - Martyr Moves.mp3
 /home/gergo/music/Feist/Multitudes/11 - Calling All the Gods.mp3
 /home/gergo/music/Feist/Multitudes/12 - Song for Sad Friends.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/01 Christmas Star - Preparing the Trap.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/01 Somewhere In My Memory.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/02 Another Christmas In the Trenches.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/02 Star of Bethlehem.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/03 Home Alone (Main Title).mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/03 Running Through Town.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/04 Luring the Thieves.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/04 This Year's Wish.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/05 Kevin's Booby Traps.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/05 We Overslept Again - Holiday Flight.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/06 Down the Rope - Into the Park.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/06 Separate Vacations.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/07 Arrival In New York.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/07 Reunion At Rockefeller Center - It's Christmas.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/08 Finale.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/08 The Thieves Return.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/09 Plaza Hotel.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/09 We Wish You a Merry Christmas - Merry Christmas, Merry Christmas.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/10 Concierge.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/10 End Titles ('Somewhere In My Memory').mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/11 Distant Goodnights (Christmas Star).mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/11 God Rest You Merry, Gentlemen - Good King Wenceslas.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/12 A Day In the City.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/12 The Christmas Song.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/13 Duncan's Toy Store.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/13 Let It Snow! Let It Snow! Let It Snow!.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/14 Turtle Doves.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/14 Winter Wonderland.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/15 My Christmas Tree.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/15 To The Plaza, Presto.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/16 Christmas Star.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/16 Race To the Room - Hot Pursuit.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/17 Haunted Brownstone.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/17 Merry Christmas, Merry Christmas (Alternate).mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/18 Appearance of the Pigeon Lady.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/18 Celebrity Ding-Dang-Dong.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 1/19 Christmas At Carnegie Hall (O Come, All Ye Faithful - O Little Town Of Bethlehem - Silent Night).mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/19 Holiday Flight (Alternate).mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/20 Suite From 'Angels With Filthy Souls II'.mp3
-/home/gergo/music/Home alone/Home Alone 2- Lost In New York/Disc 2/21 Merry Christmas, Merry Christmas (Orchestra).mp3
-/home/gergo/music/Home alone/Home Alone/01 Somewhere In My Memory.mp3
-/home/gergo/music/Home alone/Home Alone/02 Star of Bethlehem (Orchestral Version).mp3
-/home/gergo/music/Home alone/Home Alone/03 Home Alone (Main Theme).mp3
-/home/gergo/music/Home alone/Home Alone/04 Go Pack Your Suitcase - Introducing Marley - In Good Hands.mp3
-/home/gergo/music/Home alone/Home Alone/05 Banished To the Attick.mp3
-/home/gergo/music/Home alone/Home Alone/06 We Slept In - Hard Count.mp3
-/home/gergo/music/Home alone/Home Alone/07 Making the Plane.mp3
-/home/gergo/music/Home alone/Home Alone/08 The Basement.mp3
-/home/gergo/music/Home alone/Home Alone/09 Target Practice - Sledding On the Stairs.mp3
-/home/gergo/music/Home alone/Home Alone/10 Lights On - Guess Who's Home - Paris Arrival.mp3
-/home/gergo/music/Home alone/Home Alone/11 The Man of the House - Police Check.mp3
-/home/gergo/music/Home alone/Home Alone/12 The Bookshelf.mp3
-/home/gergo/music/Home alone/Home Alone/13 Phone Machine - Drug Store - Escape Across the Ice.mp3
-/home/gergo/music/Home alone/Home Alone/14 Follow That Kid!.mp3
-/home/gergo/music/Home alone/Home Alone/15 Listening To Carson.mp3
-/home/gergo/music/Home alone/Home Alone/16 Cleaning Clothes - Kitchen.mp3
-/home/gergo/music/Home alone/Home Alone/17 Scammed By a Kindergartner.mp3
-/home/gergo/music/Home alone/Home Alone/18 Walking Home (Somewhere In My Memory).mp3
-/home/gergo/music/Home alone/Home Alone/19 O Holy Night.mp3
-/home/gergo/music/Home alone/Home Alone/20 Star of Bethlehem.mp3
-/home/gergo/music/Home alone/Home Alone/21 Carol of the Bells.mp3
-/home/gergo/music/Home alone/Home Alone/22 Setting the Trap.mp3
-/home/gergo/music/Home alone/Home Alone/23 The Attack Begins.mp3
-/home/gergo/music/Home alone/Home Alone/24 Marv Enters the Basement - A Hot Hand - Sore Head.mp3
-/home/gergo/music/Home alone/Home Alone/25 Paint Cans.mp3
-/home/gergo/music/Home alone/Home Alone/26 Clothesline Trapeze - Marley To the Rescue.mp3
-/home/gergo/music/Home alone/Home Alone/27 The Next Morning - Mom Returns - Finale.mp3
-/home/gergo/music/Home alone/Home Alone/28 We Wish You a Merry Christmas - End Title (Somewhere In My Memory).mp3
-/home/gergo/music/Home alone/Home Alone/29 Walking Home (Without Chorus).mp3
-/home/gergo/music/Home alone/Home Alone/30 Clothesline Trapeze (Film Version Insert).mp3
-/home/gergo/music/Home alone/Home Alone/31 Jingle Bells.mp3
-/home/gergo/music/Home alone/Home Alone/32 Christmas Carol Medley.mp3
-/home/gergo/music/Home alone/Home Alone/33 Finale (Alternate - O Holy Night).mp3
-/home/gergo/music/Home alone/Home Alone/34 We Wish You a Merry Christmas - End Title (Somewhere In My Memory) [Original Soundtrack Version].mp3
 /home/gergo/music/Florist/Holdly/Florist - Holdly EP - 01 Vacation.mp3
 /home/gergo/music/Florist/Holdly/Florist - Holdly EP - 02 Cool And Refreshing.mp3
 /home/gergo/music/Florist/Holdly/Florist - Holdly EP - 03 Unholy Faces.mp3
 /home/gergo/music/Florist/Holdly/Florist - Holdly EP - 04 Remembering Spring 2013.mp3
 /home/gergo/music/Florist/Holdly/Florist - Holdly EP - 05 Holdly.mp3
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/01. Nikes.flac
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/02. Ivy.flac
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/03. Pink + White.flac
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/04. Be Yourself.flac
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/05. Solo.flac
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/06. Skyline To (feat. Kendrick Lamar).flac
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/07. Self Control (feat. Austin Feinstein & Yung Leao).flac
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/08. Good Guy.flac
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/09. Nights.flac
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/10. Solo (Reprise) (feat. Andre 3000).flac
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/11. Pretty Sweet.flac
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/12. Facebook Story (feat. SebastiAn).flac
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/13. Close To You.flac
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/14. White Ferrari (feat. James Blake).flac
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/15. Seigfried.flac
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/16. Godspeed (feat. Kimm Burrell).flac
+/home/gergo/music/Frank Ocean/Frank Ocean - Blonde (2016) [Black Friday Release, Boys Don't Cry] [CD FLAC]/17. Futura Free.flac
 /home/gergo/music/various artists/Kankyo Ongaku_ Japanese Ambient, Environmental & New Age Music 1980-1990/2-04 See the Light (Abridged).mp3
 /home/gergo/music/Gang of Four/Entertainment!/01 Ether.mp3
 /home/gergo/music/Gang of Four/Entertainment!/02 Natural's Not in It.mp3
@@ -791,6 +781,27 @@
 /home/gergo/music/Jesca Hoop/Memories Are Now/08 - Pegasi.flac
 /home/gergo/music/Jesca Hoop/Memories Are Now/09 - The Coming.flac
 /home/gergo/music/various artists/Kankyo Ongaku_ Japanese Ambient, Environmental & New Age Music 1980-1990/1-04 Islander.mp3
+/home/gergo/music/John Lennon/Plastic Ono Band/01-Mother.flac
+/home/gergo/music/John Lennon/Plastic Ono Band/02-Hold On.flac
+/home/gergo/music/John Lennon/Plastic Ono Band/03-I Found Out.flac
+/home/gergo/music/John Lennon/Plastic Ono Band/04-Working Class Hero.flac
+/home/gergo/music/John Lennon/Plastic Ono Band/05-Isolation.flac
+/home/gergo/music/John Lennon/Plastic Ono Band/06-Remember.flac
+/home/gergo/music/John Lennon/Plastic Ono Band/07-Love.flac
+/home/gergo/music/John Lennon/Plastic Ono Band/08-Well Well Well.flac
+/home/gergo/music/John Lennon/Plastic Ono Band/09-Look At Me.flac
+/home/gergo/music/John Lennon/Plastic Ono Band/10-God.flac
+/home/gergo/music/John Lennon/Plastic Ono Band/11-My Mummy's Dead.flac
+/home/gergo/music/John Lennon/Imagine/01-Imagine.flac
+/home/gergo/music/John Lennon/Imagine/02-Crippled Inside.flac
+/home/gergo/music/John Lennon/Imagine/03-Jealous Guy.flac
+/home/gergo/music/John Lennon/Imagine/04-It's So Hard.flac
+/home/gergo/music/John Lennon/Imagine/05-I Don't Wanna Be A Soldier Mama.flac
+/home/gergo/music/John Lennon/Imagine/06-Gimme Some Truth.flac
+/home/gergo/music/John Lennon/Imagine/07-Oh My Love.flac
+/home/gergo/music/John Lennon/Imagine/08-How Do You Sleep.flac
+/home/gergo/music/John Lennon/Imagine/09-How.flac
+/home/gergo/music/John Lennon/Imagine/10-Oh Yoko!.flac
 /home/gergo/music/JPEGmafia/Veteran/JPEGMAFIA - Veteran - 01 1539 N. Calvert.mp3
 /home/gergo/music/JPEGmafia/Veteran/JPEGMAFIA - Veteran - 02 Real Nega.mp3
 /home/gergo/music/JPEGmafia/Veteran/JPEGMAFIA - Veteran - 03 Thug Tears.mp3
@@ -870,6 +881,18 @@
 /home/gergo/music/Juice WRLD/Goodbye and good riddance/Juice WRLD - Long Gone (Official Audio).mp3
 /home/gergo/music/Juice WRLD/Goodbye and good riddance/Juice WRLD - I'll Be Fine (Official Audio).mp3
 /home/gergo/music/various artists/Kankyo Ongaku_ Japanese Ambient, Environmental & New Age Music 1980-1990/2-06 Breathing New Life.mp3
+/home/gergo/music/Justice/2007 - † (Cross)/01 - Genesis.flac
+/home/gergo/music/Justice/2007 - † (Cross)/02 - Let There Be Light.flac
+/home/gergo/music/Justice/2007 - † (Cross)/03 - D.A.N.C.E..flac
+/home/gergo/music/Justice/2007 - † (Cross)/04 - Newjack.flac
+/home/gergo/music/Justice/2007 - † (Cross)/05 - Phantom.flac
+/home/gergo/music/Justice/2007 - † (Cross)/06 - Phantom (Pt II).flac
+/home/gergo/music/Justice/2007 - † (Cross)/07 - Valentine.flac
+/home/gergo/music/Justice/2007 - † (Cross)/09 - DVNO.flac
+/home/gergo/music/Justice/2007 - † (Cross)/10 - Stress.flac
+/home/gergo/music/Justice/2007 - † (Cross)/11 - Waters Of Nazareth.flac
+/home/gergo/music/Justice/2007 - † (Cross)/12 - One Minute To Midnight.flac
+/home/gergo/music/Justice/2007 - † (Cross)/08 - Justice Ft. Uffie - Tthhee Ppaarrttyy.flac
 /home/gergo/music/Kanye West/2004 - The College Dropout/01 - Intro.mp3
 /home/gergo/music/Kanye West/2004 - The College Dropout/02 - We Don't Care.mp3
 /home/gergo/music/Kanye West/2004 - The College Dropout/03 - Graduation Day.mp3
@@ -891,17 +914,71 @@
 /home/gergo/music/Kanye West/2004 - The College Dropout/19 - Through The Wire.mp3
 /home/gergo/music/Kanye West/2004 - The College Dropout/20 - Family Business.mp3
 /home/gergo/music/Kanye West/2004 - The College Dropout/21 - Last Call.mp3
-/home/gergo/music/Jesus Is King/01 - Every Hour.flac
-/home/gergo/music/Jesus Is King/02 - Selah.flac
-/home/gergo/music/Jesus Is King/03 - Follow God.flac
-/home/gergo/music/Jesus Is King/04 - Closed on Sunday.flac
-/home/gergo/music/Jesus Is King/05 - On God.flac
-/home/gergo/music/Jesus Is King/06 - Everything We Need.flac
-/home/gergo/music/Jesus Is King/07 - Water.flac
-/home/gergo/music/Jesus Is King/08 - God Is.flac
-/home/gergo/music/Jesus Is King/09 - Hands On.flac
-/home/gergo/music/Jesus Is King/10 - Use This Gospel.flac
-/home/gergo/music/Jesus Is King/11 - Jesus Is Lord.flac
+/home/gergo/music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/01 Dark Fantasy.flac
+/home/gergo/music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/02 Gorgeous.flac
+/home/gergo/music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/03 Power.flac
+/home/gergo/music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/04 All of the Lights (interlude).flac
+/home/gergo/music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/05 All of the Lights.flac
+/home/gergo/music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/06 Monster.flac
+/home/gergo/music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/07 So Appalled.flac
+/home/gergo/music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/08 Devil in a New Dress.flac
+/home/gergo/music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/09 Runaway.flac
+/home/gergo/music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/10 Hell of a Life.flac
+/home/gergo/music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/11 Blame Game.flac
+/home/gergo/music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/12 Lost in the World.flac
+/home/gergo/music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/13 Who Will Survive in America.flac
+/home/gergo/music/Kanye West/Kanye West - Yeezus (2013) [B0018653-02] [CD FLAC]/01 - On Sight.flac
+/home/gergo/music/Kanye West/Kanye West - Yeezus (2013) [B0018653-02] [CD FLAC]/02 - Black Skinhead.flac
+/home/gergo/music/Kanye West/Kanye West - Yeezus (2013) [B0018653-02] [CD FLAC]/03 - I Am A God (feat. God).flac
+/home/gergo/music/Kanye West/Kanye West - Yeezus (2013) [B0018653-02] [CD FLAC]/04 - New Slaves.flac
+/home/gergo/music/Kanye West/Kanye West - Yeezus (2013) [B0018653-02] [CD FLAC]/05 - Hold My Liquor.flac
+/home/gergo/music/Kanye West/Kanye West - Yeezus (2013) [B0018653-02] [CD FLAC]/06 - I'm In It.flac
+/home/gergo/music/Kanye West/Kanye West - Yeezus (2013) [B0018653-02] [CD FLAC]/07 - Blood On The Leaves.flac
+/home/gergo/music/Kanye West/Kanye West - Yeezus (2013) [B0018653-02] [CD FLAC]/08 - Guilt Trip.flac
+/home/gergo/music/Kanye West/Kanye West - Yeezus (2013) [B0018653-02] [CD FLAC]/09 - Send It Up.flac
+/home/gergo/music/Kanye West/Kanye West - Yeezus (2013) [B0018653-02] [CD FLAC]/10 - Bound 2.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/01 - Ultralight Beam.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/02 - Father Stretch My Hands Pt. 1.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/03 - Pt. 2.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/04 - Famous.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/05 - Feedback.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/06 - Low Lights.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/07 - Highlights.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/08 - Freestyle 4.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/09 - I Love Kanye.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/10 - Waves.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/11 - FML.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/12 - Real Friends.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/13 - Wolves.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/14 - Frank's Track.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/15 - Siiiiiiiiilver Surffffeeeeer Intermission.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/16 - 30 Hours.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/17 - No More Parties In LA.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/18 - Facts (Charlie Heat Version).flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/19 - Fade.flac
+/home/gergo/music/Kanye West/2016 - The Life Of Pablo/20 - Saint Pablo.flac
+/home/gergo/music/Kanye West/Kanye West - 2019 - Jesus Is King/01. Every Hour.flac
+/home/gergo/music/Kanye West/Kanye West - 2019 - Jesus Is King/02. Selah.flac
+/home/gergo/music/Kanye West/Kanye West - 2019 - Jesus Is King/03. Follow God.flac
+/home/gergo/music/Kanye West/Kanye West - 2019 - Jesus Is King/04. Closed On Sunday.flac
+/home/gergo/music/Kanye West/Kanye West - 2019 - Jesus Is King/05. On God.flac
+/home/gergo/music/Kanye West/Kanye West - 2019 - Jesus Is King/06. Everything We Need.flac
+/home/gergo/music/Kanye West/Kanye West - 2019 - Jesus Is King/07. Water.flac
+/home/gergo/music/Kanye West/Kanye West - 2019 - Jesus Is King/08. God Is.flac
+/home/gergo/music/Kanye West/Kanye West - 2019 - Jesus Is King/09. Hands On.flac
+/home/gergo/music/Kanye West/Kanye West - 2019 - Jesus Is King/10. Use This Gospel.flac
+/home/gergo/music/Kanye West/Kanye West - 2019 - Jesus Is King/11. Jesus Is Lord.flac
+/home/gergo/music/Kanye West/Jesus Is King/01 - Every Hour.flac
+/home/gergo/music/Kanye West/Jesus Is King/02 - Selah.flac
+/home/gergo/music/Kanye West/Jesus Is King/03 - Follow God.flac
+/home/gergo/music/Kanye West/Jesus Is King/04 - Closed on Sunday.flac
+/home/gergo/music/Kanye West/Jesus Is King/05 - On God.flac
+/home/gergo/music/Kanye West/Jesus Is King/06 - Everything We Need.flac
+/home/gergo/music/Kanye West/Jesus Is King/07 - Water.flac
+/home/gergo/music/Kanye West/Jesus Is King/08 - God Is.flac
+/home/gergo/music/Kanye West/Jesus Is King/09 - Hands On.flac
+/home/gergo/music/Kanye West/Jesus Is King/10 - Use This Gospel.flac
+/home/gergo/music/Kanye West/Jesus Is King/11 - Jesus Is Lord.flac
 /home/gergo/music/Kanye West/Kanye West - Donda (2021) Mp3 320kbps [PMEDIA] ⭐️/01. Donda Chant.mp3
 /home/gergo/music/Kanye West/Kanye West - Donda (2021) Mp3 320kbps [PMEDIA] ⭐️/02. Jail.mp3
 /home/gergo/music/Kanye West/Kanye West - Donda (2021) Mp3 320kbps [PMEDIA] ⭐️/03. God Breathed.mp3
@@ -929,22 +1006,38 @@
 /home/gergo/music/Kanye West/Kanye West - Donda (2021) Mp3 320kbps [PMEDIA] ⭐️/25. Ok Ok pt 2.mp3
 /home/gergo/music/Kanye West/Kanye West - Donda (2021) Mp3 320kbps [PMEDIA] ⭐️/26. Junya pt 2.mp3
 /home/gergo/music/Kanye West/Kanye West - Donda (2021) Mp3 320kbps [PMEDIA] ⭐️/27. Jesus Lord pt 2.mp3
-/home/gergo/music/Vultures/01. STARS.flac
-/home/gergo/music/Vultures/02. KEYS TO MY LIFE.flac
-/home/gergo/music/Vultures/03. PAID.flac
-/home/gergo/music/Vultures/04. TALKING.flac
-/home/gergo/music/Vultures/05. BACK TO ME.flac
-/home/gergo/music/Vultures/06. HOODRAT.flac
-/home/gergo/music/Vultures/07. DO IT.flac
-/home/gergo/music/Vultures/08. PAPERWORK.flac
-/home/gergo/music/Vultures/09. BURN.flac
-/home/gergo/music/Vultures/10. FUK SUMN.flac
-/home/gergo/music/Vultures/11. VULTURES.flac
-/home/gergo/music/Vultures/12. CARNIVAL.flac
-/home/gergo/music/Vultures/13. BEG FORGIVENESS.flac
-/home/gergo/music/Vultures/14. GOOD (DON'T DIE).flac
-/home/gergo/music/Vultures/15. PROBLEMATIC.flac
-/home/gergo/music/Vultures/16. KING.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-01 Donda Chant.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-02 Hurricane.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-03 Moon.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-04 Life Of The Party.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-05 Off The Grid.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-06 Jail.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-07 Praise God.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-08 Come to Life.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-09 Believe What I Say.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-10 No Child Left Behind.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-11 Up From The Ashes.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-12 Remote Control pt 2.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-13 God Breathed.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-14 Lord I Need You.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-15 24.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-16 Junya.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-17 Never Abandon Your Family.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-18 Donda.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-19 Keep My Spirit Alive.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-20 Jesus Lord pt 2.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-21 Heaven and Hell.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-22 Remote Control.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-23 Tell The Vision.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-24 Jonah.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-25 Pure Souls.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-26 Ok Ok.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-27 New Again.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-28 Jesus Lord.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-29 Ok Ok pt 2.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-30 Junya pt 2.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-31 Jail pt 2.flac
+/home/gergo/music/Kanye West/2021 - Donda (Deluxe)/1-32 Keep My Spirit Alive pt 2.flac
 /home/gergo/music/Kendrick Lamar/DAMN/01 - blood..mp3
 /home/gergo/music/Kendrick Lamar/DAMN/02 - dna..mp3
 /home/gergo/music/Kendrick Lamar/DAMN/03 - yah..mp3
@@ -959,6 +1052,24 @@
 /home/gergo/music/Kendrick Lamar/DAMN/12 - fear..mp3
 /home/gergo/music/Kendrick Lamar/DAMN/13 - god..mp3
 /home/gergo/music/Kendrick Lamar/DAMN/14 - duckworth..mp3
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/1.01 United In Grief.flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/1.02 N95.flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/1.03 Worldwide Steppers.flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/1.04 Die Hard.flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/1.05 Father Time.flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/1.06 Rich (Interlude).flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/1.07 Rich Spirit.flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/1.08 We Cry Together.flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/1.09 Purple Hearts.flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/2.01 Count Me Out.flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/2.02 Crown.flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/2.03 Silent Hill.flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/2.04 Savior (Interlude).flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/2.05 Savior.flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/2.06 Auntie Diaries.flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/2.07 Mr. Morale.flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/2.08 Mother I Sober.flac
+/home/gergo/music/Kendrick Lamar/2022 - Mr. Morale & The Big Stepper/2.09 Mirror.flac
 /home/gergo/music/Kanye West/Kanye West & Kid Cudi - Kids See Ghosts (2018)/01. Feel The Love (feat. Pusha T).mp3
 /home/gergo/music/Kanye West/Kanye West & Kid Cudi - Kids See Ghosts (2018)/02. Cudi Montage.mp3
 /home/gergo/music/Kanye West/Kanye West & Kid Cudi - Kids See Ghosts (2018)/03. 4th Dimension.mp3
@@ -973,12 +1084,44 @@
 /home/gergo/music/Kilo Kish/Redux (2019)/05 NICE OUT.mp3
 /home/gergo/music/various artists/Kankyo Ongaku_ Japanese Ambient, Environmental & New Age Music 1980-1990/2-10 Umi No Sunatsubu.mp3
 /home/gergo/music/various artists/Kankyo Ongaku_ Japanese Ambient, Environmental & New Age Music 1980-1990/1-06 Variation·III.mp3
+/home/gergo/music/Mort Garson/Mort Garson - Mother Earth's Plantasia/01. Plantasia.flac
+/home/gergo/music/Mort Garson/Mort Garson - Mother Earth's Plantasia/02. Symphony For A Spider Plant.flac
+/home/gergo/music/Mort Garson/Mort Garson - Mother Earth's Plantasia/03. Baby's Tears Blues.flac
+/home/gergo/music/Mort Garson/Mort Garson - Mother Earth's Plantasia/04. Ode To An African Violet.flac
+/home/gergo/music/Mort Garson/Mort Garson - Mother Earth's Plantasia/05. Concerto For Philodendron And Pothos.flac
+/home/gergo/music/Mort Garson/Mort Garson - Mother Earth's Plantasia/06. Rhapsody In Green.flac
+/home/gergo/music/Mort Garson/Mort Garson - Mother Earth's Plantasia/07. Swingin' Spathiphyllums.flac
+/home/gergo/music/Mort Garson/Mort Garson - Mother Earth's Plantasia/08. You Don't Need To Walk A Begonia.flac
+/home/gergo/music/Mort Garson/Mort Garson - Mother Earth's Plantasia/09. Mellow Mood For Maidenhair.flac
+/home/gergo/music/Mort Garson/Mort Garson - Mother Earth's Plantasia/10. Music To Soothe The Savage Snake Plant.flac
 /home/gergo/music/Other/Her_Movie_Ringtone-ringtone-1673435.mp3
 /home/gergo/music/NAH/Nurture/NAH - NURTURE - 01 sudden separation.mp3
 /home/gergo/music/NAH/Nurture/NAH - NURTURE - 02 thinking for you.mp3
 /home/gergo/music/NAH/Nurture/NAH - NURTURE - 03 pretty much forever.mp3
 /home/gergo/music/NAH/Nurture/NAH - NURTURE - 04 shouldn't.mp3
 /home/gergo/music/noise/waterfall.mp3
+/home/gergo/music/Neutral Milk Hotel/In the Aeroplane Over the Sea/01 - The King of Carrot Flowers Pt One.flac
+/home/gergo/music/Neutral Milk Hotel/In the Aeroplane Over the Sea/02 - The King of Carrot Flowers Pts Two & Three.flac
+/home/gergo/music/Neutral Milk Hotel/In the Aeroplane Over the Sea/03 - In the Aeroplane Over the Sea.flac
+/home/gergo/music/Neutral Milk Hotel/In the Aeroplane Over the Sea/04 - Two-Headed Boy.flac
+/home/gergo/music/Neutral Milk Hotel/In the Aeroplane Over the Sea/05 - The Fool.flac
+/home/gergo/music/Neutral Milk Hotel/In the Aeroplane Over the Sea/06 - Holland, 1945.flac
+/home/gergo/music/Neutral Milk Hotel/In the Aeroplane Over the Sea/07 - Communist Daughter.flac
+/home/gergo/music/Neutral Milk Hotel/In the Aeroplane Over the Sea/08 - Oh Comely.flac
+/home/gergo/music/Neutral Milk Hotel/In the Aeroplane Over the Sea/09 - Ghost.flac
+/home/gergo/music/Neutral Milk Hotel/In the Aeroplane Over the Sea/10 - [untitled].flac
+/home/gergo/music/Neutral Milk Hotel/In the Aeroplane Over the Sea/11 - Two-Headed Boy Pt Two.flac
+/home/gergo/music/Neutral Milk Hotel/In The Aeroplane Over The Sea/01 - King Of Carrot Flowers, Pt. 1.flac
+/home/gergo/music/Neutral Milk Hotel/In The Aeroplane Over The Sea/02 - King Of Carrot Flowers, Pts. 2 & 3.flac
+/home/gergo/music/Neutral Milk Hotel/In The Aeroplane Over The Sea/03 - In The Aeroplane Over The Sea.flac
+/home/gergo/music/Neutral Milk Hotel/In The Aeroplane Over The Sea/04 - Two-Headed Boy, Pt. 1.flac
+/home/gergo/music/Neutral Milk Hotel/In The Aeroplane Over The Sea/05 - Fool.flac
+/home/gergo/music/Neutral Milk Hotel/In The Aeroplane Over The Sea/06 - Holland, 1945.flac
+/home/gergo/music/Neutral Milk Hotel/In The Aeroplane Over The Sea/07 - Communist Daughter.flac
+/home/gergo/music/Neutral Milk Hotel/In The Aeroplane Over The Sea/08 - Oh Comely.flac
+/home/gergo/music/Neutral Milk Hotel/In The Aeroplane Over The Sea/09 - Ghost.flac
+/home/gergo/music/Neutral Milk Hotel/In The Aeroplane Over The Sea/10 - Untitled.flac
+/home/gergo/music/Neutral Milk Hotel/In The Aeroplane Over The Sea/11 - Two-Headed Boy, Pt. 2.flac
 /home/gergo/music/Noname/Telefone/Noname - Telefone - 01 Yesterday.mp3
 /home/gergo/music/Noname/Telefone/Noname - Telefone - 02 Sunny Duet Feat. theMIND.mp3
 /home/gergo/music/Noname/Telefone/Noname - Telefone - 03 Dibby Bop Feat. Raury & Cam O'bi.mp3
@@ -1022,6 +1165,18 @@
 /home/gergo/music/Omni Gardens/Golden Pear/10 honeywisp.mp3
 /home/gergo/music/Omni Gardens/Golden Pear/11 sunday robe.mp3
 /home/gergo/music/Omni Gardens/Golden Pear/12 autumn haze.mp3
+/home/gergo/music/Paul McCartney/Ram/01-Too many people.flac
+/home/gergo/music/Paul McCartney/Ram/02-3 Legs.flac
+/home/gergo/music/Paul McCartney/Ram/03-Ram on.flac
+/home/gergo/music/Paul McCartney/Ram/04-Dear boy.flac
+/home/gergo/music/Paul McCartney/Ram/05-Uncle Albert - Admiral Halsey.flac
+/home/gergo/music/Paul McCartney/Ram/06-Smile away.flac
+/home/gergo/music/Paul McCartney/Ram/07-Heart of the country.flac
+/home/gergo/music/Paul McCartney/Ram/08-Monkberry moon delight.flac
+/home/gergo/music/Paul McCartney/Ram/09-Eat at home.flac
+/home/gergo/music/Paul McCartney/Ram/10-Long haired lady.flac
+/home/gergo/music/Paul McCartney/Ram/11-Ram on.flac
+/home/gergo/music/Paul McCartney/Ram/12-The back seat of my car.flac
 /home/gergo/music/Penguin Café Orchestra/penguin cafe orchestra-penguin cafe orchestra(1981)/Penguin Cafe Orchestra-01 Air A Danser.mp3
 /home/gergo/music/Penguin Café Orchestra/penguin cafe orchestra-penguin cafe orchestra(1981)/Penguin Cafe Orchestra-02 Yodel 1.mp3
 /home/gergo/music/Penguin Café Orchestra/penguin cafe orchestra-penguin cafe orchestra(1981)/Penguin Cafe Orchestra-03 Telephone And Rubber Band.mp3
@@ -1082,6 +1237,20 @@
 /home/gergo/music/Phil Ochs/There But For Fortune [Compilation]/16 Love Me, I'm A Liberal.mp3
 /home/gergo/music/Phil Ochs/There But For Fortune [Compilation]/17 Changes.mp3
 /home/gergo/music/Phil Ochs/There But For Fortune [Compilation]/18 When I'm Gone.mp3
+/home/gergo/music/Porter Robinson/nurture-flac/nurture/01-lifelike.flac
+/home/gergo/music/Porter Robinson/nurture-flac/nurture/02-look-at-the-sky.flac
+/home/gergo/music/Porter Robinson/nurture-flac/nurture/03-get-your-wish.flac
+/home/gergo/music/Porter Robinson/nurture-flac/nurture/04-wind-tempos.flac
+/home/gergo/music/Porter Robinson/nurture-flac/nurture/05-musician.flac
+/home/gergo/music/Porter Robinson/nurture-flac/nurture/06-do-re-mi-fa-so-la-ti-do.flac
+/home/gergo/music/Porter Robinson/nurture-flac/nurture/07-mother.flac
+/home/gergo/music/Porter Robinson/nurture-flac/nurture/08-dullscythe.flac
+/home/gergo/music/Porter Robinson/nurture-flac/nurture/09-sweet-time.flac
+/home/gergo/music/Porter Robinson/nurture-flac/nurture/10-mirror.flac
+/home/gergo/music/Porter Robinson/nurture-flac/nurture/11-something-comforting.flac
+/home/gergo/music/Porter Robinson/nurture-flac/nurture/12-blossom.flac
+/home/gergo/music/Porter Robinson/nurture-flac/nurture/13-unfold.flac
+/home/gergo/music/Porter Robinson/nurture-flac/nurture/14-trying-to-feel-alive.flac
 /home/gergo/music/SALES/SALES - SALES LP - 01 over.mp3
 /home/gergo/music/SALES/SALES - SALES LP - 02 ivy.mp3
 /home/gergo/music/SALES/SALES - SALES LP - 03 checkin' out.mp3
@@ -1100,43 +1269,24 @@
 /home/gergo/music/various artists/Kankyo Ongaku_ Japanese Ambient, Environmental & New Age Music 1980-1990/1-01 Still Space.mp3
 /home/gergo/music/various artists/Kankyo Ongaku_ Japanese Ambient, Environmental & New Age Music 1980-1990/1-11 Tomoshibi (Abridged).mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 01 Requiem for Dying Mothers, Part 1.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 01 Requiem for Dying Mothers, Part 1.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 02 Requiem for Dying Mothers, Part 2.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 02 Requiem for Dying Mothers, Part 2.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 03 Down.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 03 Down.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 04 Austin Texas Mental Hospital, Part 1.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 04 Austin Texas Mental Hospital, Part 1.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 05 Austin Texas Mental Hospital, Part 2.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 05 Austin Texas Mental Hospital, Part 2.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 06 Austin Texas Mental Hospital, Part 3.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 06 Austin Texas Mental Hospital, Part 3.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 07 Broken Harbors, Part 1.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 07 Broken Harbors, Part 1.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 08 Broken Harbors, Part 2.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 08 Broken Harbors, Part 2.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 09 Broken Harbors, Part 3.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 09 Broken Harbors, Part 3.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 10 Mullholland.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 10 Mullholland.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 11 The Lonely People (Are Getting Lonelier).mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 11 The Lonely People (Are Getting Lonelier).mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 12 Gasfarming.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 12 Gasfarming.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 13 Piano Aquieu.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 13 Piano Aquieu.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 14 Fac 21.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 14 Fac 21.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 15 Ballad of Distances, Part 1.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 15 Ballad of Distances, Part 1.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 16 Ballad of Distances, Part 2.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 16 Ballad of Distances, Part 2.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 17 A Lovesong (For Cubs)+, Part 1.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 17 A Lovesong (For Cubs)+, Part 1.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 18 A Lovesong (For Cubs)+, Part 2.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 18 A Lovesong (For Cubs)+, Part 2.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 19 A Lovesong (For Cubs)+, Part 3.mp3
-/home/gergo/music/The tired sounds of/Stars of the Lid - The Tired Sounds of - 19 A Lovesong (For Cubs)+, Part 3.mp3
 /home/gergo/music/Sufjan Stevens/Songs for Christmas/Sufjan Stevens - Songs for Christmas - 01 Silent Night.mp3
 /home/gergo/music/Sufjan Stevens/Songs for Christmas/Sufjan Stevens - Songs for Christmas - 02 O Come O Come Emmanuel.mp3
 /home/gergo/music/Sufjan Stevens/Songs for Christmas/Sufjan Stevens - Songs for Christmas - 03 We’re Goin’ To the Country.mp3
@@ -1192,6 +1342,27 @@
 /home/gergo/music/TEMPOREX/Care/TEMPOREX - Care - 09 Vacant Eyes.mp3
 /home/gergo/music/TEMPOREX/Care/TEMPOREX - Care - 10 Lets Keep It Virtual.mp3
 /home/gergo/music/TEMPOREX/Care/TEMPOREX - Care - 11 Around You.mp3
+/home/gergo/music/The Avalanches/2016 - Wildflower/01 - The Avalanches - The Leaves Were Falling.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/02 - The Avalanches feat. Camp Lo - Because I'm Me.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/03 - The Avalanches feat. Danny Brown & MF DOOM - Frankie Sinatra.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/04 - The Avalanches - Subways.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/05 - The Avalanches - Going Home.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/06 - The Avalanches feat. Toro y Moi - If I Was a Folkstar.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/07 - The Avalanches feat. Jonathan Donahue - Colours.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/08 - The Avalanches - Zap!.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/09 - The Avalanches feat. Biz Markie & Jean-Michel Bernard - The Noisy Eater.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/10 - The Avalanches - Wildflower.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/11 - The Avalanches - Harmony.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/12 - The Avalanches feat. A.Dd+, Ariel Pink & Paris Pershun - Live a Lifetime Love.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/13 - The Avalanches - Park Music.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/14 - The Avalanches - Livin' Underwater (Is Somethin' Wild).flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/15 - The Avalanches feat. Danny Brown - The Wozard of Iz.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/16 - The Avalanches - Over the Turnstiles.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/17 - The Avalanches - Sunshine.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/18 - The Avalanches - Light Up.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/19 - The Avalanches - Kaleidoscopic Lovers.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/20 - The Avalanches feat. Jennifer Herrema & Warren Ellis - Stepkids.flac
+/home/gergo/music/The Avalanches/2016 - Wildflower/21 - The Avalanches feat. Father John Misty & David Berman - Saturday Night Inside Out.flac
 /home/gergo/music/Beach Boys/Pet Sounds (Stereo)/01 Wouldn't It Be Nice.mp3
 /home/gergo/music/Beach Boys/Pet Sounds (Stereo)/02 You Still Believe In Me.mp3
 /home/gergo/music/Beach Boys/Pet Sounds (Stereo)/03 That's Not Me.mp3
@@ -1205,20 +1376,20 @@
 /home/gergo/music/Beach Boys/Pet Sounds (Stereo)/11 I Just Wasn't Made For These Times.mp3
 /home/gergo/music/Beach Boys/Pet Sounds (Stereo)/12 Pet Sounds.mp3
 /home/gergo/music/Beach Boys/Pet Sounds (Stereo)/13 Caroline, No.mp3
-/home/gergo/music/Beatles/kk/01. I Saw Her Standing There - The Beatles.mp3
-/home/gergo/music/Beatles/kk/02. Misery - The Beatles.mp3
-/home/gergo/music/Beatles/kk/03. Anna (Go To Him) - The Beatles.mp3
-/home/gergo/music/Beatles/kk/04. Chains - The Beatles.mp3
-/home/gergo/music/Beatles/kk/05. Boys - The Beatles.mp3
-/home/gergo/music/Beatles/kk/06. Ask Me Why - The Beatles.mp3
-/home/gergo/music/Beatles/kk/07. Please Please Me - The Beatles.mp3
-/home/gergo/music/Beatles/kk/08. Love Me Do - The Beatles.mp3
-/home/gergo/music/Beatles/kk/09. P.S. I Love You - The Beatles.mp3
-/home/gergo/music/Beatles/kk/10. Baby It's You - The Beatles.mp3
-/home/gergo/music/Beatles/kk/11. Do You Want To Know A Secret - The Beatles.mp3
-/home/gergo/music/Beatles/kk/12. A Taste Of Honey - The Beatles.mp3
-/home/gergo/music/Beatles/kk/13. There's A Place - The Beatles.mp3
-/home/gergo/music/Beatles/kk/14. Twist And Shout - The Beatles.mp3
+/home/gergo/music/Beatles/Please, please me/01. I Saw Her Standing There - The Beatles.mp3
+/home/gergo/music/Beatles/Please, please me/02. Misery - The Beatles.mp3
+/home/gergo/music/Beatles/Please, please me/03. Anna (Go To Him) - The Beatles.mp3
+/home/gergo/music/Beatles/Please, please me/04. Chains - The Beatles.mp3
+/home/gergo/music/Beatles/Please, please me/05. Boys - The Beatles.mp3
+/home/gergo/music/Beatles/Please, please me/06. Ask Me Why - The Beatles.mp3
+/home/gergo/music/Beatles/Please, please me/07. Please Please Me - The Beatles.mp3
+/home/gergo/music/Beatles/Please, please me/08. Love Me Do - The Beatles.mp3
+/home/gergo/music/Beatles/Please, please me/09. P.S. I Love You - The Beatles.mp3
+/home/gergo/music/Beatles/Please, please me/10. Baby It's You - The Beatles.mp3
+/home/gergo/music/Beatles/Please, please me/11. Do You Want To Know A Secret - The Beatles.mp3
+/home/gergo/music/Beatles/Please, please me/12. A Taste Of Honey - The Beatles.mp3
+/home/gergo/music/Beatles/Please, please me/13. There's A Place - The Beatles.mp3
+/home/gergo/music/Beatles/Please, please me/14. Twist And Shout - The Beatles.mp3
 /home/gergo/music/Beatles/(1965) Help!/01. Help! - The Beatles.mp3
 /home/gergo/music/Beatles/(1965) Help!/02. The Night Before - The Beatles.mp3
 /home/gergo/music/Beatles/(1965) Help!/03. You've Got To Hide Your Love Away - The Beatles.mp3
@@ -1233,6 +1404,34 @@
 /home/gergo/music/Beatles/(1965) Help!/12. I`ve Just Seen A Face - The Beatles.mp3
 /home/gergo/music/Beatles/(1965) Help!/13. Yesterday - The Beatles.mp3
 /home/gergo/music/Beatles/(1965) Help!/14. Dizzy Miss Lizzy - The Beatles.mp3
+/home/gergo/music/Beatles/1965 - Rubber Soul/01 - Drive My Car.mp3
+/home/gergo/music/Beatles/1965 - Rubber Soul/02 - Norwegian Wood (This Bird Has Flown).mp3
+/home/gergo/music/Beatles/1965 - Rubber Soul/03 - You Won't See Me.mp3
+/home/gergo/music/Beatles/1965 - Rubber Soul/04 - Nowhere Man.mp3
+/home/gergo/music/Beatles/1965 - Rubber Soul/05 - Think For Yourself.mp3
+/home/gergo/music/Beatles/1965 - Rubber Soul/06 - The Word.mp3
+/home/gergo/music/Beatles/1965 - Rubber Soul/07 - Michelle.mp3
+/home/gergo/music/Beatles/1965 - Rubber Soul/08 - What Goes On.mp3
+/home/gergo/music/Beatles/1965 - Rubber Soul/09 - Girl.mp3
+/home/gergo/music/Beatles/1965 - Rubber Soul/10 - I'm Looking Through You.mp3
+/home/gergo/music/Beatles/1965 - Rubber Soul/11 - In My Life.mp3
+/home/gergo/music/Beatles/1965 - Rubber Soul/12 - Wait.mp3
+/home/gergo/music/Beatles/1965 - Rubber Soul/13 - If I Needed Someone.mp3
+/home/gergo/music/Beatles/1965 - Rubber Soul/14 - Run For Your Life.mp3
+/home/gergo/music/Beatles/1966 - Revolver/01 Taxman.flac
+/home/gergo/music/Beatles/1966 - Revolver/02 Eleanor Rigby.flac
+/home/gergo/music/Beatles/1966 - Revolver/03 I'm Only Sleeping.flac
+/home/gergo/music/Beatles/1966 - Revolver/04 Love You To.flac
+/home/gergo/music/Beatles/1966 - Revolver/05 Here, There And Everywhere.flac
+/home/gergo/music/Beatles/1966 - Revolver/06 Yellow Submarine.flac
+/home/gergo/music/Beatles/1966 - Revolver/07 She Said She Said.flac
+/home/gergo/music/Beatles/1966 - Revolver/08 Good Day Sunshine.flac
+/home/gergo/music/Beatles/1966 - Revolver/09 And Your Bird Can Sing.flac
+/home/gergo/music/Beatles/1966 - Revolver/10 For No One.flac
+/home/gergo/music/Beatles/1966 - Revolver/11 Doctor Robert.flac
+/home/gergo/music/Beatles/1966 - Revolver/12 I Want To Tell You.flac
+/home/gergo/music/Beatles/1966 - Revolver/13 Got To Get You Into My Life.flac
+/home/gergo/music/Beatles/1966 - Revolver/14 Tomorrow Never Knows.flac
 /home/gergo/music/Beatles/The Beatles - Magical Mistery Tour/01 - Magical Mystery Tour.mp3
 /home/gergo/music/Beatles/The Beatles - Magical Mistery Tour/02 - The Fool On The Hill.mp3
 /home/gergo/music/Beatles/The Beatles - Magical Mistery Tour/03 - Flying.mp3
@@ -1346,9 +1545,6 @@
 /home/gergo/music/caretaker/The Caretaker - Everywhere at the end of time - 14 C2 - Misplaced in time.mp3
 /home/gergo/music/caretaker/The Caretaker - Everywhere at the end of time - 15 C3 - What does it matter how my heart breaks.mp3
 /home/gergo/music/caretaker/The Caretaker - Everywhere at the end of time - 16 C4 - Glimpses of hope in trying times.mp3
-/home/gergo/music/caretaker/The Caretaker - Everywhere at the end of time - 17 C5 - Surrendering to despair.mp3
-/home/gergo/music/caretaker/The Caretaker - Everywhere at the end of time - 18 D1 - I still feel as though I am me.mp3
-/home/gergo/music/caretaker/The Caretaker - Everywhere at the end of time - 19 D2 - Quiet dusk coming early.mp3
 /home/gergo/music/caretaker/The Caretaker - Everywhere at the end of time - 20 D3 - Last moments of pure recall.mp3
 /home/gergo/music/caretaker/The Caretaker - Everywhere at the end of time - 21 D4 - Denial unravelling.mp3
 /home/gergo/music/caretaker/The Caretaker - Everywhere at the end of time - 22 D5 - The way ahead feels lonely.mp3
@@ -1409,6 +1605,21 @@
 /home/gergo/music/The Voidz/Virtue/13 Lazy Boy.mp3
 /home/gergo/music/The Voidz/Virtue/14 We're Where We Were.mp3
 /home/gergo/music/The Voidz/Virtue/15 Pointlessness.mp3
+/home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/01 - Black Nails.flac
+/home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/02 - Bugs Life.flac
+/home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/03 - Flea Market.flac
+/home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/04 - Cable Guy.flac
+/home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/05 - 4 Wings.flac
+/home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/06 - Hookers.flac
+/home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/07 - Hungry Hippo.flac
+/home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/08 - Pet Cemetery.flac
+/home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/09 - Fuck Off.flac
+/home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/10 - Silly Sam.flac
+/home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/11 - Fruit Salad.flac
+/home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/12 - Pretty Ugly.flac
+/home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/13 - Sore Loser.flac
+/home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/14 - Dr. Seuss.flac
+/home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/15 - Waze.flac
 /home/gergo/music/various artists/Kankyo Ongaku_ Japanese Ambient, Environmental & New Age Music 1980-1990/1-12 Chaconne.mp3
 /home/gergo/music/Tyler the creator/IGOR/01 IGOR'S THEME.mp3
 /home/gergo/music/Tyler the creator/IGOR/02 EARFQUAKE.mp3

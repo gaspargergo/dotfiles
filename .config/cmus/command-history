@@ -1,9 +1,12 @@
+update-cache 
+clear 
+help
+//jamboard.google.com/d/1NwBMijMoP7mO88axd868nWliPv6BmN4LK9n5MTp4SfA/viewer?f=0
 q
 rename-w
 rename-win
 fset classical=genre="Classical"
 update-cache
-help
 reload
 add Feist (2023) - Multitudes/
 wq

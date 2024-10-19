@@ -25,7 +25,7 @@ alias chtheme="~/scripts/chtheme.sh"
 alias munka="~/scripts/munka.sh"
 alias ls="ls -p --group-directories-first --color=auto"
 alias radio="curseradio"
-alias yt-dlp="yt-dlp --embed-subs --restrict-filenames -f 'best[height<=720]'" 
+alias yt-dlp="yt-dlp --embed-subs --restrict-filenames -f '((bv*[fps>30]/bv*)[height<=720]/(wv*[fps>30]/wv*)) + ba / (b[fps>30]/b)[height<=720]/(w[fps>30]/w)'"
 # Prompt, current dir and decoration
 export PS1=" \[\e[01;34m\]\w\[\e[m\] \[\e[01;31m\]>\[\e[m\]\[\e[01;33m\]>\[\e[m\]\[\e[01;32m\]>\[\e[m\] "
 
