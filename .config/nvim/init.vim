@@ -94,14 +94,9 @@ set nohlsearch
 "endif
 
 " --- Functions ---
-function! Angol()
-	:r ~/angoll/template_csut.md
-	:r !date
-endfunction
-
-function! Ird()
+function! Kulonora()
 	:r ~/angoll/template_kedd.md
-	:r !date
+	:r !date "+%Y. %B %d."
 endfunction
 
 " --- Theming ---
