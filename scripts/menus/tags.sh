@@ -6,8 +6,8 @@ active=$(printf "\e[32m")
 default=$(printf "\e[97m")
 
 
-clients=$(herbstclient tag_status | sed 's/[[:space:]]*//g; s/\./\n/g; s/:/\n/g; s/#/\n/g'| tail -n +2)
-selected=$(echo "$clients" | ~/scripts/menus/fzfmenu.sh --reverse --prompt="tags: ")
+tags=$(herbstclient tag_status | sed 's/[[:space:]]*//g; s/\./\n/g; s/:/\n/g; s/#/\n/g'| tail -n +2)
+selected=$(echo "$tags" | ~/scripts/menus/fzfmenu.sh --reverse --prompt="tags: ")
 
 if [[ $selected != "" ]]
 then
