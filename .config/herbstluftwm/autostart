@@ -36,6 +36,7 @@ hc keybind $Mod-Alt-0 spawn pactl set-source-mute 1 toggle
 # menus
 hc keybind $Mod-space spawn ~/scripts/menus/drun.sh
 hc keybind $Mod-Tab spawn ~/scripts/menus/tags.sh
+hc keybind Alt-Tab spawn ~/scripts/menus/windows.sh
 
 # basic movement in tiling and floating mode
 # focusing clients
