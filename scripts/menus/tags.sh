@@ -1,12 +1,7 @@
 #!/bin/bash
 
-reset=$(printf "\e[0m")
-active_selected=$(printf "\e[37;41m")
-active=$(printf "\e[32m")
-default=$(printf "\e[97m")
-
-
-tags=$(herbstclient tag_status | sed 's/[[:space:]]*//g; s/\./\n/g; s/:/\n/g; s/#/\n/g'| tail -n +2)
+tags=$(herbstclient tag_status | sed 's/[[:space:]]*//g; s/\./\n/g; s/:/\n/g; s/#/\n/g; s/-/\n/g'| tail -n +2)
+echo $tags
 selected=$(echo "$tags" | ~/scripts/menus/fzfmenu.sh --reverse --prompt="tags: ")
 
 if [[ $selected != "" ]]

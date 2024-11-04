@@ -1,6 +1,6 @@
 #!/bin/bash
 clients=""
-tags=$(herbstclient tag_status | sed 's/[[:space:]]*//g; s/\./\n/g; s/:/\n/g; s/#/\n/g'| tail -n +2)
+tags=$(herbstclient tag_status | sed 's/[[:space:]]*//g; s/\./\n/g; s/:/\n/g; s/#/\n/g; s/-/\n/g;'| tail -n +2)
 
 for tag in $tags
 do
