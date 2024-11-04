@@ -12,22 +12,27 @@ UXterm.vt100.boldColors: false
 UXTerm.vt100.backarrowKey: false
 UXTerm.ttyModes: erase ^?
 
-!gruvbox-light
-*color0: #fbf1c7
+! same for the fzf-menu
+fzfmenu.vt100.utf8: true
+fzfmenu.vt100.faceName: Fantasque Sans Mono:size=14:antialias=true
+fzfmenu.vt100.boldColors: false
+
+!gruvbox-dark
+*color0: #282828
 *color1: #cc241d
 *color2: #98971a
 *color3: #d79921
 *color4: #458588
 *color5: #b16286
 *color6: #689d6a
-*color7: #7c6f64
+*color7: #a89984
 *color8: #928374
-*color9: #9d0006
-*color10: #79740e
-*color11: #b57614
-*color12: #076678
-*color13: #8f3f71
-*color14: #427b58
-*color15: #3c3836
-*foreground: #3c3836
-*background: #fbf1c7
+*color9: #fb4934
+*color10: #b8bb26
+*color11: #fabd2f
+*color12: #83a598
+*color13: #d3869b
+*color14: #8ec07c
+*color15: #ebdbb2
+*foreground: #ebdbb2
+*background: #282828
