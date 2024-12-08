@@ -2,6 +2,7 @@
 theme=$(cat ~/.config/theme)
 
 # replace theming in config file with desired theme, then move this file in the original config's place
+# the theming should alway be at the end of the file
 # arguments: path-to-config-file path-to-theme-file
 modifyConfig() {
 lines=$(wc -l "$2" | cut -d " " -f 1)
@@ -16,6 +17,7 @@ modifyTheme() {
 	echo "$1" > ~/.config/theme 
 	modifyConfig ~/dotfiles/.config/zathura/zathurarc ~/dotfiles/.config/colors/zathura/$1
 	modifyConfig ~/dotfiles/.config/nvim/init.vim ~/dotfiles/.config/colors/nvim/$1
+	modifyConfig ~/.mozilla/firefox/6tekjtvb.default-default/chrome/userChrome.css ~/dotfiles/.config/colors/firefox/$1
 	modifyConfig ~/dotfiles/.Xresources ~/dotfiles/.config/colors/xterm/$1
 	xrdb ~/.Xresources
 	~/dotfiles/.config/colors/herbstluftwm/$1.sh
