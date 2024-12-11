@@ -116,7 +116,7 @@ proxy-auth-method "any"
 proxy-type "http"
 refresh-on-startup no
 reload-only-visible-feeds false
-reload-threads 1
+reload-threads 20
 reload-time 60
 restrict-filename yes
 save-path "~/"
@@ -390,3 +390,5 @@ bind-key "^V" next-dialog urlview
 bind-key "o" open-in-browser urlview
 bind-key "h" quit urlview
 bind-key "v" view-dialogs urlview
+highlight feedlist "---.*---" green default bold
+highlight feedlist ".*0/0.." default default invis
