@@ -18,8 +18,9 @@ https://www.nubero.ch/rss/feed.xml people
 ---Reddit---
 https://www.reddit.com/r/windowsphone.rss reddit
 https://www.reddit.com/r/gameboy.rss reddit
-https://www.reddit.com/r/gamedeals.rss reddit
 https://www.reddit.com/r/RG35XX.rss reddit
+https://www.reddit.com/r/gamedeals.rss reddit gamedeals !
+"query:Free games:( tags # \"gamedeals\" ) and ( title =~ \"free\" )"
 ---Youtube---
 https://www.youtube.com/feeds/videos.xml?channel_id=UCu7ODDeIZ4x1rJwM1LCVL8w youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsvn_Po0SmunchJYOWpOxMg youtube
