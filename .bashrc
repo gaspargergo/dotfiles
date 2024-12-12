@@ -5,9 +5,6 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-source /usr/share/bash-completion/bash_completion
-source /usr/share/fzf/key-bindings.bash
-
 
 # --- ALIASES ---
 alias sudo="sudo "
@@ -58,7 +55,6 @@ shopt -s histappend
 export EDITOR='nvim'
 export BROWSER='w3m'
 export VISUAL='nvim'
-xset b off
 
 # show man page for command preceding the cursor
 run-help() { help "$READLINE_LINE" 2>/dev/null || man "$READLINE_LINE"; }
@@ -71,10 +67,10 @@ export HISTSIZE=3000
 #when in terminal only, create tmux session; in tmux window, print a pokemon
 if [[ "$TERM" == "tmux-256color" ]]
 then
-	/home/gergo/scripts/pokescript/pokemon-colorscripts.sh -r
+	~/scripts/pokescript/pokemon-colorscripts.sh -r
 fi
 
 if [[ "$TERM" == "xterm-256color" ]]
 then
-	tmux attach-session -t "$USER" || tmux new-session -s "$USER"
+	tmux attach-session -t "tablet" || tmux new-session -s "tablet"
 fi
