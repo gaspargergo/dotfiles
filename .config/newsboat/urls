@@ -1,11 +1,9 @@
 ---News---
-https://telex.hu/rss news news
-https://qubit.hu/feed news news
-https://easttopics.online/feed news
+https://telex.hu/rss news
+https://qubit.hu/feed news
 https://news.ycombinator.com/rss news
-https://rebellion.global/feed.xml news
-https://www.met.hu/methu/rss/rss.php news
-https://tett.merce.hu/feed/ news
+https://www.met.hu/methu/rss/rss.php news weather !
+"query:Friss időjárás:( tags # \"weather\" ) and ( age between 0:1 )
 https://ujszem.org/feed news
 https://kepzo.art/feed news
 https://masfelfok.hu/feed news
@@ -13,14 +11,16 @@ https://masfelfok.hu/feed news
 https://100r.co/links/rss.xml people
 https://solar.lowtechmagazine.com/feeds/all-en.atom.xml people
 https://feeds.feedburner.com/notechmagazine people
-https://cheapskatesguide.org/cheapskates-guide-rss-feed.xml people
-https://www.nubero.ch/rss/feed.xml people
 ---Reddit---
 https://www.reddit.com/r/windowsphone.rss reddit
 https://www.reddit.com/r/gameboy.rss reddit
 https://www.reddit.com/r/RG35XX.rss reddit
 https://www.reddit.com/r/gamedeals.rss reddit gamedeals !
 "query:Free games:( tags # \"gamedeals\" ) and ( title =~ \"free\" )"
+---Lemmy---
+https://lemmy.ml/feeds/c/privacy.xml?sort=Active lemmy
+https://lemmy.ml/feeds/c/linux.xml?sort=Active lemmy
+https://lemmy.ml/feeds/c/opensource.xml?sort=Active lemmy
 ---Youtube---
 https://www.youtube.com/feeds/videos.xml?channel_id=UCu7ODDeIZ4x1rJwM1LCVL8w youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsvn_Po0SmunchJYOWpOxMg youtube
@@ -31,6 +31,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR3Gqxm24_Vd_AJ5Yw you
 https://www.youtube.com/feeds/videos.xml?channel_id=UC5mPJA4y5G8Z6aNkY6AxgAw youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCtinbF-Q-fVthA0qrFQTgXQ youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCillOYNBumCBEgGS3q1QOYA youtube
-https://www.youtube.com/feeds/videos.xml?channel_id=UCAMu6Dso0ENoNm3sKpQsy0g youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdC0An4ZPNr_YiFiYoVbwaw youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCrqaOPLC4_LTWCdJIvXvWTg youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UC5JKj1xnuDZ2LQS7-GpxibA youtube
