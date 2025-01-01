@@ -18,9 +18,10 @@ https://www.reddit.com/r/RG35XX.rss reddit
 https://www.reddit.com/r/gamedeals.rss reddit gamedeals !
 "query:Free games:( tags # \"gamedeals\" ) and ( title =~ \"free\" )"
 ---Lemmy---
-https://lemmy.ml/feeds/c/privacy.xml?sort=Active lemmy
-https://lemmy.ml/feeds/c/linux.xml?sort=Active lemmy
-https://lemmy.ml/feeds/c/opensource.xml?sort=Active lemmy
+https://lemmy.ml/feeds/c/privacy.xml?sort=New lemmy
+https://lemmy.ml/feeds/c/linux.xml?sort=New lemmy
+https://lemmy.ml/feeds/c/opensource.xml?sort=New lemmy
+https://lemmy.ml/feeds/c/unixporn.xml?sort=New lemmy
 ---Youtube---
 https://www.youtube.com/feeds/videos.xml?channel_id=UCu7ODDeIZ4x1rJwM1LCVL8w youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsvn_Po0SmunchJYOWpOxMg youtube
