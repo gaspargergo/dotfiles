@@ -101,8 +101,10 @@ hc keybind $Mod-Shift-z \
 # I.e. if there are two windows within a frame, the grid layout is skipped.
 hc keybind $Mod-c                                                           \
             or , and . compare tags.focus.curframe_wcount = 2                   \
-                     . cycle_layout +1 horizontal vertical \
-               , cycle_layout +1 horizontal vertical grid
+                     . cycle_layout +1 vertical horizontal  \
+               , cycle_layout +1 vertical horizontal  grid
+
+hc set_layout horizontal
 
 # mouse
 hc mouseunbind --all
