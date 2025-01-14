@@ -76,9 +76,13 @@ Plug 'tpope/vim-surround'
 Plug 'christoomey/vim-tmux-navigator'
 call plug#end()
 
-"no autocomplete in textfiles and markdown files
+"no autocomplete in textfiles, markdown files and roff files
 autocmd Filetype markdown AutoComplPopDisable
 autocmd Filetype text AutoComplPopDisable
+autocmd Filetype nroff AutoComplPopDisable
+
+"set textwidth for groff files automatically to 80
+autocmd Filetype nroff set textwidth=80
 
 " --- Search ---
 " incremental search
