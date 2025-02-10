@@ -164,8 +164,12 @@ hc pad 0 10 10 10 10
 #set themed elements based on the set theme 
 theme=$(cat ~/.config/theme)
 ~/.config/colors/herbstluftwm/$theme.sh
+
 #check if the theme set is time-appropriate; if not, change it
 /home/gergo/scripts/check_time.sh
 
 #refresh the epub&pdf database at every restart
 /home/gergo/scripts/menus/zathura/refresh_db.sh
+
+#turn off x bell
+xset b off

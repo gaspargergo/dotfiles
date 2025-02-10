@@ -58,7 +58,6 @@ shopt -s histappend
 export EDITOR='nvim'
 export BROWSER='w3m'
 export VISUAL='nvim'
-xset b off
 
 # show man page for command preceding the cursor
 run-help() { help "$READLINE_LINE" 2>/dev/null || man "$READLINE_LINE"; }
