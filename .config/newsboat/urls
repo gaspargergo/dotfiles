@@ -1,5 +1,6 @@
 ---News---
-https://telex.hu/rss news
+https://telex.hu/rss news telex !
+"query:Telex:( tags # \"telex\" ) and ( link !~ \"sport\" ) and ( link !~ \"zacc\" ) and ( link !~ \"eszkombajn\" )"
 https://qubit.hu/feed news
 https://news.ycombinator.com/rss news
 https://www.met.hu/methu/rss/rss.php news weather !
@@ -11,27 +12,39 @@ https://masfelfok.hu/feed news
 https://100r.co/links/rss.xml people
 https://solar.lowtechmagazine.com/feeds/all-en.atom.xml people
 https://feeds.feedburner.com/notechmagazine people
+https://simonwillison.net/atom/entries/ people
+https://www.htmhell.dev/feed.xml
+https://nickyflowers.com/feed.xml
+https://82mhz.net/index.xml
+https://blog.ctms.me/index.xml
+https://jlsksr.de/atom.xml
+https://analogoffice.net/feed.xml
+https://triapul.cz/feed/english.xml
 ---Reddit---
-https://www.reddit.com/r/windowsphone.rss reddit
-https://www.reddit.com/r/gameboy.rss reddit
-https://www.reddit.com/r/RG35XX.rss reddit
+https://www.reddit.com/r/gameboy/top.rss?t=week reddit
+https://www.reddit.com/r/RG35XX/top.rss?t=week reddit
 https://www.reddit.com/r/gamedeals.rss reddit gamedeals !
 "query:Free games:( tags # \"gamedeals\" ) and ( title =~ \"free\" )"
 ---Lemmy---
-https://lemmy.ml/feeds/c/privacy.xml?sort=New lemmy
-https://lemmy.ml/feeds/c/linux.xml?sort=New lemmy
-https://lemmy.ml/feeds/c/opensource.xml?sort=New lemmy
-https://lemmy.ml/feeds/c/unixporn.xml?sort=New lemmy
+https://lemmy.ml/feeds/c/privacy.xml?sort=TopWeek lemmy
+https://lemmy.ml/feeds/c/linux.xml?sort=TopWeek lemmy
+https://lemmy.ml/feeds/c/opensource.xml?sort=TopWeek lemmy
+https://lemmy.ml/feeds/c/unixporn.xml?sort=Active lemmy
 ---Youtube---
 https://www.youtube.com/feeds/videos.xml?channel_id=UCu7ODDeIZ4x1rJwM1LCVL8w youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCH0pqJ6QWX_YkKKL_8zaS_g youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsvn_Po0SmunchJYOWpOxMg youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCTjmLCEVb9r1OpFDJMMWyIw youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UC477Kvszl9JivqOxN1dFgPQ youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCY2mhw-XNZSxrUynsI5K8Zw youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR3Gqxm24_Vd_AJ5Yw youtube
-https://www.youtube.com/feeds/videos.xml?channel_id=UC5mPJA4y5G8Z6aNkY6AxgAw youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5mPJA4y5G8Z6aNkY6AxgAw youtube vanneistat !
+"query:Van Neistat:( tags # \"vanneistat\" ) and ( content =~ \"0:00\" )"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCtinbF-Q-fVthA0qrFQTgXQ youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCillOYNBumCBEgGS3q1QOYA youtube
-https://www.youtube.com/feeds/videos.xml?channel_id=UCdC0An4ZPNr_YiFiYoVbwaw youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdC0An4ZPNr_YiFiYoVbwaw youtube dailydose !
+"query:Daily Dose of Internet:( tags # \"dailydose\" ) and ( content !~ \"#shorts\" )"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCrqaOPLC4_LTWCdJIvXvWTg youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UC5JKj1xnuDZ2LQS7-GpxibA youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVfwlh9XpX2Y_tQfjeln9QA youtube bibleproject !
+"query:The Bible Project:( tags # \"bibleproject\" ) and ( title !~ \"#\" )"
