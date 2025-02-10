@@ -1,3 +1,13 @@
+/home/gergo/music/15 - Hey Jude/001_The Beatles - Cant Buy Me Love.wav
+/home/gergo/music/15 - Hey Jude/002_The Beatles - I Should Have Known Better.wav
+/home/gergo/music/15 - Hey Jude/003_The Beatles - Paperback Writer.wav
+/home/gergo/music/15 - Hey Jude/004_The Beatles - Rain.wav
+/home/gergo/music/15 - Hey Jude/005_The Beatles - Lady Madonna.wav
+/home/gergo/music/15 - Hey Jude/006_The Beatles - Revolution.wav
+/home/gergo/music/15 - Hey Jude/007_The Beatles - Hey Jude.wav
+/home/gergo/music/15 - Hey Jude/008_The Beatles - Old Brown Shoe.wav
+/home/gergo/music/15 - Hey Jude/009_The Beatles - Don't Let Me Down.wav
+/home/gergo/music/15 - Hey Jude/010_The Beatles - The Balad of John and Yoko.wav
 /home/gergo/music/Other/Eszi.wav
 /home/gergo/music/Other/Lotsa.wav
 /home/gergo/music/Cseh Tamás/Cseh Tamas - Joslat/Cseh Tamás - 03 - A 74-es Év.mp3
@@ -69,6 +79,16 @@
 /home/gergo/music/Cseh Tamás/Cseh Tamas - Feher Babak Takarodoja/Cseh Tamás - 10 - Ács Mari.mp3
 /home/gergo/music/Cseh Tamás/Cseh Tamas - Frontatvonulas/Cseh Tamás - 02 - Úristen, hol vagyok.mp3
 /home/gergo/music/noise/thuder.mp3
+/home/gergo/music/100 gecs/10000 gecs/01 - Dumbest Girl Alive.flac
+/home/gergo/music/100 gecs/10000 gecs/02 - 757.flac
+/home/gergo/music/100 gecs/10000 gecs/03 - Hollywood Baby.flac
+/home/gergo/music/100 gecs/10000 gecs/04 - Frog on the Floor.flac
+/home/gergo/music/100 gecs/10000 gecs/05 - Doritos & Fritos.flac
+/home/gergo/music/100 gecs/10000 gecs/06 - Billy Knows Jamie.flac
+/home/gergo/music/100 gecs/10000 gecs/07 - One Million Dollars.flac
+/home/gergo/music/100 gecs/10000 gecs/08 - The Most Wanted Person in the United States.flac
+/home/gergo/music/100 gecs/10000 gecs/09 - I Got My Tooth Removed.flac
+/home/gergo/music/100 gecs/10000 gecs/10 - mememe.flac
 /home/gergo/music/100 gecs/1000_gecs/100 gecs, Dylan Brady & Laura Les - 1000 gecs - 01 745 sticky.mp3
 /home/gergo/music/100 gecs/1000_gecs/100 gecs, Dylan Brady & Laura Les - 1000 gecs - 02 money machine.mp3
 /home/gergo/music/100 gecs/1000_gecs/100 gecs, Dylan Brady & Laura Les - 1000 gecs - 03 800db cloud.mp3
@@ -91,6 +111,44 @@
 /home/gergo/music/Aimee Mann/Aimee Mann - Mental Illness (2017)/10 Simple Fix.mp3
 /home/gergo/music/Aimee Mann/Aimee Mann - Mental Illness (2017)/11 Poor Judge.mp3
 /home/gergo/music/various artists/Kankyo Ongaku_ Japanese Ambient, Environmental & New Age Music 1980-1990/2-05 Praying for Mother _ Earth Part 1.mp3
+/home/gergo/music/Erik Satie, Works For Piano/01 Trois Gymnopedies - I- Lent et douloureux.m4a
+/home/gergo/music/Erik Satie, Works For Piano/02 Trois Gymnopedies - II- Lent et triste.m4a
+/home/gergo/music/Erik Satie, Works For Piano/03 Trois Gymnopedies - III- Lent et grave.m4a
+/home/gergo/music/Erik Satie, Works For Piano/04 Six Gnossiennes - I- Lent.m4a
+/home/gergo/music/Erik Satie, Works For Piano/05 Six Gnossiennes - II- Avec etonnement.m4a
+/home/gergo/music/Erik Satie, Works For Piano/06 Six Gnossiennes - III- Lent.m4a
+/home/gergo/music/Erik Satie, Works For Piano/07 Six Gnossiennes - IV- Lent.m4a
+/home/gergo/music/Erik Satie, Works For Piano/08 Six Gnossiennes - V- Modere.m4a
+/home/gergo/music/Erik Satie, Works For Piano/09 Six Gnossiennes - VI- Avec conviction et avec une tristesse rigoureuse.m4a
+/home/gergo/music/Erik Satie, Works For Piano/10 Croquis et Agaceries d'un Gros Bonhomme en Bois - I- Tyrolienne turque.m4a
+/home/gergo/music/Erik Satie, Works For Piano/11 Croquis et Agaceries d'un Gros Bonhomme en Bois - II- Danse maigre (a.m4a
+/home/gergo/music/Erik Satie, Works For Piano/12 Croquis et Agaceries d'un Gros Bonhomme en Bois - III- Espanana.m4a
+/home/gergo/music/Erik Satie, Works For Piano/13 Embryons Desseches - I- d'Holothurie.m4a
+/home/gergo/music/Erik Satie, Works For Piano/14 Embryons Desseches - II- d'Edriophthalma.m4a
+/home/gergo/music/Erik Satie, Works For Piano/15 Embryons Desseches - III- de Podophthalma.m4a
+/home/gergo/music/Erik Satie, Works For Piano/16 Sonatine Bureaucratique - Allegro, Andante, Vivace.m4a
+/home/gergo/music/Erik Satie, Works For Piano/17 Avant-Dernieres Pensees - I- Idylle (a Debussy).m4a
+/home/gergo/music/Erik Satie, Works For Piano/18 Avant-Dernieres Pensees - II- Aubade (a Paul Dukas).m4a
+/home/gergo/music/Erik Satie, Works For Piano/19 Avant-Dernieres Pensees - III- Meditation (a Albert Roussel).m4a
+/home/gergo/music/Erik Satie, Works For Piano/20 Veritables Preludes Flasques (Pour un Chien) - I- Severe reprimande.m4a
+/home/gergo/music/Erik Satie, Works For Piano/21 Veritables Preludes Flasques (Pour un Chien) - II- Seul a la maison.m4a
+/home/gergo/music/Erik Satie, Works For Piano/22 Veritables Preludes Flasques (Pour un Chien) - III- On joue.m4a
+/home/gergo/music/Erik Satie, Works For Piano/23 Cinq Nocturnes - I- Doux et calme.m4a
+/home/gergo/music/Erik Satie, Works For Piano/24 Cinq Nocturnes - II- Simplement.m4a
+/home/gergo/music/Erik Satie, Works For Piano/25 Cinq Nocturnes - III- Un peu mouvemente.m4a
+/home/gergo/music/Erik Satie, Works For Piano/26 Cinq Nocturnes - IV- Mysterieux et tendre.m4a
+/home/gergo/music/Erik Satie, Works For Piano/27 Cinq Nocturnes - V-.m4a
+/home/gergo/music/Erik Satie, Works For Piano/28 Trois Morceaux en Forme de Poire - I- Maniere de commencement.m4a
+/home/gergo/music/Erik Satie, Works For Piano/29 Trois Morceaux en Forme de Poire - II- Prolongation du meme.m4a
+/home/gergo/music/Erik Satie, Works For Piano/30 Trois Morceaux en Forme de Poire - II- Prolongation du meme - Lentemen.m4a
+/home/gergo/music/Erik Satie, Works For Piano/31 Trois Morceaux en Forme de Poire - II- Prolongation du meme - Enleve.m4a
+/home/gergo/music/Erik Satie, Works For Piano/32 Trois Morceaux en Forme de Poire - II- Prolongation du meme - Brutal.m4a
+/home/gergo/music/Erik Satie, Works For Piano/33 Trois Morceaux en Forme de Poire - III- En plus.m4a
+/home/gergo/music/Erik Satie, Works For Piano/34 Trois Morceaux en Forme de Poire - IV- Redite.m4a
+/home/gergo/music/Erik Satie, Works For Piano/35 La Belle Excentrique - I- Grande Ritournelle.m4a
+/home/gergo/music/Erik Satie, Works For Piano/36 La Belle Excentrique - II- Marche 'Franco-Lunaire'.m4a
+/home/gergo/music/Erik Satie, Works For Piano/37 La Belle Excentrique - III- Valse du 'Mysterieux baiser dans l'oeil'.m4a
+/home/gergo/music/Erik Satie, Works For Piano/38 La Belle Excentrique - IV- Cancan Grand-Mondain.m4a
 /home/gergo/music/Let's Hope Heteros Fail, Learn and Retire/01. (Intro) Let's Hope Heteros Fail, Learn and Retire.flac
 /home/gergo/music/Let's Hope Heteros Fail, Learn and Retire/02. Come 2 Brazil.flac
 /home/gergo/music/Let's Hope Heteros Fail, Learn and Retire/03. Believe the Hype.flac
@@ -117,6 +175,22 @@
 /home/gergo/music/The Avalanches/2000 - Since I Left You/16 - Little Journey.flac
 /home/gergo/music/The Avalanches/2000 - Since I Left You/17 - Live at Dominoes.flac
 /home/gergo/music/The Avalanches/2000 - Since I Left You/18 - Extra Kings.flac
+/home/gergo/music/Black Moth Super Rainbow/Start a People/01 - Raspberry Dawn.flac
+/home/gergo/music/Black Moth Super Rainbow/Start a People/02 - Vietcaterpillar.flac
+/home/gergo/music/Black Moth Super Rainbow/Start a People/03 - From the See.flac
+/home/gergo/music/Black Moth Super Rainbow/Start a People/04 - I Am the Alphabet.flac
+/home/gergo/music/Black Moth Super Rainbow/Start a People/05 - Seeeds.flac
+/home/gergo/music/Black Moth Super Rainbow/Start a People/06 - I Think It Is Beautiful That You Are 256 Colors Too.flac
+/home/gergo/music/Black Moth Super Rainbow/Start a People/07 - Count Backwards to Black.flac
+/home/gergo/music/Black Moth Super Rainbow/Start a People/08 - Early 70's Gymnastics.flac
+/home/gergo/music/Black Moth Super Rainbow/Start a People/09 - Snail Garden.flac
+/home/gergo/music/Black Moth Super Rainbow/Start a People/10 - Folks With Magic Toes.flac
+/home/gergo/music/Black Moth Super Rainbow/Start a People/11 - Trees and Colors and Wizards.flac
+/home/gergo/music/Black Moth Super Rainbow/Start a People/12 - I Am the Alphabet.flac
+/home/gergo/music/Black Moth Super Rainbow/Start a People/13 - 1 2 3 of Me.flac
+/home/gergo/music/Black Moth Super Rainbow/Start a People/14 - Hazy Field People.flac
+/home/gergo/music/Black Moth Super Rainbow/Start a People/15 - Smile Heavy.flac
+/home/gergo/music/Black Moth Super Rainbow/Start a People/16 - The Primary Color Movement.flac
 /home/gergo/music/Bob Dylan/1966 - Blonde On Blonde/01 - Rainy Day Women #12 & 35.mp3
 /home/gergo/music/Bob Dylan/1966 - Blonde On Blonde/02 - Pledging My Time.mp3
 /home/gergo/music/Bob Dylan/1966 - Blonde On Blonde/03 - Visions of Johanna.mp3
@@ -1251,6 +1325,36 @@
 /home/gergo/music/Porter Robinson/nurture-flac/nurture/12-blossom.flac
 /home/gergo/music/Porter Robinson/nurture-flac/nurture/13-unfold.flac
 /home/gergo/music/Porter Robinson/nurture-flac/nurture/14-trying-to-feel-alive.flac
+/home/gergo/music/Richard Dawson/Richard Dawson - 2020 (2019) [FLAC]/01 Richard Dawson - Civil Servant.flac
+/home/gergo/music/Richard Dawson/Richard Dawson - 2020 (2019) [FLAC]/02 Richard Dawson - The Queen's Head.flac
+/home/gergo/music/Richard Dawson/Richard Dawson - 2020 (2019) [FLAC]/03 Richard Dawson - Two Halves.flac
+/home/gergo/music/Richard Dawson/Richard Dawson - 2020 (2019) [FLAC]/04 Richard Dawson - Jogging.flac
+/home/gergo/music/Richard Dawson/Richard Dawson - 2020 (2019) [FLAC]/05 Richard Dawson - Heart Emoji.flac
+/home/gergo/music/Richard Dawson/Richard Dawson - 2020 (2019) [FLAC]/06 Richard Dawson - Black Triangle.flac
+/home/gergo/music/Richard Dawson/Richard Dawson - 2020 (2019) [FLAC]/07 Richard Dawson - Fulfilment Centre.flac
+/home/gergo/music/Richard Dawson/Richard Dawson - 2020 (2019) [FLAC]/08 Richard Dawson - Fresher's Ball.flac
+/home/gergo/music/Richard Dawson/Richard Dawson - 2020 (2019) [FLAC]/09 Richard Dawson - No-One.flac
+/home/gergo/music/Richard Dawson/Richard Dawson - 2020 (2019) [FLAC]/10 Richard Dawson - Dead Dog in an Alleyway.flac
+/home/gergo/music/Richard Dawson/Peasant/01 - Herald.mp3
+/home/gergo/music/Richard Dawson/Peasant/02 - Ogre.mp3
+/home/gergo/music/Richard Dawson/Peasant/03 - Soldier.mp3
+/home/gergo/music/Richard Dawson/Peasant/04 - Weaver.mp3
+/home/gergo/music/Richard Dawson/Peasant/05 - Prostitute.mp3
+/home/gergo/music/Richard Dawson/Peasant/06 - Shapeshifter.mp3
+/home/gergo/music/Richard Dawson/Peasant/07 - Scientist.mp3
+/home/gergo/music/Richard Dawson/Peasant/08 - Hob.mp3
+/home/gergo/music/Richard Dawson/Peasant/09 - Beggar.mp3
+/home/gergo/music/Richard Dawson/Peasant/10 - No-One.mp3
+/home/gergo/music/Richard Dawson/Peasant/11 - Masseuse.mp3
+/home/gergo/music/Richard Dawson/Richard Dawson - The Ruby Cord (2022) - WEB FLAC 24-48/01. The Hermit.flac
+/home/gergo/music/Richard Dawson/Richard Dawson - The Ruby Cord (2022) - WEB FLAC 24-48/02. Thicker Than Water.flac
+/home/gergo/music/Richard Dawson/Richard Dawson - The Ruby Cord (2022) - WEB FLAC 24-48/03. The Fool.flac
+/home/gergo/music/Richard Dawson/Richard Dawson - The Ruby Cord (2022) - WEB FLAC 24-48/04. Museum.flac
+/home/gergo/music/Richard Dawson/Richard Dawson - The Ruby Cord (2022) - WEB FLAC 24-48/05. The Tip of an Arrow.flac
+/home/gergo/music/Richard Dawson/Richard Dawson - The Ruby Cord (2022) - WEB FLAC 24-48/06. No-one.flac
+/home/gergo/music/Richard Dawson/Richard Dawson - The Ruby Cord (2022) - WEB FLAC 24-48/07. Horse and Rider.flac
+/home/gergo/music/Richard Dawson/End of the Middle/Richard Dawson - End of the Middle - 05 Boxing Day sales.flac
+/home/gergo/music/Richard Dawson/End of the Middle/Richard Dawson - End of the Middle - 07 Polytunnel.flac
 /home/gergo/music/SALES/SALES - SALES LP - 01 over.mp3
 /home/gergo/music/SALES/SALES - SALES LP - 02 ivy.mp3
 /home/gergo/music/SALES/SALES - SALES LP - 03 checkin' out.mp3
@@ -1620,6 +1724,7 @@
 /home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/13 - Sore Loser.flac
 /home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/14 - Dr. Seuss.flac
 /home/gergo/music/Tierra Whack/Tierra Whack (2018-05-30) Whack World [WEB FLAC 16 44]/15 - Waze.flac
+/home/gergo/music/Tierra Whack/26 - Tierra Whack - Link.mp3
 /home/gergo/music/various artists/Kankyo Ongaku_ Japanese Ambient, Environmental & New Age Music 1980-1990/1-12 Chaconne.mp3
 /home/gergo/music/Tyler the creator/IGOR/01 IGOR'S THEME.mp3
 /home/gergo/music/Tyler the creator/IGOR/02 EARFQUAKE.mp3
@@ -1647,6 +1752,20 @@
 /home/gergo/music/Tyler the creator/Tyler, The Creator - Scum Fuck Flower Boy (2017)/12 November.mp3
 /home/gergo/music/Tyler the creator/Tyler, The Creator - Scum Fuck Flower Boy (2017)/13 Glitter.mp3
 /home/gergo/music/Tyler the creator/Tyler, The Creator - Scum Fuck Flower Boy (2017)/14 Enjoy Right Now, Today.mp3
+/home/gergo/music/Tyler, The Creator - CHROMAKOPIA (2024) [24B-44.1kHz]/01. St. Chroma.flac
+/home/gergo/music/Tyler, The Creator - CHROMAKOPIA (2024) [24B-44.1kHz]/02. Rah Tah Tah.flac
+/home/gergo/music/Tyler, The Creator - CHROMAKOPIA (2024) [24B-44.1kHz]/03. Noid.flac
+/home/gergo/music/Tyler, The Creator - CHROMAKOPIA (2024) [24B-44.1kHz]/04. Darling, I.flac
+/home/gergo/music/Tyler, The Creator - CHROMAKOPIA (2024) [24B-44.1kHz]/05. Hey Jane.flac
+/home/gergo/music/Tyler, The Creator - CHROMAKOPIA (2024) [24B-44.1kHz]/06. I Killed You.flac
+/home/gergo/music/Tyler, The Creator - CHROMAKOPIA (2024) [24B-44.1kHz]/07. Judge Judy.flac
+/home/gergo/music/Tyler, The Creator - CHROMAKOPIA (2024) [24B-44.1kHz]/08. Sticky.flac
+/home/gergo/music/Tyler, The Creator - CHROMAKOPIA (2024) [24B-44.1kHz]/09. Take Your Mask Off.flac
+/home/gergo/music/Tyler, The Creator - CHROMAKOPIA (2024) [24B-44.1kHz]/10. Tomorrow.flac
+/home/gergo/music/Tyler, The Creator - CHROMAKOPIA (2024) [24B-44.1kHz]/11. Thought I Was Dead.flac
+/home/gergo/music/Tyler, The Creator - CHROMAKOPIA (2024) [24B-44.1kHz]/12. Like Him.flac
+/home/gergo/music/Tyler, The Creator - CHROMAKOPIA (2024) [24B-44.1kHz]/13. Balloon.flac
+/home/gergo/music/Tyler, The Creator - CHROMAKOPIA (2024) [24B-44.1kHz]/14. I Hope You Find Your Way Home.flac
 /home/gergo/music/Vince Guiraldi Trio/A Charlie Brown Christmas/01 O Tannenbaum.mp3
 /home/gergo/music/Vince Guiraldi Trio/A Charlie Brown Christmas/02 What Child Is This.mp3
 /home/gergo/music/Vince Guiraldi Trio/A Charlie Brown Christmas/03 My Little Drum.mp3
