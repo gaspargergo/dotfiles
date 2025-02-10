@@ -1,3 +1,8 @@
+/home/gergo/projekt/nono/done/before.pdf
+/home/gergo/projekt/nono/done/totoro8.pdf
+/home/gergo/projekt/nono/done/moominhaus15.pdf
+/home/gergo/projekt/nono/test.pdf
+/home/gergo/projekt/nono/logó.pdf
 /home/gergo/projekt/gameboy/wideboy/gameboy-sp-slab-v2-model_files/174622-gameboy-sp-slab-v2-0f00cc29-203d-42d9-b21f-00323950ca12.pdf
 /home/gergo/projekt/táblák/Kresz-tablak.pdf
 /home/gergo/projekt/tavaszi/tavasz_pdf.pdf
@@ -93,6 +98,7 @@
 /home/gergo/sitesToRead/archive/240328_2151.epub
 /home/gergo/sitesToRead/archive/240114_1102.epub
 /home/gergo/sitesToRead/archive/240716_1516.epub
+/home/gergo/sitesToRead/archive/241111_1904.epub
 /home/gergo/sitesToRead/archive/230713_0822.epub
 /home/gergo/sitesToRead/archive/231012_1029.epub
 /home/gergo/sitesToRead/archive/240412_2204.epub
@@ -112,6 +118,7 @@
 /home/gergo/sitesToRead/archive/231129_1045.epub
 /home/gergo/sitesToRead/archive/240811_1540.epub
 /home/gergo/sitesToRead/archive/240719_2215.epub
+/home/gergo/sitesToRead/241111_1904.epub
 /home/gergo/sitesToRead/How to Build a Practical Household Bike Generator _ LOW←TECH MAGAZINE.pdf
 /home/gergo/Documents/612f8e3e010ff2e211c92019_2 - Persuasive Technology Issue Guide.pdf
 /home/gergo/Documents/norpet.pdf
@@ -209,61 +216,87 @@
 /home/gergo/Documents/Önéletrajz_GG.pdf
 /home/gergo/Documents/collapseos/doc/hw/z80/img/dan.pdf
 /home/gergo/Downloads/the-jane-addams-collective-mutual-aid-self-social-therapy.pdf
+/home/gergo/Downloads/55_irodalom_feladatlap_1.pdf
+/home/gergo/Downloads/26491.pdf
+/home/gergo/Downloads/Erettsegi-Irodalom-Adattar-es-tesztek_Tartalom-1.pdf
+/home/gergo/Downloads/My-Family-13-Dec-2024.pdf
 /home/gergo/Downloads/sourcepr-3.pdf
 /home/gergo/Downloads/leaflet-cubitaltunnel_2.pdf
 /home/gergo/Downloads/Heroes_of_Might_and_Magic_-_2000_-_3DO.pdf
+/home/gergo/Downloads/hid_1981_11_11_thomka.pdf
 /home/gergo/Downloads/angol_nyelv_kommunikacios_szandekok_listaja_2024maj.pdf
+/home/gergo/Downloads/Hirschbichler_Raeber_Copy-Paste-Invert-Forget-1.pdf
+/home/gergo/Downloads/Radnóti M 29 finanszírozási terv.pdf
+/home/gergo/Downloads/Mensa_Oklevél2.pdf
 /home/gergo/Downloads/Stop-the-Damage-Build-a-Better-full-v-5.pdf
-/home/gergo/Downloads/k_angol_24maj_ut.pdf
+/home/gergo/Downloads/kolumban_sandor_-_a_magyar_szavak_valos_osi_eredete_1-2_kotet.pdf
 /home/gergo/Downloads/AI the risks and benefits student worksheet.pdf
+/home/gergo/Downloads/Erettsegi-Irodalom-Adattar-es-tesztek_Tartalom.pdf
 /home/gergo/Downloads/B785_K11223_Haziipar_Hunyadmegye.pdf
 /home/gergo/Downloads/154-2-Hiley.pdf
+/home/gergo/Downloads/groff-2.pdf
 /home/gergo/Downloads/Haromhollo_programok.pdf
 /home/gergo/Downloads/kner-antikva-minta.pdf
-/home/gergo/Downloads/k_magyir_24maj_ut.pdf
+/home/gergo/Downloads/Erettsegi-Irodalom-Adattar-es-tesztek_Tartalom-2.pdf
 /home/gergo/Downloads/OR23241Boszt.pdf
 /home/gergo/Downloads/groff-1.pdf
 /home/gergo/Downloads/groff.pdf
 /home/gergo/Downloads/OTPdirekt.pdf
+/home/gergo/Downloads/Erettsegi-Irodalom-Adattar-es-tesztek-bovitett-1_Tartalom.pdf
+/home/gergo/Downloads/VLNVol1Issue4_FINAL.pdf
 /home/gergo/Downloads/OR23241Btan.pdf
 /home/gergo/Downloads/nev5893881.pdf
 /home/gergo/Downloads/179_magyar_nyelv_feladatlap_1.pdf
+/home/gergo/Downloads/Making Pictures with GNU PIC, Eric S. Raymond.pdf
 /home/gergo/Downloads/motiv_letter_GG.pdf
+/home/gergo/Downloads/HP LaserJet P2015 Service Manual.pdf
 /home/gergo/Downloads/nev5958228.pdf
 /home/gergo/Downloads/Magyar_nepmuveszet_14.pdf
 /home/gergo/Downloads/AI risks and benefits lesson plan.pdf
 /home/gergo/Downloads/00688.pdf
 /home/gergo/Downloads/AI the risks and benefits presentation.pdf
+/home/gergo/Downloads/HIVE_SelfCare.pdf
 /home/gergo/Downloads/114078425_20240517_154455_jgv_valt.pdf
 /home/gergo/Downloads/mom-pdf-1.pdf
+/home/gergo/Downloads/Radnoti29_felv_feluj_ktg_20241015ig.pdf
 /home/gergo/Downloads/OTPdirekt-1.pdf
 /home/gergo/Downloads/CV_GG.pdf
 /home/gergo/Downloads/3546591.3547527.pdf
 /home/gergo/Downloads/mom-pdf.pdf
 /home/gergo/Downloads/eurobsdcon2018-mandoc-1.pdf
 /home/gergo/Downloads/8477631573_4373378737.pdf
+/home/gergo/Downloads/ultimate-vim-keyboard-shortcuts-4.pdf
 /home/gergo/Downloads/MIKTI_Jegyzetelési útmutató.pdf
+/home/gergo/Downloads/Mensa_Oklevél1.pdf
 /home/gergo/Downloads/atjelentkezes_20240418_100149.pdf
 /home/gergo/Downloads/114078425_20240521_094433_jgv_valt.pdf
+/home/gergo/Downloads/111_irodalom_feladatlap_1.pdf
 /home/gergo/Downloads/t-s-eliot_poetry.epub
 /home/gergo/Downloads/DRD-2024-289.pdf
+/home/gergo/Downloads/Erettsegi-Irodalom-Adattar-es-tesztek-bovitett-2_Tartalom.pdf
 /home/gergo/Downloads/atjelentkezes_20240404_151638.pdf
+/home/gergo/Downloads/gs_present_perfect_simple_and_continuous.pdf
 /home/gergo/Downloads/MOMETYPO-2024_weboldal.pdf
 /home/gergo/Downloads/Munkakotelezettseg_megallapitasa_hataridoben_nem_teljesult_oklevelszerzes_kapcsan.pdf
 /home/gergo/Downloads/eurobsdcon2018-mandoc.pdf
-/home/gergo/Downloads/k_magyir_23okt_ut.pdf
 /home/gergo/Downloads/mom-2.6_c/examples/penguin.pdf
 /home/gergo/Downloads/the-jane-addams-collective-mutual-aid-self-social-therapy.epub
 /home/gergo/Downloads/ce-5.pdf
 /home/gergo/Downloads/MIKTI szemináriumi dolgozatok követelményei.pdf
+/home/gergo/Downloads/DMCEmbNet.pdf
+/home/gergo/Downloads/A perfect story.pdf
+/home/gergo/Downloads/mnl_kepzesi_terv_2024_06.pdf
 /home/gergo/Downloads/OR23241Atan.pdf
 /home/gergo/Downloads/combinepdf-5.pdf
 /home/gergo/budapest.pdf
+/home/gergo/fontbase/Junicode/docs/JunicodeManual.pdf
+/home/gergo/fontbase/EBGaramond/specimen/Specimen.pdf
 /home/gergo/music/Dawes/Dawes - All Your Favorite Bands/All Your Favorite Bands - booklet.pdf
 /home/gergo/music/JPEGmafia/Veteran/JPEGMAFIA - Veteran - Lyrics -.pdf
 /home/gergo/music/JPEGmafia/LP/JPEGMAFIA - LP! - LP! CREDITS - LYRICS.pdf
 /home/gergo/music/JPEGmafia/AMHAC/JPEGMAFIA - All My Heroes Are Cornballs - THE LYRICS.pdf
 /home/gergo/Pictures/festmények/McCollum_Shapes.pdf
+/home/gergo/angoll/teszt.pdf
 /home/gergo/angoll/archive/maj4/pspp_contrast.pdf
 /home/gergo/angoll/archive/jan27/writing.pdf
 /home/gergo/angoll/archive/jan27/MEGOLDÁSOK_angol_21okt.pdf
@@ -346,6 +379,7 @@
 /home/gergo/angoll/régi/Bence/my_town_-_exercises_4 A2.pdf
 /home/gergo/angoll/régi/Bence/NHW Student Book.pdf
 /home/gergo/angoll/régi/- New English File Elementary Students Book-Oxford University Press, USA.pdf
+/home/gergo/angoll/oxford_exam_trainer.pdf
 /home/gergo/angoll/jamboard_archive/ird/verselemzés.pdf
 /home/gergo/angoll/jamboard_archive/ird/Kosztolányi zászló verselemzés.pdf
 /home/gergo/angoll/jamboard_archive/ird/A lejtőn elemzés.pdf
@@ -452,7 +486,6 @@
 /home/gergo/angoll/SZILÁGYI/Tests_plus_audio/sol3e_int_u6_short_test_2a.pdf
 /home/gergo/angoll/SZILÁGYI/Tests_plus_audio/sol3e_int_u4_short_test_1b.pdf
 /home/gergo/angoll/SZILÁGYI/Tests_plus_audio/sol3e_int_u7_progress_test_a.pdf
-/home/gergo/angoll/SZILÁGYI/vsip.info_oxford-exam-trainer-b2pdf-2-pdf-free.pdf
 /home/gergo/angoll/SZILÁGYI/Activity Folder.docx.pdf
 /home/gergo/angoll/SZILÁGYI/Inter/Progress Tests/PDF/sol3e_int_progress_test_answer_keys_a.pdf
 /home/gergo/angoll/SZILÁGYI/Inter/Progress Tests/PDF/sol3e_int_u3_progress_test_b.pdf
@@ -607,15 +640,32 @@
 /home/gergo/angoll/SZILÁGYI/solutions pre-int/Solutions_PI_WB.pdf
 /home/gergo/angoll/SZILÁGYI/solutions pre-int/Tim Falla, Paul A. Davies - Solutions Pre-Intermediate Workbook (2017, Oxford University Press) - libgen.li.pdf
 /home/gergo/angoll/SZILÁGYI/solutions pre-int/(Solutions Third Edition) Tim Falla, Paul A. Davies - Solutions 3rd Edition Pre-Intermediate. Student's Book (Solutions Third Edition) (Spanish Edition)-Oxford University Press España, S.A. (2017).pdf
+/home/gergo/angoll/Tomi/angol_nyelv_kozep_szob_mintafeladat_vizsgazoi_peldany_2024maj.pdf
 /home/gergo/angoll/Tomi/szövegértés/kompetenciameres.pdf
 /home/gergo/angoll/Tomi/szövegértés/egyesével/lecso_hamiskartya.pdf
 /home/gergo/angoll/Tomi/szövegértés/egyesével/1_szokincstar.pdf
 /home/gergo/angoll/Tomi/szövegértés/egyesével/2_szenzacios_otlet.pdf
 /home/gergo/angoll/Tomi/szövegértés/egyesével/vártúrák.pdf
 /home/gergo/angoll/Tomi/szövegértés/szövegértés_gyakorlás.pdf
+/home/gergo/angoll/Tomi/érettségik/e_angol_24okt_ut.pdf
+/home/gergo/angoll/Tomi/érettségik/e_angol_24okt_fl.pdf
+/home/gergo/angoll/Tomi/emelt_angol/e_angol_07okt_fl.pdf
+/home/gergo/angoll/Tomi/emelt_angol/e_angol_08okt_fl.pdf
+/home/gergo/angoll/Tomi/emelt_angol/e_angol_07okt_ut.pdf
+/home/gergo/angoll/Tomi/emelt_angol/e_angol_08okt_ut.pdf
 /home/gergo/angoll/Tomi/stilisztika/társalgási_stílus.pdf
 /home/gergo/angoll/Tomi/stilisztika/ird_stílus.pdf
 /home/gergo/angoll/Tomi/k_angol_07maj_fl.pdf
+/home/gergo/angoll/Tomi/angol_nyelv_kozep_szobeli_egyeni_ertekelo_lap_2024maj.pdf
+/home/gergo/angoll/Tomi/iras_ertekeles.pdf
+/home/gergo/angoll/Tomi/angol_nyelv_kozep_szob_mintafeladat_vizsgaztatoi_peldany_2024maj.pdf
+/home/gergo/angoll/Érettségi_topics/travel_dark.pdf
+/home/gergo/angoll/Érettségi_topics/family_ing_speaking.pdf
+/home/gergo/angoll/Érettségi_topics/people_society_dark.pdf
+/home/gergo/angoll/Érettségi_topics/reported_speech_dark.pdf
+/home/gergo/angoll/Érettségi_topics/health_reported_speaking.pdf
+/home/gergo/angoll/Érettségi_topics/health_vocab.pdf
+/home/gergo/angoll/Érettségi_topics/family_vocab.pdf
 /home/gergo/angoll/Bence/worksheets/esports_-_exercises.pdf
 /home/gergo/angoll/Bence/worksheets/TE_LP_KB_afoodfestival.pdf
 /home/gergo/angoll/Bence/worksheets/Shopping_Sales_tricks_Worksheet.pdf
@@ -639,29 +689,48 @@
 /home/gergo/angoll/Bence/worksheets/Pocket money and pester power student worksheet.pdf
 /home/gergo/angoll/Bence/fogalmazás/Találkozás-egy-fiatalemberrel.pdf
 /home/gergo/angoll/Bence/fogalmazás/bencenek.pdf
+/home/gergo/angoll/Bence/érettségi/e_angol_24maj_fl.pdf
 /home/gergo/angoll/Bence/érettségi/k_magyir_23okt_fl.pdf
+/home/gergo/angoll/Bence/érettségi/magyar_gyak.pdf
 /home/gergo/angoll/Bence/érettségi/id_nyelv_requirements.pdf
 /home/gergo/angoll/Bence/érettségi/feladatsorok/done/k_angol_06maj_ut.pdf
 /home/gergo/angoll/Bence/érettségi/feladatsorok/done/k_angol_06maj_fl.pdf
 /home/gergo/angoll/Bence/érettségi/feladatsorok/e_angol_22okt_ut.pdf
 /home/gergo/angoll/Bence/érettségi/feladatsorok/e_angol_22maj_ut.pdf
+/home/gergo/angoll/Bence/érettségi/feladatsorok/e_angol_07maj_fl.pdf
 /home/gergo/angoll/Bence/érettségi/feladatsorok/e_angol_22okt_fl.pdf
+/home/gergo/angoll/Bence/érettségi/feladatsorok/e_angol_08maj_ut.pdf
+/home/gergo/angoll/Bence/érettségi/feladatsorok/e_angol_07maj_ut.pdf
 /home/gergo/angoll/Bence/érettségi/feladatsorok/k_angol_07maj_fl.pdf
+/home/gergo/angoll/Bence/érettségi/feladatsorok/e_angol_08maj_fl.pdf
 /home/gergo/angoll/Bence/érettségi/feladatsorok/e_angol_23maj_ut.pdf
 /home/gergo/angoll/Bence/érettségi/feladatsorok/e_angol_22maj_fl.pdf
 /home/gergo/angoll/Bence/érettségi/feladatsorok/e_angol_23maj_fl.pdf
 /home/gergo/angoll/Bence/érettségi/feladatsorok/k_angol_08maj_fl.pdf
+/home/gergo/angoll/Bence/érettségi/e_angol_24maj_ut.pdf
 /home/gergo/angoll/Bence/érettségi/angol_nyelv_kozep_szob_mintafeladat_vizsgazoi_peldany_2024maj.pdf
+/home/gergo/angoll/Bence/érettségi/tesztek/klasszicizmus.pdf
+/home/gergo/angoll/Bence/érettségi/tesztek/rokoko.pdf
+/home/gergo/angoll/Bence/érettségi/tesztek/kozepkor.pdf
+/home/gergo/angoll/Bence/érettségi/tesztek/reneszansz_humanizmus.pdf
+/home/gergo/angoll/Bence/érettségi/tesztek/barokk.pdf
 /home/gergo/angoll/Bence/érettségi/OH-MIR912GY__teljes.pdf
 /home/gergo/angoll/Bence/érettségi/angol_nyelv_em_szob_mintafeladat_vizsgazoi_peldany_2023maj.pdf
 /home/gergo/angoll/Bence/érettségi/kisérettségi/AngolFelkeszitoMunkafuzet.pdf
 /home/gergo/angoll/Bence/érettségi/angol_nyelv_kozep_szobeli_egyeni_ertekelo_lap_2024maj.pdf
+/home/gergo/angoll/Bence/érettségi/adattár/Irodalom_eretttsegi_adattar-Irodalmi_fogalomtar_bovitett.pdf
+/home/gergo/angoll/Bence/érettségi/adattár/Irodalom_eretttsegi_adattar-Tesztek_temakoronkent_j.pdf
+/home/gergo/angoll/Bence/érettségi/adattár/Irodalom_eretttsegi_adattar-Irodalmi_stilusiranyzatok_bovitett.pdf
+/home/gergo/angoll/Bence/érettségi/adattár/OH-MIR912GY__teljes.pdf
+/home/gergo/angoll/Bence/érettségi/adattár/Irodalom_eretttsegi_adattar-Mintaelemzes1.pdf
 /home/gergo/angoll/Bence/érettségi/angol_nyelv_em_szob_mintafeladat_vizsgaztatoi_peldany_2023maj.pdf
 /home/gergo/angoll/Bence/érettségi/angol_emelt_szóbeli.pdf
 /home/gergo/angoll/Bence/érettségi/k_magyir_23maj_fl.pdf
 /home/gergo/angoll/Bence/érettségi/angol_nyelv_kozep_szob_mintafeladat_vizsgaztatoi_peldany_2024maj.pdf
+/home/gergo/angoll/Bence/érettségi/wrinting_javítás.pdf
 /home/gergo/angoll/Bence/szövegek/output/olvaso.pdf
 /home/gergo/angoll/Bence/szövegek/output/legmereszebb.pdf
+/home/gergo/angoll/Bence/szövegek/kosztolanyi_szemuveg.pdf
 /home/gergo/angoll/Sebi/Clive Oxenden, Christina Latham-Koenig, Paul Seligson - English File_ Pre-intermediate_ Student’s Book-Oxford University Press (2012).pdf
 /home/gergo/angoll/Sebi/worksheets/at_the_train_station_-_exercises_4_A1.pdf
 /home/gergo/angoll/Sebi/worksheets/going_out_-_exercises_4.pdf
@@ -673,9 +742,13 @@
 /home/gergo/angoll/Sebi/szintfelmérő.pdf
 /home/gergo/angoll/Sebi/prepositions_revision.pdf
 /home/gergo/angoll/elmenykozpontu_ird_tanitas.pdf
+/home/gergo/booksToRead/Laurie B. Mintz - Becoming Cliterate_ Why Orgasm Equality Matters—And How to Get It-HarperOne (2017).epub
+/home/gergo/booksToRead/Barry W. McCarthy PhD, Michael E. Metz PhD - Coping With Premature Ejaculation_ How to Overcome PE, Please Your Partner & Have Great Sex-New Harbinger Publications (2004).pdf
 /home/gergo/booksToRead/képző/Massey, Anne_Seago, Alex - Pop Art and Design-Bloomsbury UK_Bloomsbury Academic (2018_2017).epub
 /home/gergo/booksToRead/képző/Alastair Sooke - Pop Art_ A Colourful History-Penguin (2016).epub
+/home/gergo/booksToRead/képző/patterndesignboo00dayl.pdf
 /home/gergo/booksToRead/képző/(Temporis Collection) Eric Shanes - The Pop Art Tradition_ Responding to Mass-Culture-Parkstone Press (2006).epub
+/home/gergo/booksToRead/képző/Dmitry Kirsanov - The Book of Inkscape, 2nd Edition_ The Definitive Guide to the Graphics Editor-No Starch Press (2021).epub
 /home/gergo/booksToRead/Umberto Eco, Caterina Mongiat Farina, Geoff Farina, Francesco Erspamer - How to Write a Thesis-The MIT Press (2015).epub
 /home/gergo/booksToRead/done/(Pragmatic Programmers) Drew Neil - Practical Vim_ Edit Text at the Speed of Thought-Pragmatic Bookshelf (2012).epub
 /home/gergo/booksToRead/done/No-waste kitchen gardening regrow your leftover greens, pits, seeds, and more by Elzer-Peters, Katie (z-lib.org).epub
@@ -708,6 +781,7 @@
 /home/gergo/booksToRead/bölcsész/Kittler, Friedrich A. - Optical media _ Berlin lectures 1999-Polity (2012).pdf
 /home/gergo/booksToRead/bölcsész/Danto_commonplace.epub
 /home/gergo/booksToRead/bölcsész/Latour, Bruno - Rejoicing_ Or the Torments of Religious Speech-Wiley.epub
+/home/gergo/booksToRead/bölcsész/science-studies-reader.pdf
 /home/gergo/booksToRead/bölcsész/Cary Wolfe - What Is Posthumanism_-Univ Of Minnesota Press (2009).pdf
 /home/gergo/booksToRead/bölcsész/Harold McGee - On Food and Cooking_ The Science and Lore of the Kitchen, rev. and updated (2004, Simon & Schuster Adult Publishing) - libgen.lc.epub
 /home/gergo/booksToRead/bölcsész/Umberto_Eco_and_the_Echoes_of_Adamic_Lan.pdf
@@ -727,12 +801,15 @@
 /home/gergo/booksToRead/Julia Watson_ Wade Davis - Lo-TEK _ Design by Radical Indigenism-Taschen.pdf
 /home/gergo/booksToRead/programozás/(Pragmatic Programmers) Drew Neil - Practical Vim_ Edit Text at the Speed of Thought-Pragmatic Bookshelf (2012).epub
 /home/gergo/booksToRead/programozás/Brian P. Hogan - tmux 2_ Productive Mouse-Free Development-Pragmatic Bookshelf (2017).epub
+/home/gergo/booksToRead/programozás/utp-1.0.pdf
 /home/gergo/booksToRead/programozás/Drew Neil - Modern Vim-The Pragmatic Bookshelf, LLC (2018).epub
 /home/gergo/booksToRead/programozás/ProgrammingGroundUp-0-9.epub
 /home/gergo/booksToRead/programozás/Unix_programming.epub
 /home/gergo/booksToRead/programozás/beforecomputers.pdf
 /home/gergo/booksToRead/programozás/Jared Bhatti - Docs for Developers_ An Engineer’s Field Guide to Technical Writing-Apress (2021).epub
 /home/gergo/booksToRead/Robin Wall Kimmerer - Braiding Sweetgrass_ Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants-Milkweed Editions.epub
+/home/gergo/booksToRead/Ian Kerner PhD - Good in Bed Guide to Overcoming Premature Ejaculation (2010).pdf
+/home/gergo/booksToRead/David Allen - Getting Things Done_ The Art of Stress-Free Productivity-Penguin Books (2003).epub
 /home/gergo/booksToRead/szépirodalom/Daniel Kehlmann - Tyll (2019, Magvető Könyvkiadó) - libgen.li.epub
 /home/gergo/booksToRead/szépirodalom/McCarthy, Cormac - The Road.epub
 /home/gergo/booksToRead/szépirodalom/pestis.epub
@@ -746,19 +823,9 @@
 /home/gergo/booksToRead/tipo/Pamental, Jason - Responsive typography_ Using type well on the web-O'Reilly Media, Inc.epub
 /home/gergo/booksToRead/tipo/Strizver, Ilene - Type Rules_ The Designer's Guide to Professional Typography, 4th Edition-John Wiley and Sons.epub
 /home/gergo/booksToRead/tipo/Karin Wagner - From ASCII Art To Comic Sans_ Typography And Popular Culture In The Digital Age-The MIT Press.pdf
-/home/gergo/groff/contrib/mom/examples/penguin.pdf
-/home/gergo/groff/build/contrib/pdfmark/pdfmark.pdf
-/home/gergo/groff/build/contrib/sboxes/msboxes.pdf
-/home/gergo/groff/build/contrib/mom/examples/copyright-default.pdf
-/home/gergo/groff/build/contrib/mom/examples/sample_docs.pdf
-/home/gergo/groff/build/contrib/mom/examples/slide-demo.pdf
-/home/gergo/groff/build/contrib/mom/examples/mon_premier_doc.pdf
-/home/gergo/groff/build/contrib/mom/examples/mom-pdf.pdf
-/home/gergo/groff/build/contrib/mom/examples/letter.pdf
-/home/gergo/groff/build/contrib/mom/examples/copyright-chapter.pdf
-/home/gergo/groff/build/penguin.pdf
-/home/gergo/groff/build/doc/groff-man-pages.pdf
-/home/gergo/groff/build/doc/automake.pdf
+/home/gergo/booksToRead/Vanessa Marin - Sex Talks _ The Five Conversations That Will Transform Your Love Life-S&S_Simon Element (2023).epub
+/home/gergo/booksToRead/Ian Kerner - She comes first_ the thinking man's guide to pleasuring a woman-HarperCollins (2004).epub
+/home/gergo/test/test.pdf
 /home/gergo/MA/sem3/Kertész/Jegyzőkönyv.epub
 /home/gergo/MA/sem3/Kertész/kertesz_naplobejegyzesek_valogatas.pdf
 /home/gergo/MA/sem3/Kertész/2021-2022_1_tematika_KERTESZ.pdf
@@ -848,11 +915,11 @@
 /home/gergo/MA/SZAKDOLGOZAT/munka/toc.pdf
 /home/gergo/MA/SZAKDOLGOZAT/munka/szövegek/sporhase_az_irodalomtudomany_gyakorlattana.pdf
 /home/gergo/MA/SZAKDOLGOZAT/munka/szövegek/rheinberger_scripts_and_scribbles.pdf
+/home/gergo/MA/SZAKDOLGOZAT/munka/szövegek/Science_studies_reader_intro.pdf
 /home/gergo/MA/SZAKDOLGOZAT/munka/szövegek/latour_why_has_critique_run_out_of_steam.pdf
 /home/gergo/MA/SZAKDOLGOZAT/munka/szövegek/felski_uses_of_literature.pdf
 /home/gergo/MA/SZAKDOLGOZAT/munka/szövegek/latour_compositionist_manifesto.pdf
 /home/gergo/MA/SZAKDOLGOZAT/munka/szövegek/latour_can_we_get_our_materialism.pdf
-/home/gergo/MA/SZAKDOLGOZAT/munka/szövegek/science-studies-reader.pdf
 /home/gergo/MA/SZAKDOLGOZAT/munka/szövegek/felski_postcritique.pdf
 /home/gergo/MA/SZAKDOLGOZAT/munka/szövegek/latour_drawing_things_together.pdf
 /home/gergo/MA/SZAKDOLGOZAT/munka/szövegek/felski_latour_and_literary_studies.pdf
