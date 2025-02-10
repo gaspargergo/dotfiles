@@ -79,6 +79,10 @@ call plug#end()
 "no autocomplete in textfiles and markdown files
 autocmd Filetype markdown AutoComplPopDisable
 autocmd Filetype text AutoComplPopDisable
+autocmd Filetype nroff AutoComplPopDisable
+
+"respect 80 for nroff
+autocmd Filetype nroff set textwidth=80
 
 " --- Search ---
 " incremental search
