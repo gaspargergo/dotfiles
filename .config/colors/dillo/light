@@ -1,0 +1,7 @@
+body {
+	background-color: #fbf1c7 !important;
+	color: #3c3836 !important;
+}
+a {
+	color: #458588 !important;
+}
