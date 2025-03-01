@@ -24,8 +24,10 @@ alias hc="herbstclient"
 alias chtheme="~/scripts/chtheme.sh"
 alias ls="ls -p --group-directories-first --color=auto"
 alias radio="curseradio"
-alias yt-dlp="yt-dlp --embed-subs --restrict-filenames -f '((bv*[fps>30]/bv*)[height<=720]/(wv*[fps>30]/wv*)) + ba / (b[fps>30]/b)[height<=720]/(w[fps>30]/w)'"
+alias yt-dlp="yt-dlp --embed-subs --force-ipv4 --restrict-filenames -f '((bv*[fps>30]/bv*)[height<=720]/(wv*[fps>30]/wv*)) + ba / (b[fps>30]/b)[height<=720]/(w[fps>30]/w)'"
 alias redshift="redshift -o"
+alias lsvlength='for f in *; do ffmpeg -i "$f" 2>&1 | grep Duration | cut -d " " -f 4 | sed s/,//  | tr -d "\n" && echo " $f"; done' #gets length of all videos in current directory
+alias dict="sdcv -c"
 
 # Prompt, current dir and decoration
 export PS1=" \[\e[01;34m\]\w\[\e[m\] \[\e[01;31m\]>\[\e[m\]\[\e[01;33m\]>\[\e[m\]\[\e[01;32m\]>\[\e[m\] "
@@ -56,8 +58,9 @@ shopt -s no_empty_cmd_completion
 shopt -s histappend
 
 export EDITOR='nvim'
-export BROWSER='w3m'
+export BROWSER='dillo'
 export VISUAL='nvim'
+export STARDICT_DATA_DIR='/home/gergo/stardict'
 
 # show man page for command preceding the cursor
 run-help() { help "$READLINE_LINE" 2>/dev/null || man "$READLINE_LINE"; }
