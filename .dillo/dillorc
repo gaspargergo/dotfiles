@@ -44,7 +44,7 @@
 #buffered_drawing=1
 
 # Set your default directory for download/save operations
-#save_dir=/tmp
+save_dir=/home/gergo/Downloads
 
 # Set the increment in pixels that the page is moved up/down with each input
 # from the mouse wheel, keyboard arrow keys, or scrollbar arrow buttons.
@@ -72,8 +72,9 @@
 #   $origin: URL of the current document
 # Examples:
 # link_action="Debug variables:echo url=$url origin=$origin"
-# link_action="Open in MPV:mpv $url"
-# link_action="Open in Firefox:firefox $url"
+link_action="Copy link: echo $url | xclip -selection clipboard"
+link_action="Open in MPV:mpv $url"
+link_action="Open in Firefox:firefox $url"
 
 #-------------------------------------------------------------------------
 #                           RENDERING SECTION
@@ -193,7 +194,7 @@
 # Set the new tab page.
 # new_tab_page="dpi:/bm/"
 # new_tab_page="https://example.com/"
-#new_tab_page="about:blank"
+new_tab_page="file:/home/gergo/homepage/homepage.html"
 
 # Set the URLs used by the web search dialog.
 # "%s" is replaced with the search keywords separated by '+'.
@@ -424,7 +425,7 @@ ui_tab_bg_color=#b7beb7
 
 # A mouse's middle click over a tab closes the Tab.
 # With mousewheel mouses, right click feels way better (set to YES).
-#right_click_closes_tab=YES
+right_click_closes_tab=NO
 
 # Scroll over tabs (using the mouse wheel) to switch among tabs.
 # If set to NO, the page will be scrolled instead.
