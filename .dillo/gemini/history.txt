@@ -120,3 +120,316 @@
 2025-02-28T21:53:18Z /home/gergo/.ssb/blobs/sha256/ca/f280aeb11f3ce71dd65050394c8a040c223e0496fe5387d817239291fc9d1b gemini://tilde.town/~hush/ 20 text/gemini
 2025-02-28T21:53:24Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://tilde.town/~hush/gemlog 31 gemini://tilde.town/~hush/gemlog/
 2025-02-28T21:53:26Z /home/gergo/.ssb/blobs/sha256/c0/85e2fca330094c628cf4ea33cf38c322505c850af212ed603a6fb6a075142d gemini://tilde.town/~hush/gemlog/ 20 text/gemini
+2025-03-01T16:43:49Z /home/gergo/.ssb/blobs/sha256/fb/cdadd1e660742bde81227a3c2e7090b2f28f6b0ea8b82d274fe32076e87f9c gemini://zaibatsu.circumlunar.space/~solderpunk/ 20 text/gemini
+2025-03-01T16:43:55Z /home/gergo/.ssb/blobs/sha256/60/b9484c504b14bdceeb5fe003a0a4cdf3165223b36e8dd13009a210eec64d9d gemini://zaibatsu.circumlunar.space/~solderpunk/gemlog/ 20 text/gemini
+2025-03-01T16:43:58Z /home/gergo/.ssb/blobs/sha256/dd/e2f35636c974e98a14dc0a15e61fb6e8826a2d753524cb5e5253dfd96c0b27 gemini://zaibatsu.circumlunar.space/~solderpunk/gemlog/spring-m41-ic-2e.gmi 20 text/gemini
+2025-03-01T16:44:29Z /home/gergo/.ssb/blobs/sha256/dd/e2f35636c974e98a14dc0a15e61fb6e8826a2d753524cb5e5253dfd96c0b27 gemini://zaibatsu.circumlunar.space/~solderpunk/gemlog/spring-m41-ic-2e.gmi 20 text/gemini
+2025-03-01T16:47:58Z /home/gergo/.ssb/blobs/sha256/37/7534b88142ed88e9eab6fd7d5308e4a8175fdd731041d63d40aad40327c2bd gemini://zaibatsu.circumlunar.space/~solderpunk/books.gmi 20 text/gemini
+2025-03-01T16:48:00Z /home/gergo/.ssb/blobs/sha256/1a/7fd08c139fe7c63e0704b3fce02eb7ebc9612eec7a633d6bbcaf3e55052f9e gemini://zaibatsu.circumlunar.space/~solderpunk/naturelog/ 20 text/gemini
+2025-03-01T16:48:11Z /home/gergo/.ssb/blobs/sha256/77/5882952d3edf81aec38d691d4514c164badd59446e03789fb0ae8b36a7e8e1 gemini://zaibatsu.circumlunar.space/~solderpunk/links/gemini.gmi 20 text/gemini
+2025-03-01T16:48:20Z /home/gergo/.ssb/blobs/sha256/3e/fc99a537ced0f49c5136cba0ef04414508dea343d2cf1e4270afdf0091601e gemini://zaibatsu.circumlunar.space/~solderpunk/gemlog/announcing-offlfirsoch-2025.gmi 20 text/gemini
+2025-03-01T16:54:45Z /home/gergo/.ssb/blobs/sha256/a2/38050c8b6cf38e2f612d9cae73043e6c86eada5c7e137c68b1042d1ec89ec9 gemini://officialdonut.smol.pub/ 20 text/gemini
+2025-03-01T16:54:47Z /home/gergo/.ssb/blobs/sha256/19/2292f71398707890c4f15f0cfe5f6f7fccc1550f6c12e5c202b2b03ed4d381 gemini://ploum.net/index_en.gmi 20 text/gemini
+2025-03-01T16:54:51Z /home/gergo/.ssb/blobs/sha256/82/80dd8647d32aa9a3fc0f57c557b3859b5b9105a2c2c634d972c5c2f0566871 gemini://degrowther.smol.pub/ 20 text/gemini
+2025-03-01T16:55:04Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://rawtext.club/~winter/links/ 51 Not found!
+2025-03-01T16:55:08Z /home/gergo/.ssb/blobs/sha256/b4/a7aa1a912a3cfb9680beacee02a3825dd1092f99466f58497128168bf8fa53 gemini://perma.computer/letter 20 text/gemini
+2025-03-01T16:55:27Z /home/gergo/.ssb/blobs/sha256/63/a47255cd5a00e782430ed9fecc308c92b0f4cfcceb536534327f1b518ff3a9 gemini://officialdonut.smol.pub/1666924041 20 text/gemini
+2025-03-01T16:56:32Z /home/gergo/.ssb/blobs/sha256/b1/414062483a5916d0b6c0cac4599d37221cbc02ce999636b783ecc67af2d2e5 gemini://degrowther.smol.pub/20240430_offlfirsoch_foodscale 20 text/gemini
+2025-03-01T16:56:55Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://ploum.net/atom_en.xml 51 File not found
+2025-03-01T16:57:03Z /home/gergo/.ssb/blobs/sha256/65/16bb05652752e53200921885fe9c5b7a66e810f1cc4e133ae1e431bf4db5fa gemini://ploum.net/2024-12-16-linux_desktop2.gmi 20 text/gemini
+2025-03-01T16:57:14Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://hnr.fyi/research.gmi  
+2025-03-01T16:58:47Z /home/gergo/.ssb/blobs/sha256/21/0445d2f888a12ba2b219909d501b45f3ad18483144c916a2a29a9ee3aadd8d gemini://gemini.circumlunar.space/users/adiabatic/ 20 text/gemini; charset=UTF-8; lang=en-US
+2025-03-01T16:58:51Z /home/gergo/.ssb/blobs/sha256/66/e39c5990821cf1d80fa19d8a231fd4b69a4e2dba7cef9aedcde3be14ea942f gemini://gemini.circumlunar.space/users/adiabatic/start/ 20 text/gemini; charset=UTF-8; lang=en-US
+2025-03-01T16:58:54Z /home/gergo/.ssb/blobs/sha256/13/924af529e3c5d14bc86ba05e2212ebb198a4f0efd43ff99043d26811bdd2ca gemini://tlgs.one/ 20 text/gemini
+2025-03-01T16:58:57Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://tlgs.one/search 10 Search for something
+2025-03-01T16:59:04Z /home/gergo/.ssb/blobs/sha256/41/fa146f37d5e264cb0e84307d475d6a32f762f0ffde7dea87c8c6d1206a7e9b gemini://tlgs.one/search?dillo 20 text/gemini
+2025-03-01T16:59:16Z /home/gergo/.ssb/blobs/sha256/29/6d14e0b960c5d3d4ded36ffd61a005cdb0c8dce874da2713ed7c9446b51547 gemini://gemini.tuxmachines.org/n/2024/05/06/Dillo_3_1_Open_Source_Web_Browser_Released_After_9_Year_Hiatus.gmi 20 text/gemini;lang=en-GB
+2025-03-01T16:59:17Z /home/gergo/.ssb/blobs/sha256/60/ccc94f1f3a81c70d116fe97e575ec4282afb760d08fa9928f2080ff7328e5c gemini://gemini.ctrl-c.club/~lettuce/rss-added.gmi 20 text/gemini
+2025-03-01T16:59:21Z /home/gergo/.ssb/blobs/sha256/55/3685f5f0c9abf5f22d5d16f37fbdcd32ccdd64725ea651ce4ef3ad44e86eb7 gemini://ivanodintsoff.smol.pub/dillo-good-alternative 20 text/gemini
+2025-03-01T17:00:05Z /home/gergo/.ssb/blobs/sha256/19/982792389cdf1015ad21291d09f592d5c5ca4a23df5376b43278cab007d63a gemini://gemini.tuxmachines.org/ 20 text/gemini;lang=en-GB
+2025-03-01T17:14:23Z /home/gergo/.ssb/blobs/sha256/db/a86b5162cd49807cc0f5d2afb854f70939feaa1175157ce45851f0efb01f0a gemini://hyperborea.org/reviews/software/dillo.gmi 20 text/gemini;lang=en-US
+2025-03-01T17:15:32Z /home/gergo/.ssb/blobs/sha256/83/602ce79c9e0f656ddab6befaf7dc4f14b646797dff1410a7612a548afd3851 gemini://hyperborea.org/reviews/software/lagrange.gmi 20 text/gemini;lang=en-US
+2025-03-01T17:15:54Z /home/gergo/.ssb/blobs/sha256/9c/5b2616d3a8179f88fad532203d1f378df90c63ec535df0087f6153ed6cf978 gemini://hyperborea.org/reviews/tag/web-browser.gmi 20 text/gemini;lang=en-US
+2025-03-01T17:15:58Z /home/gergo/.ssb/blobs/sha256/29/185924deaaaba05b9773092e6c98495c256ab2df65731e27261d069855bf9e gemini://hyperborea.org/reviews/software/firefox.gmi 20 text/gemini;lang=en-US
+2025-03-01T17:16:12Z /home/gergo/.ssb/blobs/sha256/de/ee5a1cad6503383dfbe273cdeff9d0fe3bbdf80991b186c200ad790c581c33 gemini://freeshell.de/tldr/dillo.gmi 20 text/gemini;lang=en-GB
+2025-03-02T10:25:21Z /home/gergo/.ssb/blobs/sha256/06/e0a2b0e2dda4f943382880afcced7c4c7abc38103a4f889fbdca8bdf3a07eb gemini://gemini.ctrl-c.club/~megymagy/ 20 text/gemini
+2025-03-02T10:25:24Z /home/gergo/.ssb/blobs/sha256/cf/341777266fbe863ffbbcdd64ef48d1e377894edcdb81c4a506e2b9821c782c gemini://gemini.ctrl-c.club/~megymagy/bookmarks.gmi 20 text/gemini
+2025-03-02T10:25:37Z /home/gergo/.ssb/blobs/sha256/cd/ff4a3792e9324fffe61bada3ba70b3ff8308f154c527722dc5b7fc35bc2d13 gemini://gemini.thegonz.net/ 20 text/gemini
+2025-03-02T10:25:50Z /home/gergo/.ssb/blobs/sha256/10/201d19c795d28ad7062c470f4e609099d1611a92dda087159696aa3d79eb95 gemini://warmedal.se/~antenna/ 20 text/gemini; lang=en
+2025-03-02T10:25:57Z /home/gergo/.ssb/blobs/sha256/2e/0d8fcde8f7db92cca81dd3b88c70a9c971ac72e4edce62d7f418ea1b4633bd gemini://gemini.conman.org/boston/2025/03/01.1 20 text/gemini
+2025-03-02T10:26:19Z /home/gergo/.ssb/blobs/sha256/68/4711d9f18b6ef3ed55b071dde04f3f582e4c8580daadd90435b517db6dee6a gemini://idiomdrottning.org/time-flies 20 text/gemini; lang=en
+2025-03-02T10:28:15Z /home/gergo/.ssb/blobs/sha256/08/e5088d1d78f72c9ff392ff6a975db80c6c0ee6516c35b67deaec1f856e6844 gemini://idiomdrottning.org/ai-danger 20 text/gemini; lang=en
+2025-03-02T10:29:24Z /home/gergo/.ssb/blobs/sha256/8f/b243b23ea661c9245e331fe95224cf7d5f8f3f9a7fe7583420bc61358aa413 gemini://gemini.circumlunar.space/capcom/ 20 text/gemini
+2025-03-02T10:29:33Z /home/gergo/.ssb/blobs/sha256/f4/bd765dd1a729f66e7dde72c28985b33a19a74d492facb8b7f7f96b6f0fcf72 gemini://thrig.me/blog/2025/02/27/ss.gmi 20 text/gemini
+2025-03-02T10:30:15Z /home/gergo/.ssb/blobs/sha256/06/dbc9165fe243bc94d33db6eafd95d1f481f0dbc184c37cfdab241bc6c54ff7 gemini://alex.flounder.online/index.gmi 20 text/gemini; charset=utf-8
+2025-03-02T10:30:21Z /home/gergo/.ssb/blobs/sha256/b8/7e0ff04aaa0d1f770297201aec94d1575bfcb9a122a8f8d7f4f15f333be70d gemini://alex.flounder.online/gemlog/ 20 text/gemini
+2025-03-02T10:30:27Z /home/gergo/.ssb/blobs/sha256/cc/df4c61607a14b4e4e602d1e9ca984603d34cdb972ae3b5db6e39306faed9dc gemini://tilde.team/~aprilnightk/ 20 text/gemini; lang=en
+2025-03-02T10:30:35Z /home/gergo/.ssb/blobs/sha256/c7/dbcae02615a5fc063e5652a312690180ed10f67b5d2746e71f91fb04445963 gemini://compudanzas.net/home.gmi 20 text/gemini; charset=utf-8
+2025-03-02T10:30:39Z /home/gergo/.ssb/blobs/sha256/45/bb7f7fdd5d3f28e42cecb72ed88444e69f8c4e391cc7fbcb6f2862486bf600 gemini://compudanzas.net/img/foto_laconsagracion_playa.jpg 20 image/jpeg
+2025-03-02T10:30:44Z /home/gergo/.ssb/blobs/sha256/55/248e6027e86bb51bbb254e2fd15ab4b8bbe8d262b8a9427b142c2ef7c3dda7 gemini://compudanzas.net/log.gmi 20 text/gemini; charset=utf-8
+2025-03-02T10:30:58Z /home/gergo/.ssb/blobs/sha256/95/673687d8df59d1057e5f82fac3e31117d8681221b81fea69ddff7d9f1e451a gemini://compudanzas.net/jarotsim.gmi 20 text/gemini; charset=utf-8
+2025-03-02T10:31:04Z /home/gergo/.ssb/blobs/sha256/3d/4f0af6ea1f039989f8b2c7cefa00923341bb8856ad33af40301a413ae71ec2 gemini://compudanzas.net/img/screenshot_jarotsim_banner.png 20 image/png
+2025-03-02T10:32:14Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://hexdsl.co.uk/  
+2025-03-02T10:32:19Z /home/gergo/.ssb/blobs/sha256/ba/c86f013f5c5a362e819e3dcea0ad6a876e04347c5ab491b370d66b302d3afc gemini://gemini.ctrl-c.club/~lettuce/ 20 text/gemini
+2025-03-02T10:32:27Z /home/gergo/.ssb/blobs/sha256/96/4178ff50a1939c7826ba1b3cf5416c7a86be1a23a6fbca8a67d71440941cea gemini://lyk.so/ 20 text/gemini;
+2025-03-02T10:32:39Z /home/gergo/.ssb/blobs/sha256/21/a0c77e5afcbc472a0de8d029808a42dc292ad43552813a0bfcad867786f775 gemini://lyk.so/small-internet/spartan/ 20 text/gemini;
+2025-03-02T10:33:10Z /home/gergo/.ssb/blobs/sha256/c5/82513877865ce1b8a773fb937422bb1372c4cfbc1d6c8931d6dd13fcfe0d2c gemini://gemini.sensorstation.co/ 20 text/gemini; charset=utf-8
+2025-03-02T10:33:13Z /home/gergo/.ssb/blobs/sha256/f1/74091322b3ab359437d18af7d69d71ab4b140ed77c2d67c495d6bfb8d1e481 gemini://gemini.sensorstation.co/~winduptoy/ 20 text/gemini; charset=utf-8
+2025-03-02T10:33:17Z /home/gergo/.ssb/blobs/sha256/0d/147f1bd52cfbae4457843f970db0f4c75f81d4cbeff05b1d1007a376a35fae gemini://gemini.sensorstation.co/~winduptoy/log.gmi 20 text/gemini; charset=utf-8
+2025-03-02T10:33:26Z /home/gergo/.ssb/blobs/sha256/87/1cd3d543320a7628f5ac277870efbd969a2f0797bdb3d8133a787c98677377 gemini://tobykurien.com/ 20 text/gemini; lang=en
+2025-03-02T10:33:30Z /home/gergo/.ssb/blobs/sha256/37/414eb0ca2270ac40e5b33cefe7584a3286bd0f0ed6c0614074e2e87fd62d7b gemini://tobykurien.com/microblog.gmi 20 text/gemini; lang=en
+2025-03-02T10:35:19Z /home/gergo/.ssb/blobs/sha256/f5/46c10370d3e02c802e068cce3f933be9661999a2ba4c7db9d44a5f1a4e685f gemini://tobykurien.com/images/microblog/post-1723361249-0.png 20 image/png
+2025-03-02T10:41:05Z /home/gergo/.ssb/blobs/sha256/7b/8d9a9f24f42d76ff99167b659e1129a47ab44eac3366f19ea3effef3d2a9f4 gemini://tobykurien.com/images/microblog/post-1699772999-0.png 20 image/png
+2025-03-02T10:41:37Z /home/gergo/.ssb/blobs/sha256/bb/d7aea5be0f7f1db9b501091bfeceb25bf20b6414690d439be81af258b29c1e gemini://tobykurien.com/replies/2022-04-10-re-phone-web-browser.gmi 20 text/gemini; lang=en
+2025-03-02T10:41:45Z /home/gergo/.ssb/blobs/sha256/3f/e573cfa4e52c772343bea95d741112238e9dc85deed1a098c0acf249404bf7 gemini://tobykurien.com/articles/2022-10-08-simpler-linux-selfhosting.gmi 20 text/gemini; lang=en
+2025-03-02T10:43:55Z /home/gergo/.ssb/blobs/sha256/20/e76ce4170ed62206fb84821552acca2fc86e5296b66b292ab12f01913587a5 gemini://tilde.pink/~bencollver/ 20 text/gemini;
+2025-03-03T16:07:14Z /home/gergo/.ssb/blobs/sha256/fb/cdadd1e660742bde81227a3c2e7090b2f28f6b0ea8b82d274fe32076e87f9c gemini://zaibatsu.circumlunar.space/~solderpunk/ 20 text/gemini
+2025-03-03T16:07:19Z /home/gergo/.ssb/blobs/sha256/06/e0a2b0e2dda4f943382880afcced7c4c7abc38103a4f889fbdca8bdf3a07eb gemini://gemini.ctrl-c.club/~megymagy/ 20 text/gemini
+2025-03-03T16:07:21Z /home/gergo/.ssb/blobs/sha256/cf/341777266fbe863ffbbcdd64ef48d1e377894edcdb81c4a506e2b9821c782c gemini://gemini.ctrl-c.club/~megymagy/bookmarks.gmi 20 text/gemini
+2025-03-03T16:07:24Z /home/gergo/.ssb/blobs/sha256/6e/89e51fd0a5c9ce9662179249dd73eca808fcb5f5413a8edc954ad8b3d0ca5e gemini://warmedal.se/~antenna/ 20 text/gemini; lang=en
+2025-03-03T16:07:34Z /home/gergo/.ssb/blobs/sha256/0d/af91b2a40112b8a07eefdfda9c6466a3f250400ef06ce0e8f01bbc76800471 gemini://charptr.fyi/post/2025-03-03.gmi 20 text/gemini
+2025-03-03T16:09:11Z /home/gergo/.ssb/blobs/sha256/37/91df3bad1f1511c79b6e03cb7b3ea080fb1be36be412a4cce0be7bccc5df29 gemini://redterminal.org/gemlog/2025-03-03-Mission_accomplished_-_ConsoleChallenge.gmi 20 text/gemini;lang=en
+2025-03-03T16:12:37Z /home/gergo/.ssb/blobs/sha256/58/4fecbd8056410f675f5b45a5451791c924be25ff9f3605be88f69258ea6d78 gemini://gemini.circumlunar.space/capcom/ 20 text/gemini
+2025-03-03T16:12:50Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://gemini.circumlunar.space/~solderpunk 31 gemini://zaibatsu.circumlunar.space/~solderpunk/
+2025-03-03T16:13:06Z /home/gergo/.ssb/blobs/sha256/77/5882952d3edf81aec38d691d4514c164badd59446e03789fb0ae8b36a7e8e1 gemini://zaibatsu.circumlunar.space/~solderpunk/links/gemini.gmi 20 text/gemini
+2025-03-03T16:13:11Z /home/gergo/.ssb/blobs/sha256/6d/bb3a49ae4b175565ed0a70441669a280630074f327df079775101769432d63 gemini://skyjake.fi/~Cosmos/ 20 text/gemini;lang=en
+2025-03-03T16:13:20Z /home/gergo/.ssb/blobs/sha256/89/446f05d47facc0c943503572d602ef5ce347528ed2efeb9a137d3355f26d33 gemini://midnight.pub/posts/2520 20 text/gemini
+2025-03-05T14:58:33Z /home/gergo/.ssb/blobs/sha256/fb/cdadd1e660742bde81227a3c2e7090b2f28f6b0ea8b82d274fe32076e87f9c gemini://zaibatsu.circumlunar.space/~solderpunk/ 20 text/gemini
+2025-03-05T14:58:34Z /home/gergo/.ssb/blobs/sha256/06/e0a2b0e2dda4f943382880afcced7c4c7abc38103a4f889fbdca8bdf3a07eb gemini://gemini.ctrl-c.club/~megymagy/ 20 text/gemini
+2025-03-05T14:58:35Z /home/gergo/.ssb/blobs/sha256/1a/984cb32942b5854f7eac56dca4aa74b87fd712236f759646d22f8471a6ce5a gemini://smol.diy/ 20 text/gemini
+2025-03-05T14:58:37Z /home/gergo/.ssb/blobs/sha256/eb/94b5db511ca67848e78c7515fe87e89efb52d0929cf816361499869afd89ce gemini://thatit.be/ 20 text/gemini
+2025-03-05T14:58:38Z /home/gergo/.ssb/blobs/sha256/21/0445d2f888a12ba2b219909d501b45f3ad18483144c916a2a29a9ee3aadd8d gemini://gemini.circumlunar.space/users/adiabatic/ 20 text/gemini; charset=UTF-8; lang=en-US
+2025-03-05T14:58:39Z /home/gergo/.ssb/blobs/sha256/ca/f280aeb11f3ce71dd65050394c8a040c223e0496fe5387d817239291fc9d1b gemini://tilde.town/~hush/ 20 text/gemini
+2025-03-05T14:58:47Z /home/gergo/.ssb/blobs/sha256/60/b9484c504b14bdceeb5fe003a0a4cdf3165223b36e8dd13009a210eec64d9d gemini://zaibatsu.circumlunar.space/~solderpunk/gemlog/ 20 text/gemini
+2025-03-05T14:58:54Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://tilde.town/~hush/gemlog 31 gemini://tilde.town/~hush/gemlog/
+2025-03-05T14:58:57Z /home/gergo/.ssb/blobs/sha256/c0/85e2fca330094c628cf4ea33cf38c322505c850af212ed603a6fb6a075142d gemini://tilde.town/~hush/gemlog/ 20 text/gemini
+2025-03-05T14:59:13Z /home/gergo/.ssb/blobs/sha256/2d/409e8a8ec92b50febcf3d23c8d6c34ccad33ea1286e4eb5e4bfd2b4e940f1a gemini://gemini.circumlunar.space/users/adiabatic/words/ 20 text/gemini
+2025-03-05T14:59:17Z /home/gergo/.ssb/blobs/sha256/c6/847461436f9483020461c4c8d25a4518b0785963f3459cf5580c87036fd796 gemini://gemini.circumlunar.space/users/adiabatic/words/computing/ 20 text/gemini
+2025-03-05T14:59:22Z /home/gergo/.ssb/blobs/sha256/ac/b6e1b224ecb39d72beafc0cb28594ff61fd588c5b793ed00c9bfb6a40c65c3 gemini://gemini.circumlunar.space/users/adiabatic/words/computing/offlfirsoch-writ-small/ 20 text/gemini; charset=UTF-8; lang=en-US
+2025-03-05T15:00:58Z /home/gergo/.ssb/blobs/sha256/06/73c64c464d8e5db008ddf34a687a3c796475b97e8cc34c0078789271cf2bad gemini://gemini.circumlunar.space/users/adiabatic/words/computing/programs/ 20 text/gemini; charset=UTF-8; lang=en-US
+2025-03-05T15:04:48Z /home/gergo/.ssb/blobs/sha256/22/b354e3478db569663f5650e91eeedcbdf4a43b9951534f8abfdebcd1c81b37 gemini://thatit.be/2025-02-24-09-40-52.gmi 20 text/gemini
+2025-03-05T15:04:56Z /home/gergo/.ssb/blobs/sha256/3b/7ff435f00905197278c42b32e37a287e157d4dd2d9d7cbce1a88ac2f04bed0 gemini://smol.diy/gemlog/ 20 text/gemini
+2025-03-05T15:05:02Z /home/gergo/.ssb/blobs/sha256/cf/341777266fbe863ffbbcdd64ef48d1e377894edcdb81c4a506e2b9821c782c gemini://gemini.ctrl-c.club/~megymagy/bookmarks.gmi 20 text/gemini
+2025-03-05T15:05:06Z /home/gergo/.ssb/blobs/sha256/43/d62fca259933371feb79ce1298af81d681ea61178f72d7d5307aa63921e33b gemini://warmedal.se/~antenna/ 20 text/gemini; lang=en
+2025-03-05T15:05:12Z /home/gergo/.ssb/blobs/sha256/1d/8ae6ebc181a287875d7d9d532bdd2c6d91c3597842643c85aa2386dbff8a5f gemini://vigrey.com/journal/i-made-a-font 20 text/gemini; charset=utf-8
+2025-03-05T15:05:24Z /home/gergo/.ssb/blobs/sha256/dd/ce4a5be207234a44b94cb12708d6eddaf81e874cae733082269c4667179779 gemini://gem.sdf.org/beej/blog/2025-03-04-bicycle.gmi 20 text/gemini
+2025-03-05T15:05:27Z /home/gergo/.ssb/blobs/sha256/79/8338879fa2b14cfe63ba1ba9be7e226ff54014752721081c34898b7c9a4d03 gemini://gemini.ucant.org/gemlog/2025-03-03_the-commonhold-white-paper.gmi 20 text/gemini
+2025-03-05T15:05:45Z /home/gergo/.ssb/blobs/sha256/4e/3a0ecd17d2d4fb93f40797304e3e3a09c26c5be1b667413f998dc37e5e4291 gemini://vigrey.com/images/fonts/EightByEight.png 20 image/png
+2025-03-05T15:06:04Z /home/gergo/.ssb/blobs/sha256/b6/cb4d291620230158a11f3aa21d90b5097423d5303915e3b4060269edb65a9f gemini://vigrey.com/fonts/index.gmi 20 text/gemini; charset=utf-8
+2025-03-05T15:06:48Z /home/gergo/.ssb/blobs/sha256/0a/b63517da176127fa909e3a19510f582c81b7e50b7fd3f06284c62e042aae80 gemini://gemini.circumlunar.space/capcom/ 20 text/gemini
+2025-03-05T15:06:54Z /home/gergo/.ssb/blobs/sha256/bb/b514872969ab35ac56b7c4d9d4743b1515f228e9cc1e502afc4c4579f9c60e gemini://foo.zone/gemfeed/2025-03-05-sharing-on-social-media-with-gos.gmi 20 text/gemini;
+2025-03-05T15:06:57Z /home/gergo/.ssb/blobs/sha256/b6/f426cd491c2b0ffbae388d425dba295b75acb65b47caf5581db3bf5bd67489 gemini://gemini.conman.org/boston/2025/03/03.1 20 text/gemini
+2025-03-05T19:05:07Z /home/gergo/.ssb/blobs/sha256/06/e0a2b0e2dda4f943382880afcced7c4c7abc38103a4f889fbdca8bdf3a07eb gemini://gemini.ctrl-c.club/~megymagy/ 20 text/gemini
+2025-03-05T19:05:12Z /home/gergo/.ssb/blobs/sha256/cf/341777266fbe863ffbbcdd64ef48d1e377894edcdb81c4a506e2b9821c782c gemini://gemini.ctrl-c.club/~megymagy/bookmarks.gmi 20 text/gemini
+2025-03-05T19:05:19Z /home/gergo/.ssb/blobs/sha256/ba/c86f013f5c5a362e819e3dcea0ad6a876e04347c5ab491b370d66b302d3afc gemini://gemini.ctrl-c.club/~lettuce/ 20 text/gemini
+2025-03-05T19:05:27Z /home/gergo/.ssb/blobs/sha256/20/e76ce4170ed62206fb84821552acca2fc86e5296b66b292ab12f01913587a5 gemini://tilde.pink/~bencollver/ 20 text/gemini;
+2025-03-05T19:05:31Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://medusae.space/  
+2025-03-05T19:05:38Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://rawtext.club/~ploum/ 51 Not found!
+2025-03-05T19:05:42Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://gemini.circumlunar.space/~solderpunk 31 gemini://zaibatsu.circumlunar.space/~solderpunk/
+2025-03-05T19:05:46Z /home/gergo/.ssb/blobs/sha256/fb/cdadd1e660742bde81227a3c2e7090b2f28f6b0ea8b82d274fe32076e87f9c gemini://zaibatsu.circumlunar.space/~solderpunk/ 20 text/gemini
+2025-03-05T19:06:04Z /home/gergo/.ssb/blobs/sha256/21/0428fef49d5df0508ac40d7860dede28cb23d3c0cc91bf0915ab29457649a0 gemini://zaibatsu.circumlunar.space/~solderpunk/links/web.gmi 20 text/gemini
+2025-03-05T19:06:06Z /home/gergo/.ssb/blobs/sha256/59/5d2b817366eee9231e686b9f7285d2ca86162ec3a764b1d99a154615c67393 gemini://zaibatsu.circumlunar.space/~solderpunk/links/gopher.gmi 20 text/gemini
+2025-03-05T19:06:13Z /home/gergo/.ssb/blobs/sha256/80/19d81dc22c4c0066d74dce4f843521c4568349ff5c7fad1b359752021c049e gemini://zaibatsu.circumlunar.space/~solderpunk/only-tech-on-gemini.gmi 20 text/gemini
+2025-03-05T19:06:14Z /home/gergo/.ssb/blobs/sha256/77/5882952d3edf81aec38d691d4514c164badd59446e03789fb0ae8b36a7e8e1 gemini://zaibatsu.circumlunar.space/~solderpunk/links/gemini.gmi 20 text/gemini
+2025-03-05T19:07:44Z /home/gergo/.ssb/blobs/sha256/59/5d2b817366eee9231e686b9f7285d2ca86162ec3a764b1d99a154615c67393 gemini://zaibatsu.circumlunar.space/~solderpunk/links/gopher.gmi 20 text/gemini
+2025-03-05T19:09:40Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://gemtext.space/perfect-binding.gmi  
+2025-03-05T19:09:43Z /home/gergo/.ssb/blobs/sha256/f0/e5398f5bc366dfe02cc07687ec0ece7131bee46082a48e6d43c4772e0b9e78 gemini://idiomdrottning.org/art-improvement 20 text/gemini; lang=en
+2025-03-05T19:10:02Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://anachronauts.club/~voidstar/log/2021-08-15-silkscreen.gmi  
+2025-03-05T19:10:04Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://rawtext.club/~winter/gemlog/2023/4-12.gmi 51 Not found!
+2025-03-05T19:10:49Z /home/gergo/.ssb/blobs/sha256/c7/aa636add21ad21984cf0d3a8c8bfcbff72bc2b1f5d5b8ce1d990aff121746b gemini://gemini.circumlunar.space/users/hundredrabbits/sprouting.gmi 20 text/gemini
+2025-03-05T19:11:04Z /home/gergo/.ssb/blobs/sha256/68/89e90bb3caf58dbe486e9b02b0133ac22a0c910122fef75e030bf934b3de6c gemini://arcanesciences.com/gemlog/23-01-10/ 20 text/gemini
+2025-03-05T19:13:03Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://inconsistentuniverse.space/gemlog/2022-01-19-stoic.gmi  
+2025-03-05T19:17:36Z /home/gergo/.ssb/blobs/sha256/4c/7cc0347e22fa5f5045db48cee9a9c119b9c2e2491cce4e199c9a8e5db024f3 gemini://idiomdrottning.org/isaiah-forty-six.png 20 image/png
+2025-03-05T19:25:11Z /home/gergo/.ssb/blobs/sha256/20/22b469b803fbc9dbf625589e892354d470c3fc982132b14af8748c92608042 gemini://idiomdrottning.org/ 20 text/gemini; lang=en
+2025-03-05T19:25:16Z /home/gergo/.ssb/blobs/sha256/8d/ca47ee960cb30651d2033939abfbfbcae38d01708de802c10550397b8cf1b9 gemini://idiomdrottning.org/sub 20 text/gemini; lang=en
+2025-03-05T19:25:45Z /home/gergo/.ssb/blobs/sha256/67/fb157b54e16f680ff4cfbe9dca16cad3619bf13a45d3068aac7829acb7d702 gemini://idiomdrottning.org/modern-art 20 text/gemini; lang=en
+2025-03-05T19:25:56Z /home/gergo/.ssb/blobs/sha256/12/b1bf47ac808f16cd1e45ab48aff01c4a42355a48d02bd41b887f4d691acb4f gemini://idiomdrottning.org/art-that-broke-mold 20 text/gemini; lang=en
+2025-03-05T19:26:07Z /home/gergo/.ssb/blobs/sha256/7b/f291de61210f07093d28cc0e5b58c35ef9891aad18468b56b6b8fd76863ce2 gemini://idiomdrottning.org/the-art-fear 20 text/gemini; lang=en
+2025-03-05T20:30:22Z /home/gergo/.ssb/blobs/sha256/ca/f280aeb11f3ce71dd65050394c8a040c223e0496fe5387d817239291fc9d1b gemini://tilde.town/~hush/ 20 text/gemini
+2025-03-05T20:30:26Z /home/gergo/.ssb/blobs/sha256/dc/91c046e37f91cde365005e5a22dc61f9973a4a5320d703a3e4a5550316adfc gemini://tilde.town/~hush/following.gmi 20 text/gemini
+2025-03-05T20:30:29Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://tilde.town/~hush/gemlog 31 gemini://tilde.town/~hush/gemlog/
+2025-03-05T20:30:31Z /home/gergo/.ssb/blobs/sha256/c0/85e2fca330094c628cf4ea33cf38c322505c850af212ed603a6fb6a075142d gemini://tilde.town/~hush/gemlog/ 20 text/gemini
+2025-03-05T20:30:46Z /home/gergo/.ssb/blobs/sha256/30/529f2b0d5b71b3b1747a692ba8911c6aabff349a0e27bf9af4112f680bceac gemini://tilde.town/~hush/gemlog/2024-02-10.gmi 20 text/gemini
+2025-03-05T20:33:24Z /home/gergo/.ssb/blobs/sha256/20/22b469b803fbc9dbf625589e892354d470c3fc982132b14af8748c92608042 gemini://idiomdrottning.org/ 20 text/gemini; lang=en
+2025-03-05T20:33:40Z /home/gergo/.ssb/blobs/sha256/e1/890eec7c5f422488ab512492579ea76a0992a829668d5dca5ec13971e57264 gemini://idiomdrottning.org/pixra 20 text/gemini; lang=en
+2025-03-05T20:33:44Z /home/gergo/.ssb/blobs/sha256/23/25c7234104ff8d22dca69d8c59f76657b0b8de32a39beab6f9e12bf83a12d2 gemini://idiomdrottning.org/i-hope-my-dream-never-haunted-you.png 20 image/png
+2025-03-05T20:34:03Z /home/gergo/.ssb/blobs/sha256/8d/a2efb13267e392e29731399cb5a02e9f41eab62145ab8e718b3951c223049f gemini://idiomdrottning.org/her-name-means-no-mercy.jpeg 20 image/jpeg
+2025-03-05T20:34:04Z /home/gergo/.ssb/blobs/sha256/0b/a9e233951594ee24ba17a1f4c2b2c9db3448e9588ad008cffa02739e2226ab gemini://idiomdrottning.org/quaint.jpeg 20 image/jpeg
+2025-03-05T20:34:08Z /home/gergo/.ssb/blobs/sha256/a2/e6ed38b052e19864147f585ac70ff531ca7f25f51d9495f2a671b2d2d90c73 gemini://idiomdrottning.org/we-also-have.png 20 image/png
+2025-03-05T20:34:30Z /home/gergo/.ssb/blobs/sha256/ee/d3e184af8c2bd3f1e0ae67c5fe7d1c8361c8de5db1e3691bf3b637cd650371 gemini://idiomdrottning.org/frida-seuss.png 20 image/png
+2025-03-05T20:34:41Z /home/gergo/.ssb/blobs/sha256/ec/bb12dd30e02c896d87650284b38fd49b5ecdd1f40f4a67a1e398cc78621419 gemini://idiomdrottning.org/i18-bottle.png 20 image/png
+2025-03-05T20:34:57Z /home/gergo/.ssb/blobs/sha256/a1/65f895f93be99d1b0aea3af1f2425aab94e990041c203293ff97fd9f57784c gemini://idiomdrottning.org/i18-expensive.png 20 image/png
+2025-03-05T20:35:12Z /home/gergo/.ssb/blobs/sha256/0c/63870dc3d79d21430d63965ce3310b32757d3a9e0a2f3ea308c925bffa094f gemini://idiomdrottning.org/i18-slice.png 20 image/png
+2025-03-05T20:35:22Z /home/gergo/.ssb/blobs/sha256/24/3919fe5c1b52c47b6b752f66863d45caa4209cdad18d3c7127c9847609a220 gemini://idiomdrottning.org/ebt.png 20 image/png
+2025-03-05T20:35:30Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://inconsistentuniverse.space/  
+2025-03-05T20:35:43Z /home/gergo/.ssb/blobs/sha256/91/709cce8de67e7108b7108c31e69e17a1fce079b810c161b3bb3dc149644cbb gemini://idiomdrottning.org/Sandra 20 text/gemini; lang=en
+2025-03-06T14:13:13Z /home/gergo/.ssb/blobs/sha256/06/e0a2b0e2dda4f943382880afcced7c4c7abc38103a4f889fbdca8bdf3a07eb gemini://gemini.ctrl-c.club/~megymagy/ 20 text/gemini
+2025-03-06T14:13:16Z /home/gergo/.ssb/blobs/sha256/cf/341777266fbe863ffbbcdd64ef48d1e377894edcdb81c4a506e2b9821c782c gemini://gemini.ctrl-c.club/~megymagy/bookmarks.gmi 20 text/gemini
+2025-03-06T14:13:23Z /home/gergo/.ssb/blobs/sha256/a9/17f7d58cf5390ab157561beacf83dcf5f833767d2f3e69880ba9aac933a41f gemini://warmedal.se/~antenna/ 20 text/gemini; lang=en
+2025-03-06T14:13:29Z /home/gergo/.ssb/blobs/sha256/ec/820e3f6bb732e52808eacadc8f6455a9686d070076b49d418f9e44db2cc2e6 gemini://gemini.circumlunar.space/capcom/ 20 text/gemini
+2025-03-06T14:13:44Z /home/gergo/.ssb/blobs/sha256/2e/a0692f98c6e8182b88a6cf3c88328f8e0a000b1eef6473ec17a56f5d68fd3e gemini://alexschroeder.ch/2025-03-05-processing 20 text/gemini
+2025-03-06T14:13:46Z /home/gergo/.ssb/blobs/sha256/53/6d20f2d8d942296dfd7a32a2d63ea3638dca746f3ecfe796c8198a399d5f88 gemini://sporiff.dev/2025/03/06/devlog_11/ 20 text/gemini
+2025-03-06T14:16:01Z /home/gergo/.ssb/blobs/sha256/ac/3828627610bb015b35994043bfe22cad777694b165535f2bacf5e7e059a8f3 gemini://thrig.me/blog/2025/03/06/dig.gmi 20 text/gemini
+2025-03-06T14:16:24Z /home/gergo/.ssb/blobs/sha256/42/6b1087e6635e1d66b16565ade5e7434c5361c5c13a586f27cca6ff95d69c03 gemini://skyjake.fi/~Cosmos/ 20 text/gemini;lang=en
+2025-03-06T14:16:39Z /home/gergo/.ssb/blobs/sha256/73/c3bd8a81a2c0d13d1bc9732179e0117de75ebbf0b1fbe519b909a373b145bb gemini://discogem.gmi.bacardi55.io/capsules-of-the-day-2025-03-06/ 20 text/gemini; lang=en
+2025-03-06T14:16:40Z /home/gergo/.ssb/blobs/sha256/17/f078472888d8771f2c03542533f120ffdf5497994d600875c743d609549cf7 gemini://myoldtweets.smol.pub/remaking-my-homepage 20 text/gemini
+2025-03-06T14:18:01Z /home/gergo/.ssb/blobs/sha256/6e/6fa46c960d20e8bdf1103161a9b015e27a3ce5eb5df3c60d04d3eecffd4a42 gemini://sorrel-sour.club/ 20 text/gemini
+2025-03-06T14:18:04Z /home/gergo/.ssb/blobs/sha256/94/3a82320a4017238542f30be11a0ab35c0f85e3c8bdce931ac4885a639661b2 gemini://discogem.gmi.bacardi55.io/ 20 text/gemini; lang=en
+2025-03-06T14:18:13Z /home/gergo/.ssb/blobs/sha256/95/98d981341184b087cb0bdc1ef5543eaa4b7038fce523ed2ad5ee1374bfb042 gemini://sorrel-sour.club/posts 20 text/gemini
+2025-03-06T14:18:17Z /home/gergo/.ssb/blobs/sha256/26/477bc9790831e279c5c9c08e001e86a9ad844eda7f350949eb9447ad22a0e5 gemini://sorrel-sour.club/web-tings-1 20 text/gemini
+2025-03-06T14:20:46Z /home/gergo/.ssb/blobs/sha256/ac/aa8d0daf612f864ea0b40fa151d6acfb7c14617d3a192297f43de9c87d62f6 gemini://sorrel-sour.club/27099223939_9c445aa294_b.jpg 20 image/jpeg
+2025-03-06T14:22:34Z /home/gergo/.ssb/blobs/sha256/43/3d2f47f0ca6e1f659211c340a69b7033f7b162b8e26b1c8427977bf1fc27cb gemini://sorrel-sour.club/about 20 text/gemini
+2025-03-07T18:07:51Z /home/gergo/.ssb/blobs/sha256/06/e0a2b0e2dda4f943382880afcced7c4c7abc38103a4f889fbdca8bdf3a07eb gemini://gemini.ctrl-c.club/~megymagy/ 20 text/gemini
+2025-03-07T18:07:56Z /home/gergo/.ssb/blobs/sha256/cf/341777266fbe863ffbbcdd64ef48d1e377894edcdb81c4a506e2b9821c782c gemini://gemini.ctrl-c.club/~megymagy/bookmarks.gmi 20 text/gemini
+2025-03-07T18:07:59Z /home/gergo/.ssb/blobs/sha256/f5/35c6241245a8d6aba8ba0e3e11073262d3ad1d0a1d40ce8a1f22c5f33fcf6a gemini://gemini.circumlunar.space/capcom/ 20 text/gemini
+2025-03-07T18:08:02Z /home/gergo/.ssb/blobs/sha256/e2/ce8c043a475872c0fd0647e7c273f0bf5d1fd97144f5d37edc1dd5b7aa1660 gemini://warmedal.se/~antenna/ 20 text/gemini; lang=en
+2025-03-07T18:08:05Z /home/gergo/.ssb/blobs/sha256/ac/8aeae28d8ebae5a8381d56c853b7a9125b804346df263bb20e37e6ab23d0ba gemini://skyjake.fi/~Cosmos/ 20 text/gemini;lang=en
+2025-03-07T18:08:16Z /home/gergo/.ssb/blobs/sha256/2a/0640d67bb5623ebaf26bd5ff7788608e271cb845586a58b79680fe6acf5b08 gemini://thrig.me/blog/2025/03/07/leap.gmi 20 text/gemini
+2025-03-07T18:09:55Z /home/gergo/.ssb/blobs/sha256/f1/f1bc080a2b20fe23a53ffdc927fc41767019a212d7abf276d5a305e0f4d0cd gemini://idiomdrottning.org/afternoon-disease 20 text/gemini; lang=en
+2025-03-07T18:11:05Z /home/gergo/.ssb/blobs/sha256/5a/f89cab8928951830b71014f44ad747f291898db57129d02b7373c953a8c2e4 gemini://idiomdrottning.org/dumbphone-experience 20 text/gemini; lang=en
+2025-03-07T18:12:08Z /home/gergo/.ssb/blobs/sha256/cf/0e70f3ac0867280d88b47b4ad24e3a03e5b6f523500be7aef845ce765d85c8 gemini://idiomdrottning.org/timecalc 20 text/gemini; lang=en
+2025-03-07T18:12:23Z /home/gergo/.ssb/blobs/sha256/be/71215cf820469826171c1867f02ee935f8e5839e8c8ddfc9ffbc71957bc905 gemini://gemini.circumlunar.space/users/adiabatic/about/ 20 text/gemini; charset=UTF-8; lang=en-US
+2025-03-07T18:13:41Z /home/gergo/.ssb/blobs/sha256/5d/27f96849792f5baf57b0c24c9b865c7e5f05db8b49dee1a298e385358b9495 gemini://gmi.noulin.net/2025-03-06-about-terminal-emulators.gmi 20 text/gemini
+2025-03-07T18:14:47Z /home/gergo/.ssb/blobs/sha256/6d/face79b18e1e670226b72925e7cb32546880c70d65fac74f14c063700daa33 gemini://hanzbrix.pollux.casa/gemlog/20250307.gmi 20 text/gemini; lang=en
+2025-03-07T18:14:49Z /home/gergo/.ssb/blobs/sha256/d4/87e117e83fc702047d384c655a485f8484f6af74c11ac94084f69ee016bb2b gemini://midnight.pub/posts/2523 20 text/gemini
+2025-03-07T18:14:54Z /home/gergo/.ssb/blobs/sha256/c2/b27acf65a5f1fd67c999251114f728ef8c1d123a61954ac1809c9675253636 gemini://discogem.gmi.bacardi55.io/capsules-of-the-day-2025-03-07/ 20 text/gemini; lang=en
+2025-03-07T18:17:08Z /home/gergo/.ssb/blobs/sha256/b9/7b5c231c2ee4496dbef11911c9591cb2433a5b3d3981303ffab66a32a9ef49 gemini://discogem.gmi.bacardi55.io/ 20 text/gemini; lang=en
+2025-03-07T18:17:13Z /home/gergo/.ssb/blobs/sha256/73/c3bd8a81a2c0d13d1bc9732179e0117de75ebbf0b1fbe519b909a373b145bb gemini://discogem.gmi.bacardi55.io/capsules-of-the-day-2025-03-06/ 20 text/gemini; lang=en
+2025-03-07T18:17:16Z /home/gergo/.ssb/blobs/sha256/45/182c6783cece91d6477f2818e0c8f82cd8868816080ae85333591522005f73 gemini://discogem.gmi.bacardi55.io/capsules-of-the-day-2025-03-05/ 20 text/gemini; lang=en
+2025-03-07T18:17:19Z /home/gergo/.ssb/blobs/sha256/8d/907bce9abb83211e7c26067643911eabc27fa3d2cb3a066f60d86d8cd96979 gemini://capsula.rodolpho.onoeck.de/ 20 text/gemini
+2025-03-07T18:17:23Z /home/gergo/.ssb/blobs/sha256/52/d214ddaff782aa17cb2ca0477d8627e595ecf41b34518cd5220406994af8ce gemini://dryphb.cities.yesterweb.org/ 20 text/gemini
+2025-03-07T18:17:42Z /home/gergo/.ssb/blobs/sha256/78/77106f450bf5fdf2f7a988132ab56fa6f0209d161a9f37fcc41cfa0089639e gemini://hanzbrix.pollux.casa/gemlog/ 20 text/gemini; lang=en
+2025-03-07T18:17:52Z /home/gergo/.ssb/blobs/sha256/21/d625db66383d8b0252d156f0dabc43407efb6e683377f91017ac2c9ff0bf9c gemini://hanzbrix.pollux.casa/gemlog/20250227.gmi 20 text/gemini; lang=en
+2025-03-07T18:17:59Z /home/gergo/.ssb/blobs/sha256/d6/35ff6795ba599ff4726c63a3830bc4875a53752c41ca958b03770199522aed gemini://hanzbrix.pollux.casa/images/kickbike.png 20 image/png
+2025-03-08T06:03:43Z /home/gergo/.ssb/blobs/sha256/fb/cdadd1e660742bde81227a3c2e7090b2f28f6b0ea8b82d274fe32076e87f9c gemini://zaibatsu.circumlunar.space/~solderpunk/ 20 text/gemini
+2025-03-08T06:03:47Z /home/gergo/.ssb/blobs/sha256/60/b9484c504b14bdceeb5fe003a0a4cdf3165223b36e8dd13009a210eec64d9d gemini://zaibatsu.circumlunar.space/~solderpunk/gemlog/ 20 text/gemini
+2025-03-08T06:05:38Z /home/gergo/.ssb/blobs/sha256/3e/fc99a537ced0f49c5136cba0ef04414508dea343d2cf1e4270afdf0091601e gemini://zaibatsu.circumlunar.space/~solderpunk/gemlog/announcing-offlfirsoch-2025.gmi 20 text/gemini
+2025-03-08T06:06:07Z /home/gergo/.ssb/blobs/sha256/1a/984cb32942b5854f7eac56dca4aa74b87fd712236f759646d22f8471a6ce5a gemini://smol.diy/ 20 text/gemini
+2025-03-08T06:06:10Z /home/gergo/.ssb/blobs/sha256/eb/94b5db511ca67848e78c7515fe87e89efb52d0929cf816361499869afd89ce gemini://thatit.be/ 20 text/gemini
+2025-03-08T06:06:12Z /home/gergo/.ssb/blobs/sha256/01/55da65a663222df770ba65f47a849363a9b865c72086fdce4582b0ef237065 gemini://gemini.circumlunar.space/users/adiabatic/ 20 text/gemini; charset=UTF-8; lang=en-US
+2025-03-08T06:06:13Z /home/gergo/.ssb/blobs/sha256/ca/f280aeb11f3ce71dd65050394c8a040c223e0496fe5387d817239291fc9d1b gemini://tilde.town/~hush/ 20 text/gemini
+2025-03-08T06:06:15Z /home/gergo/.ssb/blobs/sha256/20/22b469b803fbc9dbf625589e892354d470c3fc982132b14af8748c92608042 gemini://idiomdrottning.org/ 20 text/gemini; lang=en
+2025-03-08T06:06:16Z /home/gergo/.ssb/blobs/sha256/0b/ea5c2671e75f09b635e6d9f9800a6902d67c2601cae8ba0eb5c0800713f0c3 gemini://discogem.gmi.bacardi55.io/ 20 text/gemini; lang=en
+2025-03-08T06:06:19Z /home/gergo/.ssb/blobs/sha256/06/e0a2b0e2dda4f943382880afcced7c4c7abc38103a4f889fbdca8bdf3a07eb gemini://gemini.ctrl-c.club/~megymagy/ 20 text/gemini
+2025-03-08T06:06:23Z /home/gergo/.ssb/blobs/sha256/3b/7ff435f00905197278c42b32e37a287e157d4dd2d9d7cbce1a88ac2f04bed0 gemini://smol.diy/gemlog/ 20 text/gemini
+2025-03-08T06:07:40Z /home/gergo/.ssb/blobs/sha256/43/96c90d4461490587bbcf86afefc7bb3384e94ee4c5933c6282220295113d50 gemini://thatit.be/atom.xml 20 text/xml
+2025-03-08T06:08:30Z /home/gergo/.ssb/blobs/sha256/42/ea165ae836f1bf02c38ac42730b68eb3303dd9bc85036f698b19f9cb5e3f08 gemini://gemini.circumlunar.space/users/adiabatic/feeds/ 20 text/gemini; charset=UTF-8; lang=en-US
+2025-03-08T06:09:31Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://tilde.town/~hush/gemlog 31 gemini://tilde.town/~hush/gemlog/
+2025-03-08T06:09:33Z /home/gergo/.ssb/blobs/sha256/c0/85e2fca330094c628cf4ea33cf38c322505c850af212ed603a6fb6a075142d gemini://tilde.town/~hush/gemlog/ 20 text/gemini
+2025-03-08T06:10:04Z /home/gergo/.ssb/blobs/sha256/69/dc28c943a5a1cb735cd06a0ab979ea54ca9c7317f3e2a0191c77a8054c94f0 gemini://idiomdrottning.org/sub 20 text/gemini; lang=en
+2025-03-08T06:11:16Z /home/gergo/.ssb/blobs/sha256/e3/35b095556c8a26dafdfa3440f676cdb780d92f497be0373379fc53b7588dea gemini://discogem.gmi.bacardi55.io/atom.xml 20 application/xml
+2025-03-08T06:11:55Z /home/gergo/.ssb/blobs/sha256/cf/341777266fbe863ffbbcdd64ef48d1e377894edcdb81c4a506e2b9821c782c gemini://gemini.ctrl-c.club/~megymagy/bookmarks.gmi 20 text/gemini
+2025-03-08T06:11:59Z /home/gergo/.ssb/blobs/sha256/f4/64a1e2c0708a3fdb5fa25fe7ffe7cbe6649f59debce1de77619969432639d4 gemini://warmedal.se/~antenna/ 20 text/gemini; lang=en
+2025-03-08T06:12:02Z /home/gergo/.ssb/blobs/sha256/0d/c09ad1383f6252d918541d79090f47ed5ac89ce957bb685c0ba2c71bc07140 gemini://gemini.circumlunar.space/capcom/ 20 text/gemini
+2025-03-08T06:12:47Z /home/gergo/.ssb/blobs/sha256/ec/3e6fb90e07e4ed2fd6a99d21cee2a23674e22d4585158a6bd37f374d172b89 gemini://discogem.gmi.bacardi55.io/capsules-of-the-day-2025-03-08/ 20 text/gemini; lang=en
+2025-03-08T06:12:51Z /home/gergo/.ssb/blobs/sha256/46/594b8aac7bfdc456a236c5ba6d2f507c359d50fa784b995e98094576f1e115 gemini://skisthedeparted.smol.pub/ 20 text/gemini
+2025-03-08T06:12:53Z /home/gergo/.ssb/blobs/sha256/da/de429e5978416ea101b27ed58cfb363f27fe55cc10cb083aa0c98b342f3c79 gemini://skisthedeparted.smol.pub/hello-smol-world 20 text/gemini
+2025-03-08T06:15:27Z /home/gergo/.ssb/blobs/sha256/06/dbc9165fe243bc94d33db6eafd95d1f481f0dbc184c37cfdab241bc6c54ff7 gemini://alex.flounder.online/index.gmi 20 text/gemini; charset=utf-8
+2025-03-08T06:15:28Z /home/gergo/.ssb/blobs/sha256/cc/df4c61607a14b4e4e602d1e9ca984603d34cdb972ae3b5db6e39306faed9dc gemini://tilde.team/~aprilnightk/ 20 text/gemini; lang=en
+2025-03-08T06:15:30Z /home/gergo/.ssb/blobs/sha256/c7/dbcae02615a5fc063e5652a312690180ed10f67b5d2746e71f91fb04445963 gemini://compudanzas.net/home.gmi 20 text/gemini; charset=utf-8
+2025-03-08T06:15:31Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://hexdsl.co.uk/  
+2025-03-08T06:15:32Z /home/gergo/.ssb/blobs/sha256/ba/c86f013f5c5a362e819e3dcea0ad6a876e04347c5ab491b370d66b302d3afc gemini://gemini.ctrl-c.club/~lettuce/ 20 text/gemini
+2025-03-08T06:15:33Z /home/gergo/.ssb/blobs/sha256/96/4178ff50a1939c7826ba1b3cf5416c7a86be1a23a6fbca8a67d71440941cea gemini://lyk.so/ 20 text/gemini;
+2025-03-08T06:15:34Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://rawtext.club/~ploum/ 51 Not found!
+2025-03-08T06:15:35Z /home/gergo/.ssb/blobs/sha256/c5/82513877865ce1b8a773fb937422bb1372c4cfbc1d6c8931d6dd13fcfe0d2c gemini://gemini.sensorstation.co/ 20 text/gemini; charset=utf-8
+2025-03-08T06:15:37Z /home/gergo/.ssb/blobs/sha256/7c/1a5a210cdd2ecb734e0eb555ae7ca2c798de417e18e7b9e4cebda2d5aef51e gemini://tobykurien.com/ 20 text/gemini; lang=en
+2025-03-08T06:15:37Z /home/gergo/.ssb/blobs/sha256/20/e76ce4170ed62206fb84821552acca2fc86e5296b66b292ab12f01913587a5 gemini://tilde.pink/~bencollver/ 20 text/gemini;
+2025-03-08T06:15:46Z /home/gergo/.ssb/blobs/sha256/b8/7e0ff04aaa0d1f770297201aec94d1575bfcb9a122a8f8d7f4f15f333be70d gemini://alex.flounder.online/gemlog/ 20 text/gemini
+2025-03-08T06:15:53Z /home/gergo/.ssb/blobs/sha256/35/e3d72c5cbd8f446159ce8d9fdaca166ed2e2fb41055ec033e53988a84d11e6 gemini://alex.flounder.online/gemlog/2020-11-22-gummo2.gmi 20 text/gemini; charset=utf-8
+2025-03-08T06:16:37Z /home/gergo/.ssb/blobs/sha256/2f/fd35a5857abd2f41aea221a44affb0a53c6710d64bc649084b8454d053761b gemini://tobykurien.com/feeds/ 20 text/gemini; lang=en
+2025-03-08T06:16:54Z /home/gergo/.ssb/blobs/sha256/a2/416a847bb20159730cee0dd0e1d30bbb7c4b71aa800b7c24cbe40c122a89f6 gemini://tobykurien.com/articles/2023-06-25-in-praise-of-elinks.gmi 20 text/gemini; lang=en
+2025-03-08T06:17:02Z /home/gergo/.ssb/blobs/sha256/f1/74091322b3ab359437d18af7d69d71ab4b140ed77c2d67c495d6bfb8d1e481 gemini://gemini.sensorstation.co/~winduptoy/ 20 text/gemini; charset=utf-8
+2025-03-08T06:17:04Z /home/gergo/.ssb/blobs/sha256/0d/147f1bd52cfbae4457843f970db0f4c75f81d4cbeff05b1d1007a376a35fae gemini://gemini.sensorstation.co/~winduptoy/log.gmi 20 text/gemini; charset=utf-8
+2025-03-08T06:17:31Z /home/gergo/.ssb/blobs/sha256/55/248e6027e86bb51bbb254e2fd15ab4b8bbe8d262b8a9427b142c2ef7c3dda7 gemini://compudanzas.net/log.gmi 20 text/gemini; charset=utf-8
+2025-03-08T06:19:01Z /home/gergo/.ssb/blobs/sha256/19/c378a66a4dfc207136d10b6d39fd47ad00883126a0aa9c4693b5d107f5eb1a gemini://lyk.so/gemlog/ 20 text/gemini;
+2025-03-08T06:19:12Z /home/gergo/.ssb/blobs/sha256/f9/922791c6ef4c76b0b95463d507f6b31fa3adf3d87e647e3049b8b4bbbe6ef0 gemini://gemini.sensorstation.co/~tickfoot/ 20 text/gemini; charset=utf-8
+2025-03-08T18:31:18Z /home/gergo/.ssb/blobs/sha256/d6/d482bf0b60a5931fae0a0a73d6d904baa2ea27938368e204ac78f76319bb35 gemini://thatit.be/2025-03-08-06-51-27.gmi 20 text/gemini
+2025-03-09T14:57:49Z /home/gergo/.ssb/blobs/sha256/e2/96df2356cb88284c7f49342e2226ad32be9fb2e6a63083c5cc8ccffb133c4f gemini://zaibatsu.circumlunar.space/~solderpunk/gemlog/what-does-clouds-about-.05-mean.gmi 20 text/gemini
+2025-03-09T15:01:50Z /home/gergo/.ssb/blobs/sha256/ea/84245879e10be8fcf98c3d53f08c7a512920db0fe20e509b77f067770b0424 gemini://discogem.gmi.bacardi55.io/ 20 text/gemini; lang=en
+2025-03-09T15:01:53Z /home/gergo/.ssb/blobs/sha256/25/139dc0089f48c3b280daacc83279685982c5cd7deff117f0f377e61b90841d gemini://warmedal.se/~antenna/ 20 text/gemini; lang=en
+2025-03-09T15:01:56Z /home/gergo/.ssb/blobs/sha256/bf/e6abb0866c7b3cae80af66cb6cd8d5a278516e6e31f88752abc60dcb2f3d68 gemini://gemini.circumlunar.space/capcom/ 20 text/gemini
+2025-03-09T15:02:02Z /home/gergo/.ssb/blobs/sha256/31/94d8d44c99d82d1a06b9c2fe3928e99cfe24fc184bbe7d447aba9d84e2d8d0 gemini://discogem.gmi.bacardi55.io/capsules-of-the-day-2025-03-09/ 20 text/gemini; lang=en
+2025-03-09T15:02:31Z /home/gergo/.ssb/blobs/sha256/d6/d482bf0b60a5931fae0a0a73d6d904baa2ea27938368e204ac78f76319bb35 gemini://thatit.be/2025-03-08-06-51-27.gmi 20 text/gemini
+2025-03-09T15:02:45Z /home/gergo/.ssb/blobs/sha256/e7/7dfe357faef7fefbe123fcb8ecd1ebad18d196ab0a5504da16e4e80b96a04f gemini://idiomdrottning.org/tariffs 20 text/gemini; lang=en
+2025-03-09T15:02:48Z /home/gergo/.ssb/blobs/sha256/93/ded0583a755d95c416fa609898dd8cdcc4000514a3561a7858228775ea25bd gemini://moddedbear.xyz/logs/2025-03-08-week-notes-010.gmi 20 text/gemini
+2025-03-09T15:06:35Z /home/gergo/.ssb/blobs/sha256/3a/1660e6d83e209f6e5be24c21d2003cf586d8240ee1e60a67cf1bbf8a3fe322 gemini://gemini.ucant.org/gemlog/2025-03-09_leasehold-derangement-syndrome.gmi 20 text/gemini
+2025-03-09T15:06:38Z /home/gergo/.ssb/blobs/sha256/64/5eaa18bf38d284cac76eeb25b8334175a9c0760db395504f6f538d952d83b7 gemini://tilde.club/~winter/gemlog/2025/3-09.gmi 20 text/gemini; lang=en
+2025-03-09T15:06:46Z /home/gergo/.ssb/blobs/sha256/8f/d9ff96e24d94cba98c953a7a52bc5415b75720cecdb4e3c143d954e15ebd0b gemini://xoc3.io/blog/2025-03-08 20 text/gemini;charset=UTF-8
+2025-03-09T15:06:50Z /home/gergo/.ssb/blobs/sha256/92/441b2b46378adb550189f02762c5543130a0b6f237e05b7a783e468eef6f4d gemini://christoph-luehr.com/microblog/2025-03-08-mox.gmi 20 text/gemini
+2025-03-09T15:06:56Z /home/gergo/.ssb/blobs/sha256/1c/74fb9390160680096b25a84c5db980642c1f1bd393b0bae74b80468cba42fd gemini://d.moonfire.us/blog/2025/03/08/writing-mannerisms/ 20 text/gemini;lang=en-US
+2025-03-09T15:06:58Z /home/gergo/.ssb/blobs/sha256/88/83948c6547df8701a3fde3fc30d2c93e1d57fb23d3e7a69d0f713f039f9f1c gemini://ploum.net/2025-03-08-linux_desktop3.gmi 20 text/gemini
+2025-03-10T19:03:08Z /home/gergo/.ssb/blobs/sha256/1a/984cb32942b5854f7eac56dca4aa74b87fd712236f759646d22f8471a6ce5a gemini://smol.diy/ 20 text/gemini
+2025-03-10T19:03:09Z /home/gergo/.ssb/blobs/sha256/20/22b469b803fbc9dbf625589e892354d470c3fc982132b14af8748c92608042 gemini://idiomdrottning.org/ 20 text/gemini; lang=en
+2025-03-10T19:03:12Z /home/gergo/.ssb/blobs/sha256/c9/93ef2d37b069f48b315da9411f46c4e0e908dea9e0d6ddd84d5f15afb362a6 gemini://discogem.gmi.bacardi55.io/ 20 text/gemini; lang=en
+2025-03-10T19:03:13Z /home/gergo/.ssb/blobs/sha256/f4/788a29aa75dc4f28fd31d3a42c25054b570c912e4f9aef0db62426d69b7863 gemini://warmedal.se/~antenna/ 20 text/gemini; lang=en
+2025-03-10T19:03:15Z /home/gergo/.ssb/blobs/sha256/80/e843417d87ba0b4365b3f179d66ce08dfab98b1b72db684c90c0ebaeb48de2 gemini://gemini.circumlunar.space/capcom/ 20 text/gemini
+2025-03-10T19:03:18Z /home/gergo/.ssb/blobs/sha256/3b/7ff435f00905197278c42b32e37a287e157d4dd2d9d7cbce1a88ac2f04bed0 gemini://smol.diy/gemlog/ 20 text/gemini
+2025-03-10T19:03:25Z /home/gergo/.ssb/blobs/sha256/73/672da53c4c29c87704ef0ce21f8b9d6ce251277ce16ac05c817786a851b870 gemini://idiomdrottning.org/sub 20 text/gemini; lang=en
+2025-03-10T19:03:30Z /home/gergo/.ssb/blobs/sha256/c3/62a91ac75c0df56a18a420c8f15802f81b0618d217a2fbbd7d0b5118dce40e gemini://discogem.gmi.bacardi55.io/capsules-of-the-day-2025-03-10/ 20 text/gemini; lang=en
+2025-03-10T19:03:34Z /home/gergo/.ssb/blobs/sha256/9b/c10abdeae1138f741c69ede1b07c5b0f57767a3ee2276d3d79af1c3afbc1bb gemini://anglisc.jcorvera.me/ 20 text/gemini
+2025-03-10T19:03:35Z /home/gergo/.ssb/blobs/sha256/c1/7a7bb131ee4352c9c31846997f10d28fed4dd641cefbf36c20be597d289735 gemini://benjamin.flounder.online/ 20 text/gemini; charset=utf-8
+2025-03-10T19:03:38Z /home/gergo/.ssb/blobs/sha256/05/d0d4b816c915dcf5daaf178497e97e1ea11064d032d358e2221fc8d9152d33 gemini://benjamin.flounder.online/gemlog 20 text/gemini
+2025-03-10T19:03:41Z /home/gergo/.ssb/blobs/sha256/9b/7bca06d16256ea4f91ecc446a1058e06874b5786b138f86501620bf12e8518 gemini://benjamin.flounder.online/gemlog/2025-03-03.gmi 20 text/gemini; charset=utf-8
+2025-03-10T19:04:29Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://hanzbrix.pollux.casa/gemlog/20250310.gmi 51 Not Found!
+2025-03-10T19:04:43Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://anglisc.jcorvera.me/about 30 /about/
+2025-03-10T19:04:46Z /home/gergo/.ssb/blobs/sha256/82/9051c4e50889a264273fe053c8aae9df1d2ca40b73f0782855abb03b8d7473 gemini://anglisc.jcorvera.me/about/ 20 text/gemini
+2025-03-12T19:57:32Z /home/gergo/.ssb/blobs/sha256/05/aa7c0c4ce12331a0d7e042e4ea6f3df57b7288835b3b592d08fe864e66eb16 gemini://gemini.circumlunar.space/users/adiabatic/words/computing/ideal-os/ 20 text/gemini; charset=UTF-8; lang=en-US
+2025-03-12T20:01:43Z /home/gergo/.ssb/blobs/sha256/e0/a36fc42e3ed0b076209e0b460f87b0be1c7e01c6ab244b43f7188c52d69730 gemini://discogem.gmi.bacardi55.io/ 20 text/gemini; lang=en
+2025-03-12T20:01:45Z /home/gergo/.ssb/blobs/sha256/af/4f7cf2dca4b1305013bd9de957a87cf15ed20c9d055fb66551aa9904a8acbf gemini://warmedal.se/~antenna/ 20 text/gemini; lang=en
+2025-03-12T20:01:48Z /home/gergo/.ssb/blobs/sha256/e3/87e78a0c2533b0ec62fa0b148d4e03ba2128045144aefca81ea475979a638d gemini://gemini.circumlunar.space/capcom/ 20 text/gemini
+2025-03-12T20:01:55Z /home/gergo/.ssb/blobs/sha256/45/d7dd9edd87df5cdb921cf5dcc18b42805f6be4e508467bcdbc14f9cf9c1e8a gemini://discogem.gmi.bacardi55.io/capsules-of-the-day-2025-03-12/ 20 text/gemini; lang=en
+2025-03-12T20:02:00Z /home/gergo/.ssb/blobs/sha256/9b/f59bfb3586ec9b1f07e82f0e8cb15bb0f05f42492d72e63df335b0d84f9755 gemini://discogem.gmi.bacardi55.io/capsules-of-the-day-2025-03-11/ 20 text/gemini; lang=en
+2025-03-12T20:02:03Z /home/gergo/.ssb/blobs/sha256/e0/207465a3390d7a909f9b798564ee548f2ce46fdaeb2ba21a9c8c4b220cf72c gemini://stump.flounder.online/ 20 text/gemini; charset=utf-8
+2025-03-12T20:02:06Z /home/gergo/.ssb/blobs/sha256/95/8693c9259da0f2e170e709a336fcab5cae2f32ad78caa75940cf90358a2723 gemini://stump.flounder.online/gemlog.gmi 20 text/gemini; charset=utf-8
+2025-03-12T20:02:18Z /home/gergo/.ssb/blobs/sha256/f3/f57f28cb94bf382a53165f8486b0f311b55c6a8f61e09f9c82f604fd9a8209 gemini://stump.flounder.online/gemlog/2025-03-08-outing-myself-as-a-filthy-lib.gmi 20 text/gemini; charset=utf-8
+2025-03-12T20:02:35Z /home/gergo/.ssb/blobs/sha256/05/aa7c0c4ce12331a0d7e042e4ea6f3df57b7288835b3b592d08fe864e66eb16 gemini://gemini.circumlunar.space/users/adiabatic/words/computing/ideal-os/ 20 text/gemini; charset=UTF-8; lang=en-US
+2025-03-12T20:04:13Z /home/gergo/.ssb/blobs/sha256/b3/c692fd60e1239e0e5946ec100bb7019042dd19aa01b389fe9559704a300cb9 gemini://freeshell.de/gemlog/2025-03-12_Wordle_clone.gmi 20 text/gemini;lang=en-GB
+2025-03-12T20:04:18Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://dev.spool-five.com/src/app/wordle 60 Please attach your client certificate
+2025-03-12T20:04:28Z /home/gergo/.ssb/blobs/sha256/be/24a6ec111019decc06f6a3e3f8841d470b263452a6af718e686b20d998391c gemini://freeshell.de/gemlog/2025-03-10_Pwetty_flowers.gmi 20 text/gemini;lang=en-GB
+2025-03-12T20:05:00Z /home/gergo/.ssb/blobs/sha256/9c/87fe139ebeead75864fd019c1f802e12660b202d064585d1a946c5e62528a7 gemini://gemini.ucant.org/heterodox-tech/links/2025-03-11_links.gmi 20 text/gemini
+2025-03-12T20:05:20Z /home/gergo/.ssb/blobs/sha256/2c/a31ba28a7221340db2f17628457635222784ca0ac6a7d37c818533df8b514b gemini://gemini.ucant.org/heterodox-tech/index.gemini 20 text/gemini
+2025-03-13T20:24:40Z /home/gergo/.ssb/blobs/sha256/1f/634ec6f859c3bc7da4faba7c6e4547f49b5ebd491da6f4f6e05994e4943ea4 gemini://warmedal.se/~antenna/ 20 text/gemini; lang=en
+2025-03-13T20:24:42Z /home/gergo/.ssb/blobs/sha256/e2/e712e89afb7e2c0e80e98adf0ff986bce58ba7b6d9b48f9fa969aa460d4857 gemini://gemini.circumlunar.space/capcom/ 20 text/gemini
+2025-03-13T20:24:43Z /home/gergo/.ssb/blobs/sha256/e0/3083e725df5a43f37fd7e3f5b43bfcbdd66b0d2649c4cbd7b692e9529b9657 gemini://discogem.gmi.bacardi55.io/ 20 text/gemini; lang=en
+2025-03-13T20:24:57Z /home/gergo/.ssb/blobs/sha256/e3/9c446c6376f6ef24a97bee5652157c4fce80d93c3ae0c86555c6b62a509237 gemini://tilde.club/~winter/gemlog/2025/3-13.gmi 20 text/gemini; lang=en
+2025-03-13T20:25:05Z /home/gergo/.ssb/blobs/sha256/ca/7bd7e28378e20182534a38da50db5f543a672098101128c901759e037d968a gemini://thurk.org/blog/643.gmi 20 text/gemini;lang=en
+2025-03-13T20:25:07Z /home/gergo/.ssb/blobs/sha256/65/7701defc8c4c6f2a5dc3e662281f56a15d333ddca2f21ddf4f5954cb2c8bb5 gemini://lantashifiles.com/gemlog/entries/2025-03-12.gmi 20 text/gemini;lang=en-US
+2025-03-13T20:25:14Z /home/gergo/.ssb/blobs/sha256/c6/87b233aa992dde956aa9e6037a7fe7f4a0fcee1489f32aee8b255c2ffc7e21 gemini://srq.cthulhu29.space/en/gemlog/2025/03-11-moving.gmi 20 text/gemini; charset=utf-8; lang=en
+2025-03-13T20:25:16Z /home/gergo/.ssb/blobs/sha256/fc/037142f858c75fc73f060aac7163a3cede02d992b0aae278d886feb66dde89 gemini://hanzbrix.pollux.casa/gemlog/20250311.gmi 20 text/gemini; lang=en
+2025-03-13T20:25:26Z /home/gergo/.ssb/blobs/sha256/74/7b6751ed45c2c2679b7ad2856a5601f128211a03fdff83e6117f5d255e03b4 gemini://skyjake.fi/~Cosmos/ 20 text/gemini;lang=en
+2025-03-13T20:25:33Z /home/gergo/.ssb/blobs/sha256/30/60502e8de11f5a99b1cdeefc5829a040da3104839bfa328a03c511d279491e gemini://dariolob.smol.pub/a-human-internet 20 text/gemini
+2025-03-13T20:25:48Z /home/gergo/.ssb/blobs/sha256/27/6fd86f41b293021b88d525aea8a18e7bfbfe1ddfb97c40c226c028d4215fd4 gemini://discogem.gmi.bacardi55.io/capsules-of-the-day-2025-03-13/ 20 text/gemini; lang=en
+2025-03-13T20:26:23Z /home/gergo/.ssb/blobs/sha256/a0/9ee3735dd323b61e8ec7ffb21edc80356f860874682cb2a2b3592cafdc2dd6 gemini://rawtext.club/~deerbard/glog/2025-03-09-ideal-day.gmi 20 text/gemini; lang=en
+2025-03-14T20:18:01Z /home/gergo/.ssb/blobs/sha256/7f/1f5479a8ad69eb4359effa550b7723cd6a732e77831b02ddb111362245b15b gemini://gemini.circumlunar.space/users/adiabatic/scrawlspace/2025/ 20 text/gemini; charset=UTF-8; lang=en-US
+2025-03-14T20:20:05Z /home/gergo/.ssb/blobs/sha256/47/80c097528b7fa63a9d051830ee90bdba9b4ba57f45e4890e6080935a5e9857 gemini://discogem.gmi.bacardi55.io/ 20 text/gemini; lang=en
+2025-03-14T20:20:09Z /home/gergo/.ssb/blobs/sha256/6c/b81ece6ed7f5cd3e884f8b1fc1df54bfe6681a4e798cabda13e632c352c363 gemini://warmedal.se/~antenna/ 20 text/gemini; lang=en
+2025-03-14T20:20:14Z /home/gergo/.ssb/blobs/sha256/9f/3da69efdb6679e57fb56f1c41fcce467a37f72ab9974e2b3f3f3ba82a48689 gemini://gemini.circumlunar.space/capcom/ 20 text/gemini
+2025-03-14T20:20:18Z /home/gergo/.ssb/blobs/sha256/93/0bb283cd63712564898e61a48279233215e606716d7900f77089d4d02c2474 gemini://discogem.gmi.bacardi55.io/capsules-of-the-day-2025-03-14/ 20 text/gemini; lang=en
+2025-03-14T20:20:20Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://bolla.woodpeckersnest.space/  
+2025-03-14T20:20:33Z /home/gergo/.ssb/blobs/sha256/9f/3da69efdb6679e57fb56f1c41fcce467a37f72ab9974e2b3f3f3ba82a48689 gemini://gemini.circumlunar.space/capcom/ 20 text/gemini
+2025-03-14T20:20:44Z /home/gergo/.ssb/blobs/sha256/6b/125e632202881273729b912d67e5338e09beaa6af346c599ab8cc399fa471f gemini://idiomdrottning.org/lojl 20 text/gemini; lang=en
+2025-03-14T20:20:57Z /home/gergo/.ssb/blobs/sha256/6c/b81ece6ed7f5cd3e884f8b1fc1df54bfe6681a4e798cabda13e632c352c363 gemini://warmedal.se/~antenna/ 20 text/gemini; lang=en
+2025-03-14T20:20:59Z /home/gergo/.ssb/blobs/sha256/c1/edde3c3eaeb259787e2844e0f4f26f1b5d5f9f0b93d585203af53fa4d912d7 gemini://skyjake.fi/~Cosmos/ 20 text/gemini;lang=en
+2025-03-14T20:21:13Z /home/gergo/.ssb/blobs/sha256/b6/f426cd491c2b0ffbae388d425dba295b75acb65b47caf5581db3bf5bd67489 gemini://gemini.conman.org/boston/2025/03/03.1 20 text/gemini
+2025-03-14T20:22:15Z /home/gergo/.ssb/blobs/sha256/bc/ab2824594192d2b5da3c39e90afedf476b05c043a30b0a0d005e1f558b4fa0 gemini://the-brannons.com/musk-greek-tragedy/ 20 text/gemini
+2025-03-14T20:22:17Z /home/gergo/.ssb/blobs/sha256/54/7aeb2343f36cbe27fa758daa13dc03dffc10bd3e2eee797c1aae9acfc78aab gemini://omg.pebcak.club/~cage/archive/Category-III:-The-Untold-Story-of-Hong-Kong-Exploitation-Cinema.gmi 20 text/gemini;lang=en
+2025-03-14T20:24:54Z /home/gergo/.ssb/blobs/sha256/1a/984cb32942b5854f7eac56dca4aa74b87fd712236f759646d22f8471a6ce5a gemini://smol.diy/ 20 text/gemini
+2025-03-14T20:24:56Z /home/gergo/.ssb/blobs/sha256/3b/7ff435f00905197278c42b32e37a287e157d4dd2d9d7cbce1a88ac2f04bed0 gemini://smol.diy/gemlog/ 20 text/gemini
+2025-03-17T18:40:39Z /home/gergo/.ssb/blobs/sha256/87/90b9dd49088bc09b686d955cc5a0c10d90bf1ae82eb77b06ff1e9da6a8aa61 gemini://thatit.be/2025-03-16-11-16-16.gmi 20 text/gemini
+2025-03-17T18:41:37Z /home/gergo/.ssb/blobs/sha256/09/374f9f225e592ef9af0debf7b263bb70540fa0f9ae05c596fb0174573cf52b gemini://thatit.be/2025-03-16-120221_hyprshot.png 20 image/png
+2025-03-17T18:43:25Z /home/gergo/.ssb/blobs/sha256/23/e595c2abc540f6e678e5b32f2e6196b1ce668b46b587c415f5caa6a4f1e2be gemini://discogem.gmi.bacardi55.io/ 20 text/gemini; lang=en
+2025-03-17T18:43:27Z /home/gergo/.ssb/blobs/sha256/e9/132337b0ecf451d3c2250c835adab386d4b0a1af678a7af31551918399ff3d gemini://gemini.circumlunar.space/capcom/ 20 text/gemini
+2025-03-17T18:43:33Z /home/gergo/.ssb/blobs/sha256/f4/15e1c4a474b898ff9e6a071538205da14372ddec280b35b2426bdcd7f2ba8a gemini://warmedal.se/~antenna/ 20 text/gemini; lang=en
+2025-03-17T18:43:36Z /home/gergo/.ssb/blobs/sha256/94/89e80c5da7f7cc843d955f6415a12d1b2b454fab13056ec15e86ed7e6a6382 gemini://skyjake.fi/~Cosmos/ 20 text/gemini;lang=en
+2025-03-17T18:43:50Z /home/gergo/.ssb/blobs/sha256/57/48bfd47c833de0d49f45b0e018f82693318014305fcf12d0437de69f19cb54 gemini://thrig.me/blog/2025/03/17/hack.gmi 20 text/gemini
+2025-03-17T18:44:01Z /home/gergo/.ssb/blobs/sha256/ea/2ff78f3c013f8849946207999ce70c875b96b1aac4616e3edf4a5be1eb5a2b gemini://thrig.me/blog/2025/03/16/primal.gmi 20 text/gemini
+2025-03-17T18:44:05Z /home/gergo/.ssb/blobs/sha256/d4/8f489c04708a77f34819c2c9cb9b1c91f6038b4247513d6fe9db7790a4af5c gemini://thrig.me/blog/2025/03/14/prime-beats.gmi 20 text/gemini
+2025-03-17T18:45:28Z /home/gergo/.ssb/blobs/sha256/c4/83e72bd4913627cfd136936f407ab4d2b9a85b60c3d660eee807ecd92df60a gemini://angelai.smol.pub/08 20 text/gemini
+2025-03-17T18:45:32Z /home/gergo/.ssb/blobs/sha256/d2/6f6de4f7ce6381788c1998e34c8e69a1d0328447f5873f8eca4c104a4a9b64 gemini://gemini.circumlunar.space/users/adiabatic/words/computing/gemini/into-llms/ 20 text/gemini; charset=UTF-8; lang=en-US
+2025-03-17T18:45:37Z /home/gergo/.ssb/blobs/sha256/27/a1c8ead052bb89269b044eba36cc5f97b04c6a2af28e522d97ddb6a2bf4284 gemini://midnight.pub/posts/2539 20 text/gemini
+2025-03-17T18:45:40Z /home/gergo/.ssb/blobs/sha256/8e/8da0bf807c54ce8801c1fab7ca8141e289095cdc2f84d6f4e19731b9dd86df gemini://gem.sdf.org/beej/blog/2025-03-17-trees.gmi 20 text/gemini
+2025-03-17T18:45:47Z /home/gergo/.ssb/blobs/sha256/51/14e138d0a6757f08338bca2bc5ce37744a6712a1d2bc58621f89144fe00249 gemini://gemini.clehaxze.tw/gemlog/2025/03-17-memory-on-tenstorrent.gmi 20 text/gemini
+2025-03-17T18:45:50Z /home/gergo/.ssb/blobs/sha256/b4/379bf8424f55706d2e91aa8ef4d30c743459e836ed2cdc67c74f0b3ce71757 gemini://idiomdrottning.org/noise-positivity 20 text/gemini; lang=en
+2025-03-17T18:47:28Z /home/gergo/.ssb/blobs/sha256/c5/49afe96fbdb52fb4fd0a0b9e04f053220701290382fb79ae0fe4664c5a6e37 gemini://gem.sdf.org/beej/blog/2025-03-17-trees-cutters.jpg 20 image/jpeg
+2025-03-17T18:49:02Z /home/gergo/.ssb/blobs/sha256/f1/840e1ec90b2fa0af61e3786c43c4dc467560620eb99c7fa9a95aa680c551c0 gemini://discogem.gmi.bacardi55.io/capsules-of-the-day-2025-03-17/ 20 text/gemini; lang=en
+2025-03-17T18:49:06Z /home/gergo/.ssb/blobs/sha256/fd/ff78cf5d33ddbed269afd3c2be10d8c9831e056b54126ab96d83dc7356a15f gemini://srq.cthulhu29.space/ 20 text/gemini
