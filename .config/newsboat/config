@@ -392,5 +392,5 @@ bind-key "h" quit urlview
 bind-key "v" view-dialogs urlview
 highlight feedlist "---.*---" green default bold
 highlight feedlist ".*0/0.." default default invis
-macro u set browser "mpv %u &" ; open-in-browser ; set browser "w3m %u"
-macro m set browser "dillo %u &" ; open-in-browser ; set browser "w3m %u"
+macro u set browser "mpv %u &" ; open-in-browser ; set browser "dillo %u"
+macro m set browser "firefox %u &" ; open-in-browser ; set browser "dillo %u"
