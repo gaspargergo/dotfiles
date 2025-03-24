@@ -4,17 +4,12 @@ set realname = "Gáspár Gergő"
 set from = "gaspar.gergo@gmail.com"
 alias me gaspar.gergo <gaspar.gergo@gmail.com>
 
-#imap
-set imap_user = "gaspar.gergo@gmail.com"
-set imap_pass = `pass gaspar.gergo@gmail.com`
-set folder = "imaps://imap.gmail.com/"
-
-
 #smtp
 set smtp_url = "smtps://gaspar.gergo@smtp.gmail.com:465"
 set smtp_pass = `pass gaspar.gergo@gmail.com`
 set smtp_authenticators = "gssapi:login"
 
+set folder = "~/mail/gmail"
 set spoolfile = "+INBOX"
 set postponed = "+[Gmail]/Drafts"
 set trash = "+[Gmail]/Trash"

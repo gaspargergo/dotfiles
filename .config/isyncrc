@@ -1,0 +1,46 @@
+IMAPStore posteo-remote
+Host posteo.de
+Port 993
+User gergo@posteo.com
+# Uncomment one of the lines below depending on how the password is stored
+PassCmd "pass gergo@posteo.com"
+#Pass secretpassword
+TLSType IMAPS
+CertificateFile /etc/ssl/certs/ca-certificates.crt
+
+MaildirStore posteo-local
+Path ~/mail/posteo/
+Inbox ~/mail/posteo/INBOX
+Subfolders Verbatim
+
+Channel posteo
+Far :posteo-remote:
+Near :posteo-local:
+Create Both
+Expunge Both
+Patterns *
+SyncState *
+
+
+IMAPStore gmail-remote
+Host imap.gmail.com
+Port 993
+User gaspar.gergo@gmail.com
+# Uncomment one of the lines below depending on how the password is stored
+PassCmd "pass gaspar.gergo@gmail.com"
+#Pass secretpassword
+TLSType IMAPS
+CertificateFile /etc/ssl/certs/ca-certificates.crt
+
+MaildirStore gmail-local
+Path ~/mail/gmail/
+Inbox ~/mail/gmail/INBOX
+Subfolders Verbatim
+
+Channel gmail
+Far :gmail-remote:
+Near :gmail-local:
+Create Both
+Expunge Both
+Patterns *
+SyncState *

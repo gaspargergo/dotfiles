@@ -1,0 +1,20 @@
+# vim: filetype=neomuttrc
+# muttrc file for account gergo@posteo.com
+set realname = "Gáspár Gergő"
+set from = "gergo@posteo.com"
+alias me gaspar.gergo <gergo@posteo.com>
+
+#mailbox
+set folder = "~/mail/posteo"
+set spoolfile = "+INBOX"
+set postponed = "+Drafts"
+set trash = "+Trash"
+set record = "+Sent"
+
+#smtp
+set smtp_url = "smtp://gergo@posteo.com@posteo.de:587"
+set smtp_pass = `pass gergo@posteo.com`
+set ssl_force_tls = yes
+set smtp_authenticators = 'gssapi:login'
+
+mailboxes =INBOX =Sent =Archive =Trash =Drafts =Notes
