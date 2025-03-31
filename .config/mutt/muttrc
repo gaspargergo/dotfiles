@@ -1,5 +1,4 @@
 # vim: filetype=neomuttrc
-#source /home/gergo/.config/mutt/accounts/gaspar.gergo@gmail.com.muttrc
 source /home/gergo/.config/mutt/accounts/gergo@posteo.com.muttrc
 source /home/gergo/.config/mutt/aliases
 source /home/gergo/.config/mutt/vim-keys.rc
@@ -9,10 +8,10 @@ macro pager \cb <pipe-entry>'urlview'<enter>
 
 set alias_file=/home/gergo/.config/mutt/aliases
 set sort = "reverse-date-received"
-set editor = nvim
+set editor = vim
 set ssl_force_tls = yes
 set abort_nosubject = no
-set copy = no
+set copy = yes
 set header_cache = "~/.neomutt/hcache"
 set message_cachedir = "~/.neomutt/bcache" 
 

@@ -19,15 +19,14 @@ hi ColorColumn ctermbg=223 guibg=#ebdbb2
 set path+=** ""find looks everywhere in current path
 cnoremap <expr> %% getcmdtype() == ':' ? expand ('%:h').'/' : '%%'
 
-"" --- File browsing w/ netrw ---
-let g:netrw_banner=0 " disable annoying banner
-let g:netrw_browse_split=4 " open in prior window
-let g:netrw_altv=1 " open splits to the right
-let g:netrw_liststyle=3 " tree view
-let g:netrw_winsize = 20
-let g:netrw_list_hide=netrw_gitignore#Hide()
-let g:netrw_list_hide.=',\(^\|\s\s\)\zs\.\S\+'
-nnoremap <C-f> :Vexplore<CR>
+" --- Cursor ---
+let &t_SI = "\e[6 q"
+let &t_EI = "\e[2 q"
+
+" --- timeout ---
+set ttimeout
+set ttimeoutlen=1
+set ttyfast
 
 " --- Status line --- 
 " higlight group definitions are at the end of the file

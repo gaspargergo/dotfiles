@@ -14,7 +14,6 @@ alias sudo="sudo "
 alias web="w3m /home/gergo/.w3m/bookmark.html"
 alias less="less -Q"
 alias weather="curl wttr.in"
-alias vim="nvim"
 alias largefiles="du -sh * | sort -rh | head -10"
 alias off="sudo poweroff"
 alias mutt="neomutt"
@@ -57,9 +56,9 @@ shopt -s no_empty_cmd_completion
 #append history instead of overwriting
 shopt -s histappend
 
-export EDITOR='nvim'
+export EDITOR='vim'
 export BROWSER='dillo'
-export VISUAL='nvim'
+export VISUAL='vim'
 export STARDICT_DATA_DIR='/home/gergo/stardict'
 
 # show man page for command preceding the cursor

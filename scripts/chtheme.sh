@@ -16,7 +16,7 @@ modifyTheme() {
 	# write current theme into file 
 	echo "$1" > ~/.config/theme 
 	modifyConfig ~/dotfiles/.config/zathura/zathurarc ~/dotfiles/.config/colors/zathura/$1
-	modifyConfig ~/dotfiles/.config/nvim/init.vim ~/dotfiles/.config/colors/nvim/$1
+	modifyConfig ~/dotfiles/.vimrc ~/dotfiles/.config/colors/vim/$1
 	modifyConfig ~/.mozilla/firefox/6tekjtvb.default-default/chrome/userChrome.css ~/dotfiles/.config/colors/firefox/$1
 	modifyConfig ~/.config/gtk-3.0/settings.ini ~/dotfiles/.config/colors/firefox/$1pref
 	modifyConfig ~/dotfiles/.dillo/style.css ~/dotfiles/.config/colors/dillo/$1
