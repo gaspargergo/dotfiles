@@ -27,7 +27,7 @@ modifyTheme() {
 	echo "$1 theme set!"
 }
 
-if [[ $# -gt 0 && $1 = "light" || $1 = "dark" ]]
+if [[ $# -gt 0 && $1 = "light" || $1 = "dark" || $1 = "ebook" ]]
 then
 	modifyTheme $1
 elif [[ $# -gt 0 ]]

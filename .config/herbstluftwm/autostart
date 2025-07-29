@@ -161,10 +161,6 @@ hc unlock
 hc detect_monitors
 hc pad 0 10 10 10 10
 
-#set themed elements based on the set theme 
-theme=$(cat ~/.config/theme)
-~/.config/colors/herbstluftwm/$theme.sh
-
 #check if the theme set is time-appropriate; if not, change it
 /home/gergo/scripts/check_time.sh
 

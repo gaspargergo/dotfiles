@@ -9,4 +9,6 @@ then
 elif [[ ( $hour -gt 18 && $theme = "light" ) || ( $hour -lt 6 && $theme = "light" ) ]]
 then
 	~/scripts/chtheme.sh "dark"
+else
+	~/scripts/chtheme.sh $theme
 fi
