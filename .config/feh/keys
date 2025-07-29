@@ -6,3 +6,6 @@ zoom_fit a
 zoom_default s
 save_image C-s
 toggle_actions C-a
+reload_image C-r
+orient_1 r
+

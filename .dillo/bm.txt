@@ -4,6 +4,7 @@ s0 https://wiby.org Wiby
 s0 https://jsfree.org/ JS FREE
 s0 https://wiki.futo.org FOSS life wiki
 s0 https://marginalia-search.com/ Marginalia
+s0 https://blog.stallmer.com/posts/posteo-imap-in-mutt/ isync
 s1 gemini://gemini.ctrl-c.club/~megymagy/ gemini oldalam
 s1 gemini://smol.diy smol.diy
 s1 gemini://idiomdrottning.org/ Idiomdrottning
@@ -11,3 +12,4 @@ s1 gemini://discogem.gmi.bacardi55.io/ Capsule a day
 s1 gemini://warmedal.se/~antenna/ Antenna
 s1 gemini://gemini.circumlunar.space/capcom/ CAPCOM aggregator
 s1 gemini://gemini.sensorstation.co/ Sensorstation
+s1 gemini://idiomdrottning.org/calendaring READ LATER

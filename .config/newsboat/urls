@@ -1,32 +1,19 @@
 ---News---
-https://telex.hu/rss/archivum?filters=%7B%22flags%22%3A%5B%22legfontosabb%22%5D%2C%22parentId%22%3A%5B%22null%22%5D%7D&perPage=10 news
-https://hnrss.org/best news
-https://www.met.hu/methu/rss/rss.php news weather !
-"query:Friss időjárás:( tags # \"weather\" ) and ( age between 0:1 )
 https://ujszem.org/feed news
 https://kepzo.art/feed news
 https://masfelfok.hu/feed news
+https://telex.hu/rss/archivum?filters=%7B%22flags%22%3A%5B%22legfontosabb%22%5D%2C%22parentId%22%3A%5B%22null%22%5D%7D&perPage=10
 ---People---
 https://100r.co/links/rss.xml people
 https://solar.lowtechmagazine.com/feeds/all-en.atom.xml people
 https://feeds.feedburner.com/notechmagazine people
 https://simonwillison.net/atom/entries/ people
-https://www.htmhell.dev/feed.xml
-https://nickyflowers.com/feed.xml
 https://82mhz.net/index.xml
-https://blog.ctms.me/index.xml
-https://jlsksr.de/atom.xml
-https://analogoffice.net/feed.xml
-https://triapul.cz/feed/english.xml
 https://ctrl-c.club/~lettuce/rss.xml
 "exec:gemget gemini://zaibatsu.circumlunar.space/~solderpunk/gemlog/atom.xml --output -" "~Solderpunk"
 "exec:gemget gemini://thatit.be/atom.xml --output -" "~thatitbe"
-"exec:gemget gemini://gemini.circumlunar.space/users/adiabatic/atom.xml --output -" "~Adiabatic"
 "exec:gemget gemini://tilde.town/~hush/gemlog/index.xml --output -" "~Hush"
 "exec:gemget gemini://compudanzas.net/atom.xml --output -" "~compudanzas"
-
-
-
 ---Reddit---
 https://old.reddit.com/r/Gameboy/search.rss?q=%22game+of+the+month%22&restrict_sr=on&sort=new&t=month
 https://www.reddit.com/r/gamedeals.rss reddit gamedeals !
@@ -43,15 +30,8 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCsvn_Po0SmunchJYOWpOxMg you
 https://www.youtube.com/feeds/videos.xml?channel_id=UCTjmLCEVb9r1OpFDJMMWyIw youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UC477Kvszl9JivqOxN1dFgPQ youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCY2mhw-XNZSxrUynsI5K8Zw youtube
-https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR3Gqxm24_Vd_AJ5Yw youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UC5mPJA4y5G8Z6aNkY6AxgAw youtube vanneistat !
 "query:Van Neistat:( tags # \"vanneistat\" ) and ( content =~ \"0:00\" )"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCtinbF-Q-fVthA0qrFQTgXQ youtube
-https://www.youtube.com/feeds/videos.xml?channel_id=UCillOYNBumCBEgGS3q1QOYA youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCdC0An4ZPNr_YiFiYoVbwaw youtube dailydose !
 "query:Daily Dose of Internet:( tags # \"dailydose\" ) and ( content !~ \"#shorts\" )"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCrqaOPLC4_LTWCdJIvXvWTg youtube
-https://www.youtube.com/feeds/videos.xml?channel_id=UC5JKj1xnuDZ2LQS7-GpxibA youtube
-https://www.youtube.com/feeds/videos.xml?channel_id=UCVfwlh9XpX2Y_tQfjeln9QA youtube bibleproject !
-"query:The Bible Project:( tags # \"bibleproject\" ) and ( title !~ \"#\" )"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCaKHIxywqtawyERn7_FcEOQ youtube
