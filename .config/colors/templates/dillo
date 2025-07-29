@@ -1,0 +1,7 @@
+body {
+	background-color: BACKGROUND !important;
+	color: FOREGROUND !important;
+}
+a {
+	color: BLUE !important;
+}

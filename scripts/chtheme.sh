@@ -6,7 +6,7 @@ theme=$(cat ~/.config/theme)
 # arguments: path-to-config-file path-to-theme-file
 modifyConfig() {
 lines=$(wc -l "$2" | cut -d " " -f 1)
-cat <(head -n -$lines $1) $2 > ~/.config/colors/temp
+sed -f ~/.config/colors/$3.sed $2 | cat <(head -n -$lines $1) - > ~/.config/colors/temp
 mv  ~/.config/colors/temp $1
 }
 
@@ -15,14 +15,14 @@ mv  ~/.config/colors/temp $1
 modifyTheme() {
 	# write current theme into file 
 	echo "$1" > ~/.config/theme 
-	modifyConfig ~/dotfiles/.config/zathura/zathurarc ~/dotfiles/.config/colors/zathura/$1
-	modifyConfig ~/dotfiles/.vimrc ~/dotfiles/.config/colors/vim/$1
-	modifyConfig ~/.mozilla/firefox/6tekjtvb.default-default/chrome/userChrome.css ~/dotfiles/.config/colors/firefox/$1
-	modifyConfig ~/.config/gtk-3.0/settings.ini ~/dotfiles/.config/colors/firefox/$1pref
-	modifyConfig ~/dotfiles/.dillo/style.css ~/dotfiles/.config/colors/dillo/$1
-	modifyConfig ~/dotfiles/.Xresources ~/dotfiles/.config/colors/xterm/$1
+	modifyConfig ~/.config/zathura/zathurarc ~/.config/colors/templates/zathura $1
+	modifyConfig ~/.vimrc ~/.config/colors/templates/vim $1
+	modifyConfig ~/.mozilla/firefox/6tekjtvb.default-default/chrome/userChrome.css ~/.config/colors/templates/firefox $1
+	modifyConfig ~/.config/gtk-3.0/settings.ini ~/.config/colors/templates/gtk $1
+	modifyConfig ~/.dillo/style.css ~/.config/colors/templates/dillo $1
+	modifyConfig ~/.Xresources ~/.config/colors/templates/xterm $1
 	xrdb ~/.Xresources
-	~/dotfiles/.config/colors/herbstluftwm/$1.sh
+  sed -f ~/.config/colors/$1.sed .config/colors/templates/herbstluftwm.sh | bash
 	sed -i "5 c\ <link rel=\"stylesheet\" href=\"/home/gergo/homepage/colors/$1.css\">" ~/homepage/homepage.html
 	echo "$1 theme set!"
 }

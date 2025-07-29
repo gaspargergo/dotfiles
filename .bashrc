@@ -13,7 +13,6 @@ source /usr/share/fzf/key-bindings.bash
 alias sudo="sudo "
 alias web="w3m /home/gergo/.w3m/bookmark.html"
 alias less="less -Q"
-alias weather="curl wttr.in"
 alias largefiles="du -sh * | sort -rh | head -10"
 alias off="sudo poweroff"
 alias mutt="neomutt"
@@ -27,6 +26,7 @@ alias yt-dlp="yt-dlp --embed-subs --force-ipv4 --restrict-filenames -f '((bv*[fp
 alias redshift="redshift -o"
 alias lsvlength='for f in *; do ffmpeg -i "$f" 2>&1 | grep Duration | cut -d " " -f 4 | sed s/,//  | tr -d "\n" && echo " $f"; done' #gets length of all videos in current directory
 alias dict="sdcv -c"
+alias weather="~/scripts/weather.sh"
 
 # Prompt, current dir and decoration
 export PS1=" \[\e[01;34m\]\w\[\e[m\] \[\e[01;31m\]>\[\e[m\]\[\e[01;33m\]>\[\e[m\]\[\e[01;32m\]>\[\e[m\] "
@@ -66,7 +66,7 @@ run-help() { help "$READLINE_LINE" 2>/dev/null || man "$READLINE_LINE"; }
 bind -m vi-insert -x '"\eh": run-help'
 
 export HISTFILESIZE=15000
-export HISTCONTROL=ignoreboth
+export HISTCONTROL=ignoreboth:erasedups
 export HISTSIZE=3000
 
 #when in terminal only, create tmux session; in tmux window, print a pokemon

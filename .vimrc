@@ -104,13 +104,13 @@ endfunction
 
 " --- Theming ---
 colorscheme gruvbox
-set background=dark
-highlight Comment gui=italic
-highlight StatusLineColor guifg=White guibg=#3c3836
-highlight NormalColor guifg=Black guibg=#b8bb26 gui=bold
-highlight InsertColor guifg=White guibg=#458588 gui=bold
-highlight ReplaceColor guifg=Black guibg=maroon1 
-highlight VisualColor guifg=White guibg=#b16286 gui=bold
-highlight CommandColor guifg=White guibg=#427b58 gui=bold
-highlight FileNameColor guifg=White guibg=#3c3836
-highlight LineNumberColor guifg=White guibg=#3c3836
+set background=light
+highlight Comment gui=italic cterm=italic
+highlight StatusLineColor guifg=Black guibg=#ebdbb2
+highlight NormalColor guifg=Black guibg=#98971a gui=bold cterm=bold
+highlight InsertColor guifg=White guibg=#458588 gui=bold cterm=bold
+highlight ReplaceColor guifg=Black guibg=#8f3f71 gui=bold cterm=bold
+highlight VisualColor guifg=White guibg=#b16286 gui=bold cterm=bold
+highlight CommandColor guifg=White guibg=#427b58 gui=bold cterm=bold
+highlight FileNameColor guifg=Black guibg=#d5c4a1
+highlight LineNumberColor guifg=Black guibg=#d5c4a1

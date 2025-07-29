@@ -1,0 +1,19 @@
+!gruvbox-THEME
+*color0: WHITE
+*color1: RED
+*color2: GREEN
+*color3: YELLOW
+*color4: BLUE
+*color5: PURPLE
+*color6: CYAN
+*color7: GREY
+*color8: DARKGREY
+*color9: DARKRED
+*color10: DARKGREEN
+*color11: DARKYELLOW
+*color12: DARKBLUE
+*color13: DARKPURPLE
+*color14: DARKCYAN
+*color15: BLACK
+*foreground: FOREGROUND
+*background: BACKGROUND
