@@ -22,7 +22,7 @@ modifyTheme() {
 	modifyConfig ~/.dillo/style.css ~/.config/colors/templates/dillo $1
 	modifyConfig ~/.Xresources ~/.config/colors/templates/xterm $1
 	xrdb ~/.Xresources
-  sed -f ~/.config/colors/$1.sed .config/colors/templates/herbstluftwm.sh | bash
+  sed -f ~/.config/colors/$1.sed ~/.config/colors/templates/herbstluftwm.sh | bash
 	sed -i "5 c\ <link rel=\"stylesheet\" href=\"/home/gergo/homepage/colors/$1.css\">" ~/homepage/homepage.html
 	echo "$1 theme set!"
 }
