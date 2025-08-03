@@ -392,4 +392,3 @@ bind-key "h" quit urlview
 bind-key "v" view-dialogs urlview
 highlight feedlist "---.*---" green default bold
 highlight feedlist ".*0/0.." default default invis
-macro u set browser "~/scripts/saveurl.sh %u" ; open-in-browser ; set browser "dillo %u"
