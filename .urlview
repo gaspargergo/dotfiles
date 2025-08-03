@@ -1,1 +1,1 @@
-COMMAND echo %s | xsel -i -b
+COMMAND ~/scripts/saveurl.sh %s
