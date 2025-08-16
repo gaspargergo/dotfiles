@@ -566,3 +566,5 @@
 2025-07-19T12:03:14Z /home/gergo/.ssb/blobs/sha256/bc/0cd46eb0fdfc3638b1cf6efa42de4c4d056c894ee8eff6eb8d65df4ebaef1a gemini://thatit.be/2025-07-14-15-03-45.gmi 20 text/gemini
 2025-07-28T13:58:38Z /home/gergo/.ssb/blobs/sha256/bb/31a57239025ecf20dbca8a095df424383134699457c4539a6fb1577ad5acc0 gemini://thatit.be/2025-06-24-10-33.gmi 20 text/gemini
 2025-07-28T13:59:09Z /home/gergo/.ssb/blobs/sha256/17/93aafa4f96464a281bf2a5a3a4744e419253c26ab6d63c97d2ac16f364aafb gemini://tilde.town/~hush/gemlog/2025-06-23.gmi 20 text/gemini
+2025-08-03T05:53:01Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://gemini:/home/gergo/sitesToRead/on-stagnation-and-burnout-in-the-gemini-community.gmi  
+2025-08-06T06:17:29Z /home/gergo/.ssb/blobs/sha256/b5/301c21eb7b9d73504ada8cdfa00b8b455de0a1863cdc725c86a5f2392a519b gemini://tilde.town/~hush/gemlog/2025-08-03.gmi 20 text/gemini

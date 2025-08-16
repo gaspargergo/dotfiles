@@ -75,6 +75,7 @@ save_dir=/home/gergo/Downloads
 link_action="Copy link: echo $url | xclip -selection clipboard"
 link_action="Open in MPV:mpv $url"
 link_action="Open in Firefox:firefox $url"
+link_action="Read later:echo $url >> /home/gergo/sitesToRead/readinglist.txt"
 
 #-------------------------------------------------------------------------
 #                           RENDERING SECTION
