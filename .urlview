@@ -1,1 +1,1 @@
-COMMAND ~/scripts/saveurl.sh %s
+COMMAND echo %s >> /home/gergo/sitesToRead/readinglist.txt
