@@ -1,7 +1,12 @@
 body {
 	background-color: BACKGROUND !important;
 	color: FOREGROUND !important;
+	padding: 10px !important;
 }
 a {
 	color: BLUE !important;
+}
+p {
+	font-family: Alegreya !important;
+	font-size: 20px !important;
 }
