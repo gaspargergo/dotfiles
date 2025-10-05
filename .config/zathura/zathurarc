@@ -3,6 +3,7 @@ set font 10
 map <C-s> toggle_statusbar
 set recolor true
 set selection-clipboard clipboard
+set database sqlite
 
 set default-bg "#fbf1c7"
 set recolor-darkcolor "#3c3836"

@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "calendar"
+CALCURSE_CALDAV_PASSWORD=$(pass posteo | head -n 1) calcurse-caldav

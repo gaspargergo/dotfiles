@@ -1,7 +1,11 @@
 body {
 	background-color: #fbf1c7 !important;
 	color: #3c3836 !important;
+	padding: 10px !important;
 }
 a {
 	color: #458588 !important;
+}
+p {
+	font-size: 20px !important;
 }

@@ -416,19 +416,19 @@ window,
      +---+---+---+---+---+---+---*/
 
     /* Light Theme Colors */
-    --window-colour:               #fbf2c7;
+    --window-colour:               #fbf1c7;
     --secondary-colour:            #ebdbb2;
     --inverted-colour:             #3c3836;
 
     /* Containter Tab Colours */
-    --uc-identity-color-blue:      #076678;
-    --uc-identity-color-turquoise: #427b58;
+    --uc-identity-color-blue:      #458588;
+    --uc-identity-color-turquoise: #689d6a;
     --uc-identity-color-green:     #98971a;
-    --uc-identity-color-yellow:    #b57614;
-    --uc-identity-color-orange:    #d79921;
-    --uc-identity-color-red:       #9d0006;
-    --uc-identity-color-pink:      #b16286;
-    --uc-identity-color-purple:    #8f3f71;
+    --uc-identity-color-yellow:    #d79921;
+    --uc-identity-color-orange:    #b57614;
+    --uc-identity-color-red:       #cc241d;
+    --uc-identity-color-pink:      #9d0006;
+    --uc-identity-color-purple:    #b16286;
      
     
     /* URL colour in URL bar suggestions */

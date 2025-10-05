@@ -107,7 +107,7 @@ colorscheme gruvbox
 set background=light
 highlight Comment gui=italic cterm=italic
 highlight StatusLineColor guifg=Black guibg=#ebdbb2
-highlight NormalColor guifg=Black guibg=#98971a gui=bold cterm=bold
+highlight NormalColor guifg=White guibg=#98971a gui=bold cterm=bold
 highlight InsertColor guifg=White guibg=#458588 gui=bold cterm=bold
 highlight ReplaceColor guifg=Black guibg=#8f3f71 gui=bold cterm=bold
 highlight VisualColor guifg=White guibg=#b16286 gui=bold cterm=bold

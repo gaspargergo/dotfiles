@@ -6,6 +6,7 @@ s0 https://wiki.futo.org FOSS life wiki
 s0 https://marginalia-search.com/ Marginalia
 s0 https://blog.stallmer.com/posts/posteo-imap-in-mutt/ isync
 s0 https://pihw.wordpress.com/guides/guide-to-using-the-nook-simple-touch-as-a-remote-eink-raspberry-pi-screen/ Nook as display
+s0 https://www.ctrl-c.club/~loghead/ctrl-zine.html Ctrl-z zine
 s1 gemini://gemini.ctrl-c.club/~megymagy/ gemini oldalam
 s1 gemini://smol.diy smol.diy
 s1 gemini://idiomdrottning.org/ Idiomdrottning

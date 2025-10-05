@@ -76,54 +76,8 @@
 /home/gergo/projekt/népművészet/borsod_megye/merged.pdf
 /home/gergo/projekt/népművészet/merged.pdf
 /home/gergo/projekt/jella/jella.pdf
-/home/gergo/sitesToRead/archive/230711.epub
-/home/gergo/sitesToRead/archive/231003_1046.epub
-/home/gergo/sitesToRead/archive/240320_2208.epub
-/home/gergo/sitesToRead/archive/231122_1606.epub
-/home/gergo/sitesToRead/archive/231028_1838.epub
-/home/gergo/sitesToRead/archive/231231_1537.epub
-/home/gergo/sitesToRead/archive/240417_0900.epub
-/home/gergo/sitesToRead/archive/231010_2216.epub
-/home/gergo/sitesToRead/archive/231016_0821.epub
-/home/gergo/sitesToRead/archive/240124_2147.epub
-/home/gergo/sitesToRead/archive/240718_2056.epub
-/home/gergo/sitesToRead/archive/240217_2158.epub
-/home/gergo/sitesToRead/archive/231229_2326.epub
-/home/gergo/sitesToRead/archive/240118_2108.epub
-/home/gergo/sitesToRead/archive/240331_2229.epub
-/home/gergo/sitesToRead/archive/240205_1834.epub
-/home/gergo/sitesToRead/archive/240406_1105.epub
-/home/gergo/sitesToRead/archive/240626_1002.epub
-/home/gergo/sitesToRead/archive/231102_0755.epub
-/home/gergo/sitesToRead/archive/231106_0815.epub
-/home/gergo/sitesToRead/archive/240129_1103.epub
-/home/gergo/sitesToRead/archive/240729_1335.epub
-/home/gergo/sitesToRead/archive/240109_2034.epub
-/home/gergo/sitesToRead/archive/240328_2151.epub
-/home/gergo/sitesToRead/archive/240114_1102.epub
-/home/gergo/sitesToRead/archive/240716_1516.epub
-/home/gergo/sitesToRead/archive/241111_1904.epub
-/home/gergo/sitesToRead/archive/230713_0822.epub
-/home/gergo/sitesToRead/archive/231012_1029.epub
-/home/gergo/sitesToRead/archive/240412_2204.epub
-/home/gergo/sitesToRead/archive/231113_0950.epub
-/home/gergo/sitesToRead/archive/231124_2315.epub
-/home/gergo/sitesToRead/archive/230923_2105.epub
-/home/gergo/sitesToRead/archive/231011_2246.epub
-/home/gergo/sitesToRead/archive/240806_1738.epub
-/home/gergo/sitesToRead/archive/230831_1125.epub
-/home/gergo/sitesToRead/archive/230925_0820.epub
-/home/gergo/sitesToRead/archive/231004_1012.epub
-/home/gergo/sitesToRead/archive/240402_1059.epub
-/home/gergo/sitesToRead/archive/230712_0854.epub
-/home/gergo/sitesToRead/archive/240106_1638.epub
-/home/gergo/sitesToRead/archive/240201_0951.epub
-/home/gergo/sitesToRead/archive/230716_0802.epub
-/home/gergo/sitesToRead/archive/231129_1045.epub
-/home/gergo/sitesToRead/archive/240811_1540.epub
-/home/gergo/sitesToRead/archive/240719_2215.epub
-/home/gergo/sitesToRead/241111_1904.epub
-/home/gergo/sitesToRead/How to Build a Practical Household Bike Generator _ LOW←TECH MAGAZINE.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.2.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.3.pdf
 /home/gergo/Documents/Mensa_Oklevél2.pdf
 /home/gergo/Documents/norpet.pdf
 /home/gergo/Documents/diplomamásolat.pdf
@@ -150,6 +104,7 @@
 /home/gergo/Documents/munkás/groff_test/images/kiskep.pdf
 /home/gergo/Documents/receptek/chilis_bab_etcsokival.pdf
 /home/gergo/Documents/writing archive/home and crits.pdf
+/home/gergo/Documents/Simple Bike U-Lock Holder _ 4 Steps - Instructables.pdf
 /home/gergo/Documents/kner-antikva-minta.pdf
 /home/gergo/Documents/laktanya/VASM_Vhk_2011_02__pages35-48.pdf
 /home/gergo/Documents/laktanya/Rozsdafoltok Szombathelyen – a huszárlaktanya.pdf
@@ -218,12 +173,12 @@
 /home/gergo/Documents/Önéletrajz_GG.pdf
 /home/gergo/Documents/mom-2.6_c/momdoc/mom-pdf.pdf
 /home/gergo/Documents/mom-2.6_c/examples/penguin.pdf
-/home/gergo/Downloads/e_angol_25maj_fl.pdf
-/home/gergo/Downloads/pioneer-pictures-logo-inverse-1.pdf
-/home/gergo/Downloads/e_angol_25maj_fl-1.pdf
-/home/gergo/Downloads/adult_part1.pdf
-/home/gergo/Downloads/Bori_notesz-1.pdf
+/home/gergo/Documents/ETT01-Standard-A4-BW.pdf
+/home/gergo/Downloads/aszf.pdf
+/home/gergo/Downloads/rogers-museum.pdf
+/home/gergo/Downloads/demo.pdf
 /home/gergo/Downloads/0001.pdf
+/home/gergo/Downloads/k_magyir_24maj_fl.pdf
 /home/gergo/Downloads/k_angol_25maj_fl.pdf
 /home/gergo/Downloads/_Digitalko.hu_Megrendeles_60782944.pdf
 /home/gergo/Downloads/DisasterPreparednessTokyo.pdf
@@ -232,9 +187,7 @@
 /home/gergo/Downloads/dokumentum.pdf
 /home/gergo/Downloads/11.-varro-daniel-szivdesszert.pdf
 /home/gergo/Downloads/HIVE_SelfCare.pdf
-/home/gergo/Downloads/Bori_notesz.pdf
 /home/gergo/Downloads/40ways.online.2020.pdf
-/home/gergo/Downloads/e_angol_23okt_fl.pdf
 /home/gergo/Downloads/dokumentum-2.pdf
 /home/gergo/Downloads/DIP1_2025-005929.pdf
 /home/gergo/Downloads/ODP_altalanos_felhasznalasi_feltetelek.pdf
@@ -242,16 +195,12 @@
 /home/gergo/Downloads/8477631573_6066602169.pdf
 /home/gergo/Downloads/dokumentum-1.pdf
 /home/gergo/Downloads/garancia_SONY_2025-3-21.pdf
-/home/gergo/Calibre Library/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub
-/home/gergo/Calibre Library/Unknown/2015.75587.Pattern-Design-A-Book-For-Students-Treating-In-A-Practical-Way-Of-The-Anatomy-Plannin (3)/2015.75587.Pattern-Design-A-Book-For-Stude - Unknown.pdf
-/home/gergo/Calibre Library/Szivdesszert/Varro Daniel (2)/Varro Daniel - Szivdesszert.pdf
 /home/gergo/fontbase/Junicode/docs/JunicodeManual.pdf
 /home/gergo/fontbase/EBGaramond/specimen/Specimen.pdf
 /home/gergo/music/Dawes/Dawes - All Your Favorite Bands/All Your Favorite Bands - booklet.pdf
 /home/gergo/music/JPEGmafia/Veteran/JPEGMAFIA - Veteran - Lyrics -.pdf
 /home/gergo/music/JPEGmafia/LP/JPEGMAFIA - LP! - LP! CREDITS - LYRICS.pdf
 /home/gergo/music/JPEGmafia/AMHAC/JPEGMAFIA - All My Heroes Are Cornballs - THE LYRICS.pdf
-/home/gergo/Pictures/festmények/McCollum_Shapes.pdf
 /home/gergo/angoll/teszt.pdf
 /home/gergo/angoll/archive/maj4/pspp_contrast.pdf
 /home/gergo/angoll/archive/jan27/writing.pdf
@@ -718,69 +667,44 @@
 /home/gergo/booksToRead/pszicho/Elaine N. Aron Ph.D. - The Highly Sensitive Person-Broadway Books (1997).epub
 /home/gergo/booksToRead/pszicho/Jonathan Haidt - The Anxious Generation_ How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness-Penguin Publishing Group (2024).epub
 /home/gergo/booksToRead/pszicho/Clear, James - Atomic habits_ an easy and proven way to build good habits and break bad ones-Random House Business Books (2018).epub
-/home/gergo/booksToRead/pszicho/David Allen - Getting Things Done_ The Art of Stress-Free Productivity-Penguin Books (2003).epub
 /home/gergo/booksToRead/pszicho/William B. Irvine - The Stoic Challenge_ A Philosopher's Guide to Becoming Tougher, Calmer, and More Resilient-W. W. Norton & Company (2019).epub
 /home/gergo/booksToRead/pszicho/Jonathan Haidt - The Happiness Hypothesis_ Finding Modern Truth in Ancient Wisdom-Basic Books (2006).epub
-/home/gergo/booksToRead/pszicho/Zeff, Ted - The highly sensitive person's survival guide_ Essential Skills for Living Well in an Overstimulating World-New Harbinger Publications (2012).epub
 /home/gergo/booksToRead/pszicho/Seth J. Gillihan - Cognitive Behavioral Therapy Made Simple_ 10 Strategies for Managing Anxiety, Depression, Anger, Panic, and Worry-Althea Press (2018).epub
 /home/gergo/booksToRead/pszicho/Webb, Caroline - How to Have a Good Day_ Harness the Power of Behavioral Science to Transform Your Working Life-The Crown Publishing Group_Penguin Random House Audio Publishing Group (2016).epub
 /home/gergo/booksToRead/pszicho/the-jane-addams-collective-mutual-aid-self-social-therapy.epub
 /home/gergo/booksToRead/pszicho/Cal Newport - Deep Work_ Rules for focused success in a distracted world-Grand Central (2016).epub
-/home/gergo/booksToRead/képző/Massey, Anne_Seago, Alex - Pop Art and Design-Bloomsbury UK_Bloomsbury Academic (2018_2017).epub
-/home/gergo/booksToRead/képző/Alastair Sooke - Pop Art_ A Colourful History-Penguin (2016).epub
-/home/gergo/booksToRead/képző/patterndesignboo00dayl.pdf
 /home/gergo/booksToRead/szex/Laurie B. Mintz - Becoming Cliterate_ Why Orgasm Equality Matters—And How to Get It-HarperOne (2017).epub
 /home/gergo/booksToRead/szex/Barry W. McCarthy PhD, Michael E. Metz PhD - Coping With Premature Ejaculation_ How to Overcome PE, Please Your Partner & Have Great Sex-New Harbinger Publications (2004).pdf
 /home/gergo/booksToRead/szex/Ian Kerner PhD - Good in Bed Guide to Overcoming Premature Ejaculation (2010).pdf
-/home/gergo/booksToRead/szex/Vanessa Marin - Sex Talks _ The Five Conversations That Will Transform Your Love Life-S&S_Simon Element (2023).epub
 /home/gergo/booksToRead/szex/Ian Kerner - She comes first_ the thinking man's guide to pleasuring a woman-HarperCollins (2004).epub
 /home/gergo/booksToRead/programok/(Pragmatic Programmers) Drew Neil - Practical Vim_ Edit Text at the Speed of Thought-Pragmatic Bookshelf (2012).epub
 /home/gergo/booksToRead/programok/Brian P. Hogan - tmux 2_ Productive Mouse-Free Development-Pragmatic Bookshelf (2017).epub
 /home/gergo/booksToRead/programok/utp-1.0.pdf
-/home/gergo/booksToRead/programok/Drew Neil - Modern Vim-The Pragmatic Bookshelf, LLC (2018).epub
-/home/gergo/booksToRead/programok/ProgrammingGroundUp-0-9.epub
 /home/gergo/booksToRead/programok/Unix_programming.epub
 /home/gergo/booksToRead/programok/groff_manual.epub
 /home/gergo/booksToRead/programok/Brian P. Hogan - Small, Sharp Software Tools_ Harness the Combinatoric Power of Command-Line Tools and Utilities-Pragmatic Bookshelf.epub
-/home/gergo/booksToRead/programok/beforecomputers.pdf
 /home/gergo/booksToRead/programok/Dmitry Kirsanov - The Book of Inkscape, 2nd Edition_ The Definitive Guide to the Graphics Editor-No Starch Press (2021).epub
 /home/gergo/booksToRead/programok/Developing Quality Technical Information.epub
 /home/gergo/booksToRead/programok/Jared Bhatti - Docs for Developers_ An Engineer’s Field Guide to Technical Writing-Apress (2021).epub
+/home/gergo/booksToRead/diy/Make Thrift Mend_ Stitch, Patch, Darn, Plant-Dye &amp; Love Your Wardrobe.epub
 /home/gergo/booksToRead/diy/No-waste kitchen gardening regrow your leftover greens, pits, seeds, and more by Elzer-Peters, Katie (z-lib.org).epub
 /home/gergo/booksToRead/diy/Dave Canterbury - Bushcraft 101_ A Field Guide to the Art of Wilderness Survival-Adams Media.epub
 /home/gergo/booksToRead/diy/sailfarm.pdf
 /home/gergo/booksToRead/diy/John ’Lofty’ Wiseman - SAS Survival Handbook_ The Ultimate Guide to Surviving Anywhere-William Morrow.epub
-/home/gergo/booksToRead/diy/(Studio Handbook Series) Stacie Dolin, Amy Lapidow - Book Art Studio Handbook_ Techniques and Methods for Binding Books, Creating Albums, Making Boxes and Enclosures, and More-Quarry Books.pdf
 /home/gergo/booksToRead/diy/Zia Allaway - Indoor Edible Garden_ Creative Ways to Grow Herbs, Fruits, and Vegetables in Your Home-DK.pdf
-/home/gergo/booksToRead/diy/Tracy, Sam - Bicycle! _ A Repair & Maintenance Manifesto, 2nd Edition-PM Press (2013).epub
-/home/gergo/booksToRead/diy/Caspar Williamson - Low-Tech Print_ Contemporary Hand-Made Printing-Laurence King Publishing.pdf
-/home/gergo/booksToRead/diy/Peggy Ann Hardigree - The Edible Indoor Garden_ A Complete Guide to Growing over 60 Vegetables, Fruits, and Herbs Indoors (1980, St. Martin's Press) - libgen.lc.pdf
-/home/gergo/booksToRead/diy/An anarchist free herbal 2nd edition.epub
-/home/gergo/booksToRead/diy/Propagating Plants How to Create New Plants for Free by Alan Toogood (editor-in-chief) (z-lib.org).pdf
-/home/gergo/booksToRead/diy/Peter Ginn - Slow Tech_ The Perfect Antidote to Today's Digital World-Haynes Publishing (2019).pdf
+/home/gergo/booksToRead/diy/Marie Kondo - The Life-Changing Magic of Tidying Up_ The Japanese Art of Decluttering and Organizing (2014, Ten Speed Press) - libgen.li.epub
 /home/gergo/booksToRead/diy/Jan Saunders Maresh - Sewing For Dummies-John Wiley & Sons.epub
-/home/gergo/booksToRead/bölcsész/agamben/Giorgio Agamben - Homo Sacer_ Sovereign Power and Bare Life-Stanford University Press.epub
-/home/gergo/booksToRead/bölcsész/agamben/Giorgio Agamben - Profanations-Zone Books.epub
-/home/gergo/booksToRead/bölcsész/agamben/Giorgio Agamben - State Of Exception-University of Chicago Press.epub
-/home/gergo/booksToRead/bölcsész/agamben/Giorgio Agamben - Where Are We Now_ The Epidemic as Politics-Eris.epub
-/home/gergo/booksToRead/bölcsész/agamben/(Meridian (Stanford Calif.)) Agamben, Giorgio_Heron, Nicholas(Translator) - Stasis_ civil war as a political paradigm-Stanford University Press.epub
-/home/gergo/booksToRead/bölcsész/agamben/Giorgio Agamben_ Lorenzo Chiesa - What Is Real_-Stanford University Press.epub
-/home/gergo/booksToRead/bölcsész/Mapping Time  The Calendar by E. G. Richards (z-lib.org).pdf
+/home/gergo/booksToRead/diy/Mending Matters_ Stitch, Patch, and Repair Your Favorite Denim & More.epub
 /home/gergo/booksToRead/bölcsész/Umberto Eco, Caterina Mongiat Farina, Geoff Farina, Francesco Erspamer - How to Write a Thesis-The MIT Press (2015).epub
-/home/gergo/booksToRead/bölcsész/Carole Counihan, Penny Van Esterik (editors) - Food and culture_ a reader-Routledge (2012).epub
 /home/gergo/booksToRead/bölcsész/Kittler, Friedrich A. - Optical media _ Berlin lectures 1999-Polity (2012).pdf
-/home/gergo/booksToRead/bölcsész/Danto_commonplace.epub
+/home/gergo/booksToRead/bölcsész/Giorgio Agamben - Profanations-Zone Books.epub
 /home/gergo/booksToRead/bölcsész/Latour, Bruno - Rejoicing_ Or the Torments of Religious Speech-Wiley.epub
 /home/gergo/booksToRead/bölcsész/science-studies-reader.pdf
-/home/gergo/booksToRead/bölcsész/Cary Wolfe - What Is Posthumanism_-Univ Of Minnesota Press (2009).pdf
-/home/gergo/booksToRead/bölcsész/Harold McGee - On Food and Cooking_ The Science and Lore of the Kitchen, rev. and updated (2004, Simon & Schuster Adult Publishing) - libgen.lc.epub
 /home/gergo/booksToRead/bölcsész/Umberto_Eco_and_the_Echoes_of_Adamic_Lan.pdf
-/home/gergo/booksToRead/bölcsész/HAHN ISTVÁN_Naptári rendszerek és időszámítás.pdf
-/home/gergo/booksToRead/bölcsész/Média- és kultúratudomány. Kézikönyv.pdf
 /home/gergo/booksToRead/bölcsész/John D. Caputo - The Folly of God_ A Theology of the Unconditional-Polebridge Press.epub
-/home/gergo/booksToRead/bölcsész/(Numanities - Arts and Humanities in Progress 12) Zoltán Kulcsár-Szabó, Tamás Lénárt, Attila Simon, Roland Végső - Life After Literature_ Perspectives on Biopoetics in Literature and Theory-Springer I.pdf
-/home/gergo/booksToRead/bölcsész/Olli Lagerspetz - A Philosophy of Dirt-Reaktion Books.pdf
-/home/gergo/booksToRead/pattern/2015.75587.Pattern-Design-A-Book-For-Students-Treating-In-A-Practical-Way-Of-The-Anatomy-Planning-And-Evolution-Of-Repeated-Ornament.pdf
+/home/gergo/booksToRead/design/William Lidwell, Kritina Holden, Jill Butler - Universal Principles of Design, Revised and Updated_ 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make (2010, Rockport Publishers) - libgen.li.epub
+/home/gergo/booksToRead/design/Tufte, Edward R - The visual display of quantitative information (2001, Graphics Press) - libgen.li.pdf
+/home/gergo/booksToRead/design/Edward R. Tufte - Envisioning Information (1990, Graphics Press) - libgen.li.pdf
 /home/gergo/booksToRead/ecology/Andreas Malm - How to Blow Up a Pipeline (Verso Books) - libgen.li.epub
 /home/gergo/booksToRead/ecology/Wallace-Wells, David - The uninhabitable earth_ life after warming-Penguin Random House LLC_Cela (2020_2019).epub
 /home/gergo/booksToRead/ecology/Elizabeth Kolbert - The Sixth Extinction An Unnatural History-Picador_Henry Holt and Co..epub
@@ -791,18 +715,9 @@
 /home/gergo/booksToRead/ecology/Pope Francis - Let Us Dream_ The Path to a Better Future-Simon & Schuster (2020).epub
 /home/gergo/booksToRead/ecology/busy-doing-nothing.epub
 /home/gergo/booksToRead/ecology/Mike Berners-Lee - There Is No Planet B_ A Handbook for the Make or Break Years – Updated Edition-Cambridge University Press.pdf
-/home/gergo/booksToRead/szépirodalom/Jorge Luis Borges - Jól fésült mennydörgés.epub
-/home/gergo/booksToRead/szépirodalom/Daniel Kehlmann - Tyll (2019, Magvető Könyvkiadó) - libgen.li.epub
-/home/gergo/booksToRead/szépirodalom/McCarthy, Cormac - The Road.epub
-/home/gergo/booksToRead/szépirodalom/pestis.epub
-/home/gergo/booksToRead/szépirodalom/(Európa Zsebkönyvek 82) Stanisław Lem - Kiberiáda.epub
 /home/gergo/booksToRead/tipo/stop_stealing_sheep.pdf
-/home/gergo/booksToRead/tipo/Mary Jo Krysinski - The Art of Type and Typography_ Explorations in use and practice-Routledge.pdf
-/home/gergo/booksToRead/tipo/Richard Hunt - Advanced Typography_ From Knowledge to Mastery-Bloomsbury Visual Arts.epub
-/home/gergo/booksToRead/tipo/Martin Solomon - The Art of Typography_ An Introduction to Typo.Icon.Ography.pdf
 /home/gergo/booksToRead/tipo/Toshi Omagri - Arcade Game Typography_ The Art of Pixel Type-Thames & Hudson.pdf
-/home/gergo/booksToRead/tipo/typography_a_very_short_introduction.pdf
-/home/gergo/booksToRead/tipo/Pamental, Jason - Responsive typography_ Using type well on the web-O'Reilly Media, Inc.epub
+/home/gergo/booksToRead/tipo/Robert Bringhurst - The Elements of Typographic Style (2004, Hartley & Marks).pdf
 /home/gergo/booksToRead/tipo/Eric Gill - An Essay on Typography (1993).epub
 /home/gergo/booksToRead/tipo/Strizver, Ilene - Type Rules_ The Designer's Guide to Professional Typography, 4th Edition-John Wiley and Sons.epub
 /home/gergo/booksToRead/tipo/Karin Wagner - From ASCII Art To Comic Sans_ Typography And Popular Culture In The Digital Age-The MIT Press.pdf
