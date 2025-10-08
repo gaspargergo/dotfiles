@@ -29,8 +29,22 @@ alias redshift="redshift -o"
 alias lsvlength='for f in *; do ffmpeg -i "$f" 2>&1 | grep Duration | cut -d " " -f 4 | sed s/,//  | tr -d "\n" && echo " $f"; done' #gets length of all videos in current directory
 alias dict="sdcv -c"
 
-# Prompt, current dir and decoration
+update_prompt() {
+battery=$(acpi)
+percentage=$(echo $battery | cut -d',' -f2 | tr -d ' \n%')
+chargingStatus=$(echo $battery | cut -d',' -f1 | cut -d':' -f2| tr -d ' \n')
+
+if [[ $chargingStatus == "Charging" ]]
+then
+	export PS1=" \[\e[01;34m\]\w\[\e[m\] \[\e[01;32m\]>>>\[\e[m\] "
+elif [[ $percentage -lt 25 ]]
+then
+	export PS1=" \[\e[01;34m\]\w\[\e[m\] \[\e[01;31m\]>>>\[\e[m\] "
+fi
+}
+# Prompt, current dir and decoration 
 export PS1=" \[\e[01;34m\]\w\[\e[m\] \[\e[01;31m\]>\[\e[m\]\[\e[01;33m\]>\[\e[m\]\[\e[01;32m\]>\[\e[m\] "
+PROMPT_COMMAND=update_prompt
 
 #Color less for manpage reading
 export LESS_TERMCAP_mb=$'\E[01;31m'
@@ -78,5 +92,6 @@ fi
 
 if [[ "$TERM" == "xterm-256color" ]]
 then
-	tmux attach-session -t "$USER" || tmux new-session -s "$USER"
+	#tmux attach-session -t "$USER" || tmux new-session -s "$USER"
+	/home/gergo/scripts/pokescript/pokemon-colorscripts.sh -r
 fi
