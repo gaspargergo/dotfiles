@@ -1,5 +1,0 @@
-set default-bg "BACKGROUND"
-set recolor-darkcolor "FOREGROUND"
-set recolor-lightcolor "BACKGROUND"
-set statusbar-fg "FOREGROUND"
-set statusbar-bg "BACKGROUND_DARKER"
