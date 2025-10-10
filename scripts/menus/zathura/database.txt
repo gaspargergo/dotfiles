@@ -77,7 +77,13 @@
 /home/gergo/projekt/népművészet/merged.pdf
 /home/gergo/projekt/jella/jella.pdf
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.2.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.5.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.4.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.6.pdf
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.3.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.7.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.9.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.8.pdf
 /home/gergo/Documents/Mensa_Oklevél2.pdf
 /home/gergo/Documents/norpet.pdf
 /home/gergo/Documents/diplomamásolat.pdf
@@ -174,10 +180,12 @@
 /home/gergo/Documents/mom-2.6_c/momdoc/mom-pdf.pdf
 /home/gergo/Documents/mom-2.6_c/examples/penguin.pdf
 /home/gergo/Documents/ETT01-Standard-A4-BW.pdf
+/home/gergo/Downloads/invoice-ILT-251009-05f5a45.pdf
 /home/gergo/Downloads/aszf.pdf
 /home/gergo/Downloads/rogers-museum.pdf
 /home/gergo/Downloads/demo.pdf
 /home/gergo/Downloads/0001.pdf
+/home/gergo/Downloads/equity-type-specimen.pdf
 /home/gergo/Downloads/k_magyir_24maj_fl.pdf
 /home/gergo/Downloads/k_angol_25maj_fl.pdf
 /home/gergo/Downloads/_Digitalko.hu_Megrendeles_60782944.pdf
@@ -197,6 +205,7 @@
 /home/gergo/Downloads/garancia_SONY_2025-3-21.pdf
 /home/gergo/fontbase/Junicode/docs/JunicodeManual.pdf
 /home/gergo/fontbase/EBGaramond/specimen/Specimen.pdf
+/home/gergo/.fonts/Comic_Code/TTF_ILT_EULA.pdf
 /home/gergo/music/Dawes/Dawes - All Your Favorite Bands/All Your Favorite Bands - booklet.pdf
 /home/gergo/music/JPEGmafia/Veteran/JPEGMAFIA - Veteran - Lyrics -.pdf
 /home/gergo/music/JPEGmafia/LP/JPEGMAFIA - LP! - LP! CREDITS - LYRICS.pdf
@@ -709,6 +718,7 @@
 /home/gergo/booksToRead/ecology/Wallace-Wells, David - The uninhabitable earth_ life after warming-Penguin Random House LLC_Cela (2020_2019).epub
 /home/gergo/booksToRead/ecology/Elizabeth Kolbert - The Sixth Extinction An Unnatural History-Picador_Henry Holt and Co..epub
 /home/gergo/booksToRead/ecology/Julia Watson_ Wade Davis - Lo-TEK _ Design by Radical Indigenism-Taschen.pdf
+/home/gergo/booksToRead/ecology/rebel-city-london-for-a-future-made-by-us-all.epub
 /home/gergo/booksToRead/ecology/Robin Wall Kimmerer - Braiding Sweetgrass_ Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants-Milkweed Editions.epub
 /home/gergo/booksToRead/ecology/Jenny Odell - How to Do Nothing_ Resisting the Attention Economy (2019, Melville House) - libgen.lc.epub
 /home/gergo/booksToRead/ecology/Greta Thunberg - The Climate Book _ The Facts and the Solutions-Penguin Publishing Group (2023).epub

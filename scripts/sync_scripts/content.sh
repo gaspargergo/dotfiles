@@ -11,9 +11,9 @@ do
 	else
 		if [[ $(echo $url | rev | cut -c1) = "/" ]] #if no page name, use last part of url. otherwise we would end up with a bunch of index.html
 		then
-			wget --progress=bar --timeout=5 -p -k -H -nd -R "*.js,*.eot,*.woff,*.woff2,*.ttf,*.otf,*.txt" -P ~/sitesToRead/download/ -E --default-page=$(echo $url | rev | cut -d'/' -f2 |rev) $url
+			wget --progress=bar --timeout=5 -p -k -H -nd --tries=3 -R "*.js,*.eot,*.woff,*.woff2,*.ttf,*.otf,*.txt" -P ~/sitesToRead/download/ -E --default-page=$(echo $url | rev | cut -d'/' -f2 |rev) $url
 		else
-			wget --progress=bar --timeout=5 -p -k -H -nd -R "*.js,*.eot,*.woff,*.woff2,*.ttf,*.otf,*.txt" -P ~/sitesToRead/download/ -E $url
+			wget --progress=bar --timeout=5 -p -k -H -nd --tries=3 -R "*.js,*.eot,*.woff,*.woff2,*.ttf,*.otf,*.txt" -P ~/sitesToRead/download/ -E $url
 		fi
 	fi
 done

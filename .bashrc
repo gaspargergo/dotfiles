@@ -40,11 +40,12 @@ then
 elif [[ $percentage -lt 25 ]]
 then
 	export PS1=" \[\e[01;34m\]\w\[\e[m\] \[\e[01;31m\]>>>\[\e[m\] "
+else
+	export PS1=" \[\e[01;34m\]\w\[\e[m\] \[\e[01;31m\]>\[\e[m\]\[\e[01;33m\]>\[\e[m\]\[\e[01;32m\]>\[\e[m\] "
 fi
 }
 # Prompt, current dir and decoration 
 export PS1=" \[\e[01;34m\]\w\[\e[m\] \[\e[01;31m\]>\[\e[m\]\[\e[01;33m\]>\[\e[m\]\[\e[01;32m\]>\[\e[m\] "
-PROMPT_COMMAND=update_prompt
 
 #Color less for manpage reading
 export LESS_TERMCAP_mb=$'\E[01;31m'
@@ -70,6 +71,8 @@ shopt -s lithist
 shopt -s no_empty_cmd_completion
 #append history instead of overwriting
 shopt -s histappend
+#instantly update hist after a command
+PROMPT_COMMAND='history -a;history -n;update_prompt'
 
 export EDITOR='vim'
 export BROWSER='dillo'
@@ -93,5 +96,6 @@ fi
 if [[ "$TERM" == "xterm-256color" ]]
 then
 	#tmux attach-session -t "$USER" || tmux new-session -s "$USER"
+	echo ""
 	/home/gergo/scripts/pokescript/pokemon-colorscripts.sh -r
 fi

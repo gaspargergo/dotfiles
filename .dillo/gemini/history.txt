@@ -568,3 +568,9 @@
 2025-07-28T13:59:09Z /home/gergo/.ssb/blobs/sha256/17/93aafa4f96464a281bf2a5a3a4744e419253c26ab6d63c97d2ac16f364aafb gemini://tilde.town/~hush/gemlog/2025-06-23.gmi 20 text/gemini
 2025-08-03T05:53:01Z /home/gergo/.ssb/blobs/sha256/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 gemini://gemini:/home/gergo/sitesToRead/on-stagnation-and-burnout-in-the-gemini-community.gmi  
 2025-08-06T06:17:29Z /home/gergo/.ssb/blobs/sha256/b5/301c21eb7b9d73504ada8cdfa00b8b455de0a1863cdc725c86a5f2392a519b gemini://tilde.town/~hush/gemlog/2025-08-03.gmi 20 text/gemini
+2025-10-05T14:35:40Z /home/gergo/.ssb/blobs/sha256/b3/fefe4d21cdec2333d2f83532a3071c7320ce826bb6a7e14235e15671711e8b gemini://zaibatsu.circumlunar.space/~solderpunk/gemlog/tablets-acorns-and-clicky-clacky-typing.gmi 20 text/gemini
+2025-10-05T14:35:57Z /home/gergo/.ssb/blobs/sha256/4a/1fa7ec0e5579360076b0209a730a070525265a6a1f0153a95febe940e998bd gemini://zaibatsu.circumlunar.space/~solderpunk/gemlog/micro-album-reviews-01.gmi 20 text/gemini
+2025-10-05T14:36:13Z /home/gergo/.ssb/blobs/sha256/f9/3211c6f6a77d61f6b831927e327591bcb45662a901fa5937c106d085836776 gemini://zaibatsu.circumlunar.space/~solderpunk/gemlog/roophloch-2025-round-up.gmi 20 text/gemini
+2025-10-05T14:36:17Z /home/gergo/.ssb/blobs/sha256/5e/8ddbb0708071e7c4ae9dac29d5f597dc38fefdd0f59ed0eff11a0317a57c5d gemini://zaibatsu.circumlunar.space/~solderpunk/roophloch/2025/ 20 text/gemini
+2025-10-05T14:36:21Z /home/gergo/.ssb/blobs/sha256/4e/1dff7855e4f4985089cf8d0f5f0e023261d8a69af838a72aaa8827702003f8 gemini://crynick.ru/park-bench.gmi 20 text/gemini;lang=en-US
+2025-10-05T14:36:29Z /home/gergo/.ssb/blobs/sha256/cb/ec904e8bf2551f78d1ed98fd7ace30e18f57aeb61ee0a259738b6f133d692e gemini://zaibatsu.circumlunar.space/~solderpunk/gemlog/conphlogence.gmi 20 text/gemini
