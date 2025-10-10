@@ -109,7 +109,7 @@ colorscheme gruvbox
 set background=light
 highlight Comment gui=italic cterm=italic
 highlight StatusLineColor guifg=Black 
-highlight StatusLineColor guibg=#7c6f64
+highlight StatusLineColor guibg=#d5c4a1
 " these are themed like this so that the sed script doing thetheming only has
 " to change one value per line
 highlight NormalColor guifg=White gui=bold cterm=bold
@@ -123,9 +123,9 @@ highlight VisualColor guibg=#b16286
 highlight CommandColor guifg=White gui=bold cterm=bold
 highlight CommandColor guibg=#427b58 
 highlight FileNameColor guifg=Black 
-highlight FileNameColor guibg=#928374
+highlight FileNameColor guibg=#ebdbb2
 highlight LineNumberColor guifg=Black 
-highlight LineNumberColor guibg=#928374
+highlight LineNumberColor guibg=#ebdbb2
 highlight SpellBad guifg=#d79921 
 highlight SpellBad guibg=#9d0006
 highlight SpellCap guifg=#9d0006 

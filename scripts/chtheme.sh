@@ -21,8 +21,8 @@ modifyTheme() {
 #
 		sed -i -f "/home/gergo/dotfiles/.config/colors/filter.sed" ~/dotfiles/.vimrc
 		sed -i -f "/home/gergo/dotfiles/.config/colors/filter.sed" ~/dotfiles/.config/zathura/zathurarc
-		sed -i -f "/home/gergo/dotfiles/.config/colors/filter.sed" ~/dotfiles/.mozilla/firefox/6tekjtvb.default-default/chrome/userChrome.css
 		sed -i -f "/home/gergo/dotfiles/.config/colors/filter.sed" ~/dotfiles/.config/gtk-3.0/settings.ini
+		sed -i -f "/home/gergo/dotfiles/.config/colors/filter.sed" ~/dotfiles/.mozilla/firefox/6tekjtvb.default-default/chrome/includes/cascade-colours.css
 		sed -i -f "/home/gergo/dotfiles/.config/colors/filter.sed" ~/dotfiles/.dillo/style.css
 		sed -i -f "/home/gergo/dotfiles/.config/colors/filter.sed" ~/dotfiles/.Xresources
 		xrdb ~/.Xresources
