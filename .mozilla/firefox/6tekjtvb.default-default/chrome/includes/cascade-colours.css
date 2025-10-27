@@ -9,16 +9,16 @@
 	--uc-identity-colour-turquoise: #689d6a;
 	--uc-identity-colour-green: #98971a;
 	--uc-identity-colour-yellow: #d79921;
-	--uc-identity-colour-orange: #b57614;
+	--uc-identity-colour-orange: #fabd2f;
 	--uc-identity-colour-red: #cc241d;
 	--uc-identity-colour-pink: #b16286;
-	--uc-identity-colour-purple: #8f3f71;
+	--uc-identity-colour-purple: #d3869b;
 
 	/*  Cascades main Colour Scheme */
-	--uc-base-colour: #fbf1c7;
-	--uc-highlight-colour: #d5c4a1;
-	--uc-inverted-colour: #3c3836;
-	--uc-muted-colour: #7c6f64;
+	--uc-base-colour: #282828;
+	--uc-highlight-colour: #1d2021;
+	--uc-inverted-colour: #ebdbb2;
+	--uc-muted-colour: #a89984;
 	--uc-accent-colour: var(--uc-identity-colour-purple);
 }
 

@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =5
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/gergo/projekt/mutargy/stylesheets'
 let g:netrw_dirhist_5='/home/gergo/dotfiles/.config/colors/themes'
 let g:netrw_dirhist_4='/home/gergo/homepage/colors'
 let g:netrw_dirhist_3='/home/gergo/dotfiles'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_0='/home/gergo/sitesToRead'
 let g:netrw_dirhist_9='/home/gergo/projekt/mutargy/wip'
 let g:netrw_dirhist_8='/home/gergo/projekt/mutargy'
 let g:netrw_dirhist_7='/home/gergo/projekt/mutargy/templates'
-let g:netrw_dirhist_6='/home/gergo/projekt/mutargy/stylesheets'

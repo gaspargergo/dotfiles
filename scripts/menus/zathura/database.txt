@@ -43,6 +43,7 @@
 /home/gergo/projekt/groff/document.pdf
 /home/gergo/projekt/groff/notes/MIKTI_Jegyzetelési útmutató.pdf
 /home/gergo/projekt/groff/notes/MIKTI szemináriumi dolgozatok követelményei.pdf
+/home/gergo/projekt/exlibris/tervek.pdf
 /home/gergo/projekt/népművészet/borsod_megye/a8.pdf
 /home/gergo/projekt/népművészet/borsod_megye/b4.pdf
 /home/gergo/projekt/népművészet/borsod_megye/b2.pdf
@@ -84,6 +85,8 @@
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.7.pdf
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.9.pdf
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.8.pdf
+/home/gergo/sitesToRead/DisasterPreparednessTokyo.pdf
+/home/gergo/sitesToRead/40ways.online.2020.pdf
 /home/gergo/Documents/Mensa_Oklevél2.pdf
 /home/gergo/Documents/norpet.pdf
 /home/gergo/Documents/diplomamásolat.pdf
@@ -189,13 +192,12 @@
 /home/gergo/Downloads/k_magyir_24maj_fl.pdf
 /home/gergo/Downloads/k_angol_25maj_fl.pdf
 /home/gergo/Downloads/_Digitalko.hu_Megrendeles_60782944.pdf
-/home/gergo/Downloads/DisasterPreparednessTokyo.pdf
+/home/gergo/Downloads/8477631573_7493155981.pdf
 /home/gergo/Downloads/2453_ertesites_8477631573_4450400227.pdf
 /home/gergo/Downloads/24SZJA tervezet elérhetősége_a.pdf
 /home/gergo/Downloads/dokumentum.pdf
 /home/gergo/Downloads/11.-varro-daniel-szivdesszert.pdf
 /home/gergo/Downloads/HIVE_SelfCare.pdf
-/home/gergo/Downloads/40ways.online.2020.pdf
 /home/gergo/Downloads/dokumentum-2.pdf
 /home/gergo/Downloads/DIP1_2025-005929.pdf
 /home/gergo/Downloads/ODP_altalanos_felhasznalasi_feltetelek.pdf
@@ -569,6 +571,7 @@
 /home/gergo/angoll/Tomi/emelt_angol/e_angol_08okt_ut.pdf
 /home/gergo/angoll/Tomi/stilisztika/társalgási_stílus.pdf
 /home/gergo/angoll/Tomi/stilisztika/ird_stílus.pdf
+/home/gergo/angoll/Tomi/bence_korsitlusok.pdf
 /home/gergo/angoll/Tomi/k_angol_07maj_fl.pdf
 /home/gergo/angoll/Tomi/angol_nyelv_kozep_szobeli_egyeni_ertekelo_lap_2024maj.pdf
 /home/gergo/angoll/Tomi/iras_ertekeles.pdf
@@ -672,6 +675,14 @@
 /home/gergo/angoll/Sebi/szintfelmérő.pdf
 /home/gergo/angoll/Sebi/prepositions_revision.pdf
 /home/gergo/angoll/elmenykozpontu_ird_tanitas.pdf
+/home/gergo/booksToRead/anarchism/strangers-in-a-tangled-wilderness-life-without-law.epub
+/home/gergo/booksToRead/anarchism/murray-bookchin-post-scarcity-anarchism-book.epub
+/home/gergo/booksToRead/anarchism/anonymous-at-daggers-drawn-with-the-existent-its-defenders-and-its-false-critics.epub
+/home/gergo/booksToRead/anarchism/peter-gelderloos-anarchy-works.epub
+/home/gergo/booksToRead/anarchism/cindy-milstein-anarchism-and-its-aspirations.epub
+/home/gergo/booksToRead/anarchism/rebel-city-london-for-a-future-made-by-us-all.epub
+/home/gergo/booksToRead/anarchism/anarchy101-org-anarchy-101.epub
+/home/gergo/booksToRead/anarchism/emma-goldman-anarchism-and-other-essays.epub
 /home/gergo/booksToRead/pszicho/Charles Duhigg - The Power of Habit_ Why We Do What We Do in Life and Business-Random House (2012).epub
 /home/gergo/booksToRead/pszicho/Elaine N. Aron Ph.D. - The Highly Sensitive Person-Broadway Books (1997).epub
 /home/gergo/booksToRead/pszicho/Jonathan Haidt - The Anxious Generation_ How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness-Penguin Publishing Group (2024).epub
@@ -680,6 +691,7 @@
 /home/gergo/booksToRead/pszicho/Jonathan Haidt - The Happiness Hypothesis_ Finding Modern Truth in Ancient Wisdom-Basic Books (2006).epub
 /home/gergo/booksToRead/pszicho/Seth J. Gillihan - Cognitive Behavioral Therapy Made Simple_ 10 Strategies for Managing Anxiety, Depression, Anger, Panic, and Worry-Althea Press (2018).epub
 /home/gergo/booksToRead/pszicho/Webb, Caroline - How to Have a Good Day_ Harness the Power of Behavioral Science to Transform Your Working Life-The Crown Publishing Group_Penguin Random House Audio Publishing Group (2016).epub
+/home/gergo/booksToRead/pszicho/John Perry - The Art of Procrastination_ A Guide to Effective Dawdling, Lollygagging and Postponing (2012, Workman Publishing) - libgen.li.epub
 /home/gergo/booksToRead/pszicho/the-jane-addams-collective-mutual-aid-self-social-therapy.epub
 /home/gergo/booksToRead/pszicho/Cal Newport - Deep Work_ Rules for focused success in a distracted world-Grand Central (2016).epub
 /home/gergo/booksToRead/szex/Laurie B. Mintz - Becoming Cliterate_ Why Orgasm Equality Matters—And How to Get It-HarperOne (2017).epub
@@ -718,7 +730,6 @@
 /home/gergo/booksToRead/ecology/Wallace-Wells, David - The uninhabitable earth_ life after warming-Penguin Random House LLC_Cela (2020_2019).epub
 /home/gergo/booksToRead/ecology/Elizabeth Kolbert - The Sixth Extinction An Unnatural History-Picador_Henry Holt and Co..epub
 /home/gergo/booksToRead/ecology/Julia Watson_ Wade Davis - Lo-TEK _ Design by Radical Indigenism-Taschen.pdf
-/home/gergo/booksToRead/ecology/rebel-city-london-for-a-future-made-by-us-all.epub
 /home/gergo/booksToRead/ecology/Robin Wall Kimmerer - Braiding Sweetgrass_ Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants-Milkweed Editions.epub
 /home/gergo/booksToRead/ecology/Jenny Odell - How to Do Nothing_ Resisting the Attention Economy (2019, Melville House) - libgen.lc.epub
 /home/gergo/booksToRead/ecology/Greta Thunberg - The Climate Book _ The Facts and the Solutions-Penguin Publishing Group (2023).epub

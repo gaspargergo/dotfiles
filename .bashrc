@@ -28,6 +28,7 @@ alias yt-dlp="yt-dlp --embed-subs --force-ipv4 --restrict-filenames -f '((bv*[fp
 alias redshift="redshift -o"
 alias lsvlength='for f in *; do ffmpeg -i "$f" 2>&1 | grep Duration | cut -d " " -f 4 | sed s/,//  | tr -d "\n" && echo " $f"; done' #gets length of all videos in current directory
 alias dict="sdcv -c"
+alias clock='xclock -d -brief -face "Comic Code-18"'
 
 update_prompt() {
 battery=$(acpi)
