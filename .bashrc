@@ -29,6 +29,7 @@ alias redshift="redshift -o"
 alias lsvlength='for f in *; do ffmpeg -i "$f" 2>&1 | grep Duration | cut -d " " -f 4 | sed s/,//  | tr -d "\n" && echo " $f"; done' #gets length of all videos in current directory
 alias dict="sdcv -c"
 alias clock='xclock -d -brief -face "Comic Code-18"'
+alias record="ffmpeg -video_size 1920x1080 -framerate 25 -f x11grab -i :0.0 -f alsa -ac 2 -i hw:1 output.mkv"
 
 update_prompt() {
 battery=$(acpi)

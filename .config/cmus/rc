@@ -1,2 +1,2 @@
-set output_plugin=pulse
+set output_plugin=alsa
 set mpris=false

@@ -44,6 +44,7 @@
 /home/gergo/projekt/groff/notes/MIKTI_Jegyzetelési útmutató.pdf
 /home/gergo/projekt/groff/notes/MIKTI szemináriumi dolgozatok követelményei.pdf
 /home/gergo/projekt/exlibris/tervek.pdf
+/home/gergo/projekt/mutargy/wip/matrica.pdf
 /home/gergo/projekt/népművészet/borsod_megye/a8.pdf
 /home/gergo/projekt/népművészet/borsod_megye/b4.pdf
 /home/gergo/projekt/népművészet/borsod_megye/b2.pdf
@@ -79,12 +80,24 @@
 /home/gergo/projekt/jella/jella.pdf
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.2.pdf
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.5.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.20-print.pdf
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.4.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.1.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.10.pdf
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.6.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.18.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.11.pdf
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.3.pdf
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.7.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.17.pdf
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.9.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.21.pdf
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.8.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.16.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.19.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.13.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.14.pdf
+/home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.12.pdf
 /home/gergo/sitesToRead/DisasterPreparednessTokyo.pdf
 /home/gergo/sitesToRead/40ways.online.2020.pdf
 /home/gergo/Documents/Mensa_Oklevél2.pdf
@@ -205,6 +218,7 @@
 /home/gergo/Downloads/8477631573_6066602169.pdf
 /home/gergo/Downloads/dokumentum-1.pdf
 /home/gergo/Downloads/garancia_SONY_2025-3-21.pdf
+/home/gergo/Downloads/14_irodalom_feladatlap_1.pdf
 /home/gergo/fontbase/Junicode/docs/JunicodeManual.pdf
 /home/gergo/fontbase/EBGaramond/specimen/Specimen.pdf
 /home/gergo/.fonts/Comic_Code/TTF_ILT_EULA.pdf
@@ -742,6 +756,8 @@
 /home/gergo/booksToRead/tipo/Eric Gill - An Essay on Typography (1993).epub
 /home/gergo/booksToRead/tipo/Strizver, Ilene - Type Rules_ The Designer's Guide to Professional Typography, 4th Edition-John Wiley and Sons.epub
 /home/gergo/booksToRead/tipo/Karin Wagner - From ASCII Art To Comic Sans_ Typography And Popular Culture In The Digital Age-The MIT Press.pdf
+/home/gergo/booksToRead/bible/eng-web_a4.pdf
+/home/gergo/booksToRead/bible/eng-web.epub
 /home/gergo/MA/sem3/Kertész/Jegyzőkönyv.epub
 /home/gergo/MA/sem3/Kertész/kertesz_naplobejegyzesek_valogatas.pdf
 /home/gergo/MA/sem3/Kertész/2021-2022_1_tematika_KERTESZ.pdf

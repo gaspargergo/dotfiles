@@ -10,11 +10,13 @@ https://solar.lowtechmagazine.com/feeds/all-en.atom.xml people
 https://feeds.feedburner.com/notechmagazine people
 https://simonwillison.net/atom/entries/ people
 https://82mhz.net/index.xml
+https://nickyflowers.com/feed.xml
 https://www.adamsdesk.com/feed/blog.xml
 https://ianthehenry.com/feed.xml
 https://hyperpaper.me/blog/feed
 https://megymagy.hu/feed.xml
 https://herman.bearblog.dev/feed
+https://kobold.blog/feed
 "exec:gemget gemini://zaibatsu.circumlunar.space/~solderpunk/gemlog/atom.xml --output -" "~Solderpunk"
 "exec:gemget gemini://thatit.be/atom.xml --output -" "~thatitbe"
 "exec:gemget gemini://tilde.town/~hush/gemlog/index.xml --output -" "~Hush"
@@ -28,6 +30,10 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCH0pqJ6QWX_YkKKL_8zaS_g you
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsvn_Po0SmunchJYOWpOxMg youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCTjmLCEVb9r1OpFDJMMWyIw youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UC477Kvszl9JivqOxN1dFgPQ youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRix1GJvSBNDpEFY561eSzw youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUdLi2cP_gVYBa4OURrQCbA youtube
+https://www.youtube.com/feeds/videos.xml?playlist_id=UULF2PA-AKmVpU6NKCGtZq_rKQ youtube "~Philosophy Tube"
+https://www.youtube.com/feeds/videos.xml?playlist_id=UULF7UukP_hxrOsrwHrcHxOxxg youtube "~Kay Lack"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCY2mhw-XNZSxrUynsI5K8Zw youtube
 https://www.youtube.com/feeds/videos.xml?playlist_id=UULF5mPJA4y5G8Z6aNkY6AxgAw youtube "~Van Neistat"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCtinbF-Q-fVthA0qrFQTgXQ youtube
