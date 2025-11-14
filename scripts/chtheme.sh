@@ -26,8 +26,8 @@ modifyTheme() {
 		sed -i -f "/home/gergo/dotfiles/.config/colors/filter.sed" ~/dotfiles/.dillo/style.css
 		sed -i -f "/home/gergo/dotfiles/.config/colors/filter.sed" ~/dotfiles/.Xresources
 		xrdb ~/.Xresources
-		sed -i -f "/home/gergo/dotfiles/.config/colors/filter.sed" ~/dotfiles/.config/colors/herbstluftwm.sh
-		/home/gergo/dotfiles/.config/colors/herbstluftwm.sh
+		sed -i -f "/home/gergo/dotfiles/.config/colors/filter.sed" ~/dotfiles/.config/colors/bspwm.sh
+		/home/gergo/dotfiles/.config/colors/bspwm.sh
 
 		echo "$1 theme set!"
 		rm /home/gergo/dotfiles/.config/colors/filter.sed

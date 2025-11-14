@@ -1,0 +1,117 @@
+#
+# program keybinds
+#
+
+# terminal emulator
+super + Return
+	uxterm +pc
+
+# program launcher
+super + @space
+	/home/gergo/scripts/menus/drun.sh
+
+# screenshot
+super + s
+	/home/gergo/scripts/screenshot.sh
+
+# zathura open menu
+super + o
+	/home/gergo/scripts/menus/zathura/zathura_open.sh
+
+# make sxhkd reload its configuration files:
+super + Escape
+	pkill -USR1 -x sxhkd
+
+#
+# information popups
+#
+super + b
+	/home/gergo/scripts/status_message.sh
+
+#
+# sound
+#
+super + u
+  amixer set Master 5%+
+
+super + d
+  amixer set Master 5%-
+
+super + 0
+  amixer set Master toggle
+
+#
+# bspwm controls
+#
+
+# quit/restart bspwm
+super + shift + {q,r}
+	bspc {quit,wm -r}
+
+# close and kill
+super + {_,shift + }w
+	bspc node -{c,k}
+
+# alternate between the tiled and monocle layout
+super + m
+	bspc desktop -l next
+
+# send the newest marked node to the newest preselected node
+super + y
+	bspc node newest.marked.local -n newest.!automatic.local
+
+#
+# state/flags
+#
+
+# set the window state
+super + {t,shift + t,f}
+	bspc node -t {tiled,pseudo_tiled,floating}
+
+# hide windows
+super + z
+	bspc node -g hidden=on
+
+# unhide hidden windows
+super + shift + z
+	bspc node any.hidden -g hidden=off
+
+
+#
+# focus/swap/preselect
+#
+
+# focus the node in the given direction
+super + {_,shift + }{h,j,k,l}
+	bspc node -{f,s} {west,south,north,east}
+
+# focus the next/previous desktop in the current monitor
+super + {comma,period}
+	bspc desktop -f {prev,next}.local
+
+# send to the given desktop based on direction
+super + shift + {comma,period}
+	bspc node -d {prev,next}
+
+# preselect the direction
+super + ctrl + {h,j,k,l}
+	bspc node -p {west,south,north,east}
+
+#
+# move/resize
+#
+
+# resize windows
+super + alt + {h,j,k,l}
+    {bspc node @parent/second -z left -20 0; \
+    bspc node @parent/first -z right -20 0, \
+    bspc node @parent/second -z top 0 +20; \
+    bspc node @parent/first -z bottom 0 +20, \
+    bspc node @parent/first -z bottom 0 -20; \
+    bspc node @parent/second -z top 0 -20, \
+    bspc node @parent/first -z right +20 0; \
+    bspc node @parent/second -z left +20 0}
+
+# move a floating window
+super + {Left,Down,Up,Right}
+	bspc node -v {-20 0,0 20,0 -20,20 0}
