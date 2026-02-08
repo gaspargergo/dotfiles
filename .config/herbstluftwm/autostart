@@ -26,12 +26,12 @@ hc keybind $Mod-w close_or_remove
 hc keybind $Mod-Return spawn uxterm +pc 
 hc keybind $Mod-s spawn ~/scripts/screenshot.sh 
 hc keybind $Mod-o spawn ~/scripts/menus/zathura/zathura_open.sh
+hc keybind $Mod-b spawn ~/scripts/status_message.sh
 
 # sound
-hc keybind $Mod-u spawn sh -c "pactl set-sink-mute 0 false ; pactl set-sink-volume 0 +5%" 
-hc keybind $Mod-d spawn sh -c "pactl set-sink-mute 0 false ; pactl set-sink-volume 0 -5%"
-hc keybind $Mod-0 spawn pactl set-sink-mute 0 toggle
-hc keybind $Mod-Alt-0 spawn pactl set-source-mute 1 toggle
+hc keybind $Mod-u spawn amixer set Master 5%+
+hc keybind $Mod-d spawn amixer set Master 5%-
+hc keybind $Mod-0 spawn amixer set Master toggle
 
 # menus
 hc keybind $Mod-space spawn ~/scripts/menus/drun.sh
@@ -80,8 +80,7 @@ hc keybind $Mod-period use_index +1 --skip-visible
 hc keybind $Mod-comma  use_index -1 --skip-visible
 
 # layouting
-hc keybind $Mod-f set_attr clients.focus.floating toggle
-hc keybind $Mod-Shift-f floating toggle
+hc keybind $Mod-f floating toggle
 hc keybind $Mod-m fullscreen toggle
 hc keybind $Mod-z set_attr clients.focus.minimized toggle
 hc keybind $Mod-t pseudotile toggle
@@ -117,9 +116,6 @@ hc attr theme.tiling.reset 1
 hc attr theme.floating.reset 1
 
 ## frame
-hc set smart_frame_surroundings on
-hc set frame_border_active_color '#68956a'
-hc set frame_border_normal_color '#101010'
 hc set frame_border_width 0
 hc set frame_bg_transparent on
 hc set frame_transparent_width 0
@@ -133,8 +129,8 @@ hc attr theme.title_when never
 hc set window_gap 0
 hc attr theme.inner_width 0
 hc attr theme.outer_width 0
-hc attr theme.border_width 3
-hc attr theme.padding_top 3
+hc attr theme.border_width 4
+hc attr theme.padding_top 0
 hc attr theme.padding_bottom 0
 hc attr theme.urgent.color '#7811A1'
 # theme.active.color and theme.normal.color are not set here, only at the end by the theme script
@@ -147,11 +143,15 @@ hc rule windowtype~'_NET_WM_WINDOW_TYPE_(DIALOG|UTILITY|SPLASH)' floating=on
 hc rule windowtype='_NET_WM_WINDOW_TYPE_DIALOG' focus=on
 hc rule windowtype~'_NET_WM_WINDOW_TYPE_(NOTIFICATION|DOCK|DESKTOP)' manage=off
 hc rule fixedsize floating=on
+hc rule fixedsize floatplacement=center
 hc rule class='feh' floating=on
 	#Rules for floating xterm
 hc rule class='fzfmenu' floating=on
 hc rule class='fzfmenu' floating_geometry=800x500
 hc rule class='fzfmenu' floatplacement=center
+
+hc rule title='xmessage' floating=on
+hc rule title='xmessage' floatplacement=center
 
 hc set tree_style '╾│ ├└╼─┐'
 
@@ -159,7 +159,12 @@ hc set tree_style '╾│ ├└╼─┐'
 hc unlock
 
 hc detect_monitors
-hc pad 0 10 10 10 10
+hc pad 0 5 5 5 5
+
+#default theme
+herbstclient attr theme.active.color '#d79921'
+herbstclient attr theme.normal.color '#a89984'
+feh --bg-fill ~/Pictures/wallp/néni.jpg
 
 #check if the theme set is time-appropriate; if not, change it
 /home/gergo/scripts/check_time.sh
