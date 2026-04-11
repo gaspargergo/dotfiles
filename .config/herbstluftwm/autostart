@@ -60,6 +60,8 @@ hc keybind $Mod-Control-l	chain , split right 0.5 , focus right
 # let the current frame explode into subframes
 hc keybind $Mod-Control-space split explode
 hc keybind $Mod-Control-w remove
+# mirror frames horizontally
+hc keybind $Mod-Control-c mirror
 
 # resizing frames and floating clients
 resizestep=0.02
