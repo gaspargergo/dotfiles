@@ -2,7 +2,7 @@
 
 hour=$(date "+%-H")
 theme=$(cat ~/.config/theme)
-late_hour=16
+late_hour=19
 early_hour=6
 
 if [[ $hour -lt $late_hour && $hour -ge $early_hour && $theme = "dark" ]]
@@ -11,6 +11,7 @@ then
 elif [[ ( $hour -ge $late_hour && $theme = "light" ) || ( $hour -lt $early_hour && $theme = "light" ) ]]
 then
 	~/scripts/chtheme.sh "dark"
+	redshift
 else
 	~/scripts/chtheme.sh $theme
 fi
