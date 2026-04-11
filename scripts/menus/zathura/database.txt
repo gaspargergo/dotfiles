@@ -32,6 +32,501 @@
 /home/gergo/projekt/Paddington/nyomtatni/brossúra.pdf
 /home/gergo/projekt/kódex/Chronica_Picta.pdf
 /home/gergo/projekt/kódex/rath_herbarium.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Sticker Sheets/Webcam spy blocker-Opensuse edition-Stickers Sheet.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Sticker Sheets/Webcam spy blocker-Arch Linux edition-Stickers Sheet.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Sticker Sheets/Webcam spy blocker-Non-branded-Stickers Sheet.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Sticker Sheets/Webcam spy blocker-Debian edition-Stickers Sheet.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Sticker Sheets/Webcam spy blocker-Linux-Tux edition-Stickers Sheet .pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Sticker Sheets/Webcam spy blocker-Anonymous edition-Stickers Sheet.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Css3.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Sass.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Fedora logo blue.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Copyleft.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/KDE.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Haskell purple.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Opensuse logo.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Bitcoin_hexagon.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Git.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Emacs.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Android.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Latex.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/GNU.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Arch.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Html5.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Django DJ.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Ruby.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Django.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Angular.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/OpenSource white circle.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Golang.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Bash.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/C.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Bower.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Vim.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/TUX.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/C#.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Mint.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Xubuntu logo.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Python.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Rails.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Less.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/C ++.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/JS.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Debian only logo.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Babel.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Jquery.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Gnome.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/PHP.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Hexagon Stickers/Gnome_new_hexagon.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/linux inside.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/git logo.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/bitcoin logotype.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/Bash logotype new.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/archlinux logo.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/php.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/android.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/bash.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/tux white.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/Python logo&type.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/gnu white.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/anonimous.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/star wars sheet.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/angular js.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/android2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/vim type2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/go.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/bitcoin logo.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/HTML 5.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/debian type.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/Python logo.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/tux.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/gnu.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/haksell.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/Bash new.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/git logo&type.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/the pirate bay 2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/JS.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers/ubuntu circle of friends.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_Open Hardware.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_Ubuntu mate.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_debian.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_Mageia.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_debian.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_GNU.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_XFCE.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_KDE.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_tux full_new.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_Mageia.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_tux.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_Ubuntu mate.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_arch.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_FedoraLogoB&W nobg.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_XFCE.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_tux full.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_Ubuntu white and orange.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_xubuntu.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_GNU.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_Open Hardware.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_tux.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_mint.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_elementary.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_gnome.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_xubuntu.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_gnome.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_bitcoin.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_Ubuntu white and black.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_linux inside.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_tux full.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_Opensuse.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_Ubuntu orange.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_linux inside.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_tux_new.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_FedoraLogoB&W nobg.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_Ubuntu white and orange.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_Ubuntu orange.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_Ubuntu white and black.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_bitcoin.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_tux full_new.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_KDE.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_mint.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_tux_new.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/rect_elementary.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_arch.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Keyboard Stickers/circle_Opensuse.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Anonymous.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/lubuntu.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/ubuntu orange.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Diaspora.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/FreeBSD.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Copyleft.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Linux Mint.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/elementary OS white.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/KDE.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Rust.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/CoffeeScript.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/ubuntu black.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/elementary OS blue2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/xubuntu.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/OpenOffice.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Kali Linux.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Debian.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Emacs.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Android.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Antergos.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Arch Linux.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Fedora.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/GNU.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Chakra.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Glider-Hack Emblem.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/jQuery.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/UbuntuMATE.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Linux Inside.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Ruby.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Tor.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Sabayon.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Backbox.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Puppy Linux.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Flask.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/GIT.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/CSS3.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Bash.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/NetBSD.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/The Pirate Bay.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/C.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/mongodb.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Gimp.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/LaTex.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Trollface.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/VLC.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Linux TUX.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Elementary.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Clementine.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Ruby on Rails 2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/React JS.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Gentoo.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/PostgreSQL.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Json.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Manjaro.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Hack The Planet.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/GIT 2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Linux TUX Variant.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Tails.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Bitcoin.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/HTML5.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Javascript.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Haskell.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/JS Hipster.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Python.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Open Hardware new badge.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/redis.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Go.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/nginx.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Fedora Black.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/cURL.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Haskell 2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Audacity.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/VIM.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Guy Fawkes.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/elementary OS white2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Neovim.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/elementary OS blue.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Drupal.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Ruby on Rails 1.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/JSfiddle.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Open Hardware.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/GhostBSD.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Vagrant.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/django.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Gnome.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Bodhi Linux.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Slackware.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Blender.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/PHP.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Mageia.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/OpenSUSE.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/Hoa.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Badge Stickers/XFCE.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/fishes.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/no game no life.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/bottle.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/tv.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/sailor moon cat.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/eating monster.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/pacman2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/jumper apple.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/ananas.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/crazy 88.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/ultimate tux gamer.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Orange.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/pulp fiction head3.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/bigHair.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/H.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/the giving tree illustration_Shel Silverstein.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/SkylineRome.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/electrocardiogram.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/chiquita.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/tris.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/lego head.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Bathman.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/superman.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Peach.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/BanksyCaveman.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/belly mock.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/VegetaHead.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/django dentist.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/rain.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/chemistry.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/goldenRatio.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/A.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/businessMan.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/breakingBad.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/theLionKing.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/micheyMouse.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/polaroid.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/big panda face.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/stormtrooper3.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Guy.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/love.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/mignon.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/pulp fiction head2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/JimiHendrix.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/SpaceShuttle.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/sunGlasses.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/BreakingBad2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/birds.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/DJrobot.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/stormtrooper.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/poopy.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/monster2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/W.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Stay Puft Marshmallow Man.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Einstein face.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/F.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Pear.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Newton 2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/ET.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/lordOfTheRing2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Newton.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/wildMonsters.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/no face spirited away.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Play.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/bored cat.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/kill the music.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/pixels.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/I rock.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/LordHead with mustache2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Django.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/NYskyline bridge.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Apple.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/star wars sheet.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/pokeball.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Arielhead.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/furious panda.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/K.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Uncle sam.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Atomo.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/dancing groot.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/BanksyMilitary.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/donut.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/IndianaLove.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Strawberry.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/android vs apple.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/LordHead with mustache3.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/PandaHead.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/CoolMan.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/pikachu.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/dharma.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/pacman big.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/hateful eight.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Hand love.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/LordHead with mustache.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Van.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Einstein ice-cream.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/I love Mac.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/cat lovers.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/BreakingBad1.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/tie fighter star wars.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/apple juice.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/BanksyMonkey.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/deer head.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/air ambulance.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/BanksyPainterMouse.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Rasberry.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/elephant type.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/nightmareBeforeChristmas1.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/anonimous mark.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/heavy apple.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/android wave.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/think big.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/sausuki.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/baseballCap.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/playing cat.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/KeithHaringDJ.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/forrestGump.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/stormtrooper2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/harry potter big face.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Plectrum.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/G.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/penguins.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/little monster.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/BanksyCow.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/android in love.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/SkylineLondon Graphic.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/police box.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/hi panda.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/sailor moon.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/big mouth.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/better call saul.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/deathly hallows.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/helmet head.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/pulp fiction couple.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/gualtierino.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/GirlHead.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/3.14.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/eye.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Avatar Aang Airbender.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Pgreco.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/patrick stella.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Whale.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/BanksyBomb.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Sir.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/panda.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/petit prince.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/KeithHaringDance.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/BanksyChild copy.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Alien.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/groot2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/pig.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/moon.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/robot.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/charlieChaplin.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/miyazaki.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/binary code.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/M.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Man.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/mountains.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/star.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/StarWarsHead.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Submarine.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/NYskyline.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Darth Vader1.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Avatar Kyoshi.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/adventureTime.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/bulb.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Darth Vader2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/pacman.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Grape.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Gun.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/monster.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/an apple a day keeps the doctor away.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/P.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/fisherapple.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/groot.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/couple.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/donQuichotte.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/lightHouse.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Dart.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/kill the apple.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/air balloon.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/BanksyKeepYourCoins.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/allStar.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/SkylineSanFrancisco.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/lordOfTheRing1.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/picture.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/chef.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/BluesBrothers.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/maggot.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/BigHero.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/dog.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/square root.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/library.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/math.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/pulp fiction head1.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/android fixed it.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Einstein.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/bigMac.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/BB 8.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/mr potato.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/OnePiece.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/totoro.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/bender.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/BanksyMolotov.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/BreakingBad3.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/anglerfish.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/punkHead.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/hungry simon's cat.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/BanksyKissingPoliceman copy.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Creation.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/Ghostbusters.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/piano.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/elephant.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/stregatto.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/budda.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Transfer Stickers for Mac/space invaders.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/linux inside.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/annoyed.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/tux bn 1.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/fuck yeah.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/anonymous.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/redis 2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/linux type.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/tux bn 2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/xubuntu.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/kde.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/surprised gasp.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/jenkins.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/tpb ship white.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/guy fawkes 2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/ruby 2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/golang.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/ruby.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/opensuse copy.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/xfce.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/ruby 3.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/git.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/laughing.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/php.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/android.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/bitcoin_button.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/bash.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/me gusta.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/python.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/mint.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/little tux.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/php elephant.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/angry no.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/tpb skull white.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/guy fawkes.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/tpb skull black.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/yao ming.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/JS full.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/tux.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/gnu.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/copyleft.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/TPB Ship black.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/redis.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/nginx.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/git classic.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/XFCE 2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/html5.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/gnome.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/css3.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/hacktheplanet.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/trollface.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/Arch linux.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/debian.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/gnu wob.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/django.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/python 2.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/js.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/redis 3.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/chakra.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/opensuse w-type.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/tor.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/haskell.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/emacs.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/pedobear.pdf
+/home/gergo/projekt/sticker/foss-swag-designs/Buttons/vim.pdf
 /home/gergo/projekt/sticker/matricák.pdf
 /home/gergo/projekt/Courses/PDF/monograms_and_businesscards.pdf
 /home/gergo/projekt/Courses/PDF/Candle_typhography.pdf
@@ -39,44 +534,38 @@
 /home/gergo/projekt/Courses/PDF/Gotham.pdf
 /home/gergo/projekt/Courses/PDF/Candle_cannotative.pdf
 /home/gergo/projekt/Courses/poster.pdf
+/home/gergo/projekt/aperiodic_monotile.pdf
 /home/gergo/projekt/Karikarikari/próba.pdf
 /home/gergo/projekt/groff/document.pdf
 /home/gergo/projekt/groff/notes/MIKTI_Jegyzetelési útmutató.pdf
 /home/gergo/projekt/groff/notes/MIKTI szemináriumi dolgozatok követelményei.pdf
 /home/gergo/projekt/exlibris/tervek.pdf
 /home/gergo/projekt/mutargy/wip/matrica.pdf
-/home/gergo/projekt/népművészet/borsod_megye/a8.pdf
-/home/gergo/projekt/népművészet/borsod_megye/b4.pdf
-/home/gergo/projekt/népművészet/borsod_megye/b2.pdf
-/home/gergo/projekt/népművészet/borsod_megye/9.pdf
-/home/gergo/projekt/népművészet/borsod_megye/a7.pdf
-/home/gergo/projekt/népművészet/borsod_megye/b7.pdf
-/home/gergo/projekt/népművészet/borsod_megye/4.pdf
-/home/gergo/projekt/népművészet/borsod_megye/5.pdf
-/home/gergo/projekt/népművészet/borsod_megye/b8.pdf
-/home/gergo/projekt/népművészet/borsod_megye/8.pdf
-/home/gergo/projekt/népművészet/borsod_megye/a1.pdf
-/home/gergo/projekt/népművészet/borsod_megye/6.pdf
-/home/gergo/projekt/népművészet/borsod_megye/1.pdf
-/home/gergo/projekt/népművészet/borsod_megye/b6.pdf
-/home/gergo/projekt/népművészet/borsod_megye/7.pdf
-/home/gergo/projekt/népművészet/borsod_megye/a9.pdf
-/home/gergo/projekt/népművészet/borsod_megye/a6.pdf
-/home/gergo/projekt/népművészet/borsod_megye/b3.pdf
-/home/gergo/projekt/népművészet/borsod_megye/c3.pdf
-/home/gergo/projekt/népművészet/borsod_megye/a2.pdf
-/home/gergo/projekt/népművészet/borsod_megye/b1.pdf
-/home/gergo/projekt/népművészet/borsod_megye/c1.pdf
-/home/gergo/projekt/népművészet/borsod_megye/a3.pdf
-/home/gergo/projekt/népművészet/borsod_megye/b5.pdf
-/home/gergo/projekt/népművészet/borsod_megye/a5.pdf
-/home/gergo/projekt/népművészet/borsod_megye/b9.pdf
-/home/gergo/projekt/népművészet/borsod_megye/2.pdf
-/home/gergo/projekt/népművészet/borsod_megye/c2.pdf
-/home/gergo/projekt/népművészet/borsod_megye/a4.pdf
-/home/gergo/projekt/népművészet/borsod_megye/3.pdf
-/home/gergo/projekt/népművészet/borsod_megye/merged.pdf
-/home/gergo/projekt/népművészet/merged.pdf
+/home/gergo/projekt/mutargy/wip/test.pdf
+/home/gergo/projekt/népművészet/qtp.hu/DMCAlpha2.pdf
+/home/gergo/projekt/népművészet/qtp.hu/DMCAlpha3.pdf
+/home/gergo/projekt/népművészet/qtp.hu/DMCAlpha4.pdf
+/home/gergo/projekt/népművészet/qtp.hu/DMCAlpha1.pdf
+/home/gergo/projekt/népművészet/ősmagyar/Vállkő.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_08.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_10.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_12.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_16.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_11.pdf
+/home/gergo/projekt/népművészet/kiadványok/B785_K11223_Haziipar_Hunyadmegye.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_04.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_02.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_03.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_07.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_06.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_14.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_15.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_17.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_13.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_05.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_01.pdf
+/home/gergo/projekt/népművészet/kiadványok/Magyar_nepmuveszet_09.pdf
+/home/gergo/projekt/népművészet/kiadványok/B785_K11224_Nepviselet_Hunyadmegye.pdf
 /home/gergo/projekt/jella/jella.pdf
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.2.pdf
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.5.pdf
@@ -99,10 +588,11 @@
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.14.pdf
 /home/gergo/sitesToRead/ctrl-c.club/~loghead/zine/Ctrl-ZINE.Issue.12.pdf
 /home/gergo/sitesToRead/DisasterPreparednessTokyo.pdf
-/home/gergo/sitesToRead/40ways.online.2020.pdf
+/home/gergo/Documents/NYC/UTASBIZTOSITAS_KOTVENY_WT000698308.pdf
 /home/gergo/Documents/Mensa_Oklevél2.pdf
 /home/gergo/Documents/norpet.pdf
 /home/gergo/Documents/diplomamásolat.pdf
+/home/gergo/Documents/Singer Manual 15k, 66k, 201k, 99k, 185k, 327k, 328k, 329k & 404k.pdf
 /home/gergo/Documents/kolumban_sandor_-_a_magyar_szavak_valos_osi_eredete_1-2_kotet.pdf
 /home/gergo/Documents/munkás/kezelési_nyilatkozat.pdf
 /home/gergo/Documents/munkás/motiv_virag.pdf
@@ -116,6 +606,7 @@
 /home/gergo/Documents/munkás/erkölcsi_nyilatkozat.pdf
 /home/gergo/Documents/munkás/old.Önéletrajz_GG.pdf
 /home/gergo/Documents/munkás/CV_GG.pdf
+/home/gergo/Documents/munkás/Cognex_coverletter.pdf
 /home/gergo/Documents/munkás/motiv_level_GG.pdf
 /home/gergo/Documents/munkás/Önéletrajz_GG.pdf
 /home/gergo/Documents/munkás/motiv_kozl_GG.pdf
@@ -134,8 +625,10 @@
 /home/gergo/Documents/donsol.pdf
 /home/gergo/Documents/Making Pictures with GNU PIC, Eric S. Raymond.pdf
 /home/gergo/Documents/Resources for Alumni of WWH.pdf
+/home/gergo/Documents/manuals/Splitcoaststampers - Tutorials.pdf
+/home/gergo/Documents/manuals/weltaflex.pdf
+/home/gergo/Documents/manuals/ce-5_camera_manual.pdf
 /home/gergo/Documents/aláírás.pdf
-/home/gergo/Documents/ce-5_camera_manual.pdf
 /home/gergo/Documents/aszex.pdf
 /home/gergo/Documents/Mensa_Oklevél1.pdf
 /home/gergo/Documents/angoll/régifog/Találkozás-egy-fiatalemberrel.pdf
@@ -192,33 +685,66 @@
 /home/gergo/Documents/angoll/feb24/k_angol_21okt_fl.pdf
 /home/gergo/Documents/angoll/feb24/AngolFelkeszitoMunkafuzet.pdf
 /home/gergo/Documents/angoll/feb24/hobbies.pdf
+/home/gergo/Documents/recipes/Villámgyors krumplis lángos, élesztő nélkül! Fél óra alatt összedobható és nagyon ízletes!! - Ketkes.com.pdf
+/home/gergo/Documents/recipes/Étcsokis chilis bab, ahogy Ádám készíti recept _ Street Kitchen.pdf
 /home/gergo/Documents/Önéletrajz_GG.pdf
 /home/gergo/Documents/mom-2.6_c/momdoc/mom-pdf.pdf
 /home/gergo/Documents/mom-2.6_c/examples/penguin.pdf
 /home/gergo/Documents/ETT01-Standard-A4-BW.pdf
+/home/gergo/Documents/Kolumban_Sandor_Osmag(yar)-nyelvi_szavak.pdf
 /home/gergo/Downloads/invoice-ILT-251009-05f5a45.pdf
 /home/gergo/Downloads/aszf.pdf
+/home/gergo/Downloads/55_irodalom_feladatlap_1.pdf
+/home/gergo/Downloads/25SZJA tervezet elérhetősége_a.pdf
+/home/gergo/Downloads/Álláshirdetés_MNMKK_MNM_Műszaki és Üzemeltetési Főosztály_Műszaki ügyintéző.pdf
+/home/gergo/Downloads/Bőrtermékkészítő-2023.11.21.-v4.pdf
+/home/gergo/Downloads/dontesi_irat.pdf
+/home/gergo/Downloads/EPA02518_irodalomtortenet_2013_01_145-157.pdf
+/home/gergo/Downloads/JEGY-Kertesz-Marta-5594003F900376911.pdf
+/home/gergo/Downloads/JEGY-Gaspar_Gergo-5594003F900376911.pdf
+/home/gergo/Downloads/k_magyir_25okt_fl.pdf
 /home/gergo/Downloads/rogers-museum.pdf
+/home/gergo/Downloads/egyben.pdf
 /home/gergo/Downloads/demo.pdf
+/home/gergo/Downloads/szemiotikai_016_091-097.pdf
+/home/gergo/Downloads/himnusz.pdf
 /home/gergo/Downloads/0001.pdf
 /home/gergo/Downloads/equity-type-specimen.pdf
+/home/gergo/Downloads/MendingZine_A0525.pdf
+/home/gergo/Downloads/k_magyir_25maj_fl.pdf
 /home/gergo/Downloads/k_magyir_24maj_fl.pdf
 /home/gergo/Downloads/k_angol_25maj_fl.pdf
 /home/gergo/Downloads/_Digitalko.hu_Megrendeles_60782944.pdf
 /home/gergo/Downloads/8477631573_7493155981.pdf
+/home/gergo/Downloads/b465d9a2-d8a4-4e30-9f9c-b298cbc1d71a_A_pardia_eszkzei_Petfi_Sndor_A_helysg_kalapcsa_cm_mvben.pdf
+/home/gergo/Downloads/k_magyir_25okt_ut.pdf
+/home/gergo/Downloads/Bike-Maintenance-Zine-Bike-Church.pdf
 /home/gergo/Downloads/2453_ertesites_8477631573_4450400227.pdf
 /home/gergo/Downloads/24SZJA tervezet elérhetősége_a.pdf
 /home/gergo/Downloads/dokumentum.pdf
+/home/gergo/Downloads/l-varga-peter-phd-2009.pdf
 /home/gergo/Downloads/11.-varro-daniel-szivdesszert.pdf
 /home/gergo/Downloads/HIVE_SelfCare.pdf
+/home/gergo/Downloads/gift_card.pdf
+/home/gergo/Downloads/Bőrtermékkészítő-2020.06.29.-v1.pdf
+/home/gergo/Downloads/MNMKK_Álláshirdetés_kulturális menedzser_SzM.pdf
+/home/gergo/Downloads/SZKN_ERT_6557991.pdf
+/home/gergo/Downloads/primitive_toothcare-SCREEN.pdf
+/home/gergo/Downloads/2026-01-02-WEB-printPDF.pdf
+/home/gergo/Downloads/93_irodalom_feladatlap_1.pdf
 /home/gergo/Downloads/dokumentum-2.pdf
+/home/gergo/Downloads/palatinus-dora-dla-2016.pdf
+/home/gergo/Downloads/atjelentkezes_20260206_122622.pdf
 /home/gergo/Downloads/DIP1_2025-005929.pdf
+/home/gergo/Downloads/Subway diagram.pdf
 /home/gergo/Downloads/ODP_altalanos_felhasznalasi_feltetelek.pdf
+/home/gergo/Downloads/Sewer_Catstrophe.pdf
 /home/gergo/Downloads/18316.pdf
 /home/gergo/Downloads/8477631573_6066602169.pdf
 /home/gergo/Downloads/dokumentum-1.pdf
 /home/gergo/Downloads/garancia_SONY_2025-3-21.pdf
 /home/gergo/Downloads/14_irodalom_feladatlap_1.pdf
+/home/gergo/Downloads/dumpster-dive-print.pdf
 /home/gergo/fontbase/Junicode/docs/JunicodeManual.pdf
 /home/gergo/fontbase/EBGaramond/specimen/Specimen.pdf
 /home/gergo/.fonts/Comic_Code/TTF_ILT_EULA.pdf
@@ -589,6 +1115,8 @@
 /home/gergo/angoll/Tomi/k_angol_07maj_fl.pdf
 /home/gergo/angoll/Tomi/angol_nyelv_kozep_szobeli_egyeni_ertekelo_lap_2024maj.pdf
 /home/gergo/angoll/Tomi/iras_ertekeles.pdf
+/home/gergo/angoll/Tomi/magyar/k_magyir_25maj_ut.pdf
+/home/gergo/angoll/Tomi/magyar/b465d9a2-d8a4-4e30-9f9c-b298cbc1d71a_A_pardia_eszkzei_Petfi_Sndor_A_helysg_kalapcsa_cm_mvben.pdf
 /home/gergo/angoll/Tomi/angol_nyelv_kozep_szob_mintafeladat_vizsgaztatoi_peldany_2024maj.pdf
 /home/gergo/angoll/Érettségi_topics/travel_dark.pdf
 /home/gergo/angoll/Érettségi_topics/family_ing_speaking.pdf
@@ -699,6 +1227,9 @@
 /home/gergo/booksToRead/anarchism/emma-goldman-anarchism-and-other-essays.epub
 /home/gergo/booksToRead/pszicho/Charles Duhigg - The Power of Habit_ Why We Do What We Do in Life and Business-Random House (2012).epub
 /home/gergo/booksToRead/pszicho/Elaine N. Aron Ph.D. - The Highly Sensitive Person-Broadway Books (1997).epub
+/home/gergo/booksToRead/pszicho/Alter, Adam L - Irresistible_ the rise of addictive technology and the business of keeping us hooked (2017, Penguin Publishing Group_Penguin Press) - libgen.li.epub
+/home/gergo/booksToRead/pszicho/Carr, Nicholas - The Shallows What the Internet Is Doing to Our Brains (W. W. Norton & Company) - libgen.li.epub
+/home/gergo/booksToRead/pszicho/Burkeman, Oliver - Meditations for Mortals (2024, Penguin Canada) - libgen.li.epub
 /home/gergo/booksToRead/pszicho/Jonathan Haidt - The Anxious Generation_ How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness-Penguin Publishing Group (2024).epub
 /home/gergo/booksToRead/pszicho/Clear, James - Atomic habits_ an easy and proven way to build good habits and break bad ones-Random House Business Books (2018).epub
 /home/gergo/booksToRead/pszicho/William B. Irvine - The Stoic Challenge_ A Philosopher's Guide to Becoming Tougher, Calmer, and More Resilient-W. W. Norton & Company (2019).epub
@@ -722,14 +1253,19 @@
 /home/gergo/booksToRead/programok/Developing Quality Technical Information.epub
 /home/gergo/booksToRead/programok/Jared Bhatti - Docs for Developers_ An Engineer’s Field Guide to Technical Writing-Apress (2021).epub
 /home/gergo/booksToRead/diy/Make Thrift Mend_ Stitch, Patch, Darn, Plant-Dye &amp; Love Your Wardrobe.epub
+/home/gergo/booksToRead/diy/Jim Bennett - Calligraphy For Dummies (2007, For Dummies) - libgen.li.epub
 /home/gergo/booksToRead/diy/No-waste kitchen gardening regrow your leftover greens, pits, seeds, and more by Elzer-Peters, Katie (z-lib.org).epub
+/home/gergo/booksToRead/diy/Kristi Porter - Knitting Patterns For Dummies (Wiley) - libgen.li.epub
 /home/gergo/booksToRead/diy/Dave Canterbury - Bushcraft 101_ A Field Guide to the Art of Wilderness Survival-Adams Media.epub
 /home/gergo/booksToRead/diy/sailfarm.pdf
 /home/gergo/booksToRead/diy/John ’Lofty’ Wiseman - SAS Survival Handbook_ The Ultimate Guide to Surviving Anywhere-William Morrow.epub
 /home/gergo/booksToRead/diy/Zia Allaway - Indoor Edible Garden_ Creative Ways to Grow Herbs, Fruits, and Vegetables in Your Home-DK.pdf
 /home/gergo/booksToRead/diy/Marie Kondo - The Life-Changing Magic of Tidying Up_ The Japanese Art of Decluttering and Organizing (2014, Ten Speed Press) - libgen.li.epub
+/home/gergo/booksToRead/diy/[For dummies] Allen, Pam_Barr, Tracy L._Bird, Marly_Okey, Shannon - Knitting for Dummies (2020_2010, John Wiley & Sons) - libgen.li.epub
 /home/gergo/booksToRead/diy/Jan Saunders Maresh - Sewing For Dummies-John Wiley & Sons.epub
+/home/gergo/booksToRead/diy/Christopher Alejandro - A Pattern Language (2015, Oxford University Press) - libgen.li.epub
 /home/gergo/booksToRead/diy/Mending Matters_ Stitch, Patch, and Repair Your Favorite Denim & More.epub
+/home/gergo/booksToRead/moni/Vicki Robin_Joe Dominguez_Mr. Money Mustache - Your money or your life_ 9 steps to transforming your relationship with money and achieving financial independence (2018_2008, Penguin Publishing Group) - libgen.li.epub
 /home/gergo/booksToRead/bölcsész/Umberto Eco, Caterina Mongiat Farina, Geoff Farina, Francesco Erspamer - How to Write a Thesis-The MIT Press (2015).epub
 /home/gergo/booksToRead/bölcsész/Kittler, Friedrich A. - Optical media _ Berlin lectures 1999-Polity (2012).pdf
 /home/gergo/booksToRead/bölcsész/Giorgio Agamben - Profanations-Zone Books.epub
@@ -737,9 +1273,17 @@
 /home/gergo/booksToRead/bölcsész/science-studies-reader.pdf
 /home/gergo/booksToRead/bölcsész/Umberto_Eco_and_the_Echoes_of_Adamic_Lan.pdf
 /home/gergo/booksToRead/bölcsész/John D. Caputo - The Folly of God_ A Theology of the Unconditional-Polebridge Press.epub
+/home/gergo/booksToRead/design/[Dover Pictorial Archive] William Morris - William Morris Full-Color Patterns and Designs (2012, Dover Publications) - libgen.li.epub
 /home/gergo/booksToRead/design/William Lidwell, Kritina Holden, Jill Butler - Universal Principles of Design, Revised and Updated_ 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make (2010, Rockport Publishers) - libgen.li.epub
 /home/gergo/booksToRead/design/Tufte, Edward R - The visual display of quantitative information (2001, Graphics Press) - libgen.li.pdf
 /home/gergo/booksToRead/design/Edward R. Tufte - Envisioning Information (1990, Graphics Press) - libgen.li.pdf
+/home/gergo/booksToRead/szépir/Murata, Sayaka - Convenience Store Woman (2018, Grove Atlantic) - libgen.li.epub
+/home/gergo/booksToRead/military manuals/fm_31-70_basic_cold_weather_survival_manual.pdf
+/home/gergo/booksToRead/military manuals/FM4-25x11.pdf
+/home/gergo/booksToRead/military manuals/FM21-26_201211.pdf
+/home/gergo/booksToRead/military manuals/FM 10-16 General Fabric Repair 2000.pdf
+/home/gergo/booksToRead/military manuals/FM21-15.pdf
+/home/gergo/booksToRead/military manuals/TM9-1575.pdf
 /home/gergo/booksToRead/ecology/Andreas Malm - How to Blow Up a Pipeline (Verso Books) - libgen.li.epub
 /home/gergo/booksToRead/ecology/Wallace-Wells, David - The uninhabitable earth_ life after warming-Penguin Random House LLC_Cela (2020_2019).epub
 /home/gergo/booksToRead/ecology/Elizabeth Kolbert - The Sixth Extinction An Unnatural History-Picador_Henry Holt and Co..epub
@@ -758,6 +1302,7 @@
 /home/gergo/booksToRead/tipo/Karin Wagner - From ASCII Art To Comic Sans_ Typography And Popular Culture In The Digital Age-The MIT Press.pdf
 /home/gergo/booksToRead/bible/eng-web_a4.pdf
 /home/gergo/booksToRead/bible/eng-web.epub
+/home/gergo/groff_practice/output.pdf
 /home/gergo/MA/sem3/Kertész/Jegyzőkönyv.epub
 /home/gergo/MA/sem3/Kertész/kertesz_naplobejegyzesek_valogatas.pdf
 /home/gergo/MA/sem3/Kertész/2021-2022_1_tematika_KERTESZ.pdf

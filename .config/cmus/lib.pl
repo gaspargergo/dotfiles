@@ -1372,6 +1372,30 @@
 /home/gergo/music/SALES/SALES - SALES LP - 15 best times.mp3
 /home/gergo/music/various artists/Kankyo Ongaku_ Japanese Ambient, Environmental & New Age Music 1980-1990/1-01 Still Space.mp3
 /home/gergo/music/various artists/Kankyo Ongaku_ Japanese Ambient, Environmental & New Age Music 1980-1990/1-11 Tomoshibi (Abridged).mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/1-01 Miniature Overture.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/1-02 The Decoration of the Christmas Tree.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/1-03 March.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/1-04 Children's Galop and Entry of the Parents.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/1-05 Arrival of Drosselmeyer.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/1-06 Grandfather's Dance.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/1-07 Clara and the Nutcracker.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/1-08 The Battle.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/1-09 In the Pine Forest.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/1-10 Waltz of the Snowflakes.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/2-01 The Kingdom of Sweets.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/2-02 Clara and the Prince.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/2-03 Divertissement - Chocolate_ Spanish Dance.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/2-04 Divertissement - Coffee_ Arabian Dance.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/2-05 Divertissement - Tea_ Chinese Dance.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/2-06 Divertissement - Trepak_ Russian Dance.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/2-07 Divertissement - Dance of the Reed Pipes.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/2-08 Divertissement - Mother Gigogne.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/2-09 Waltz of the Flowers.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/2-10 Pas de deux.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/2-11 Pas de deux - Variation I_ Tarantella.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/2-12 Pas de deux - Variation II_ Dance of the Sugar Plum Fairy.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/2-13 Pas de deux - Coda.mp3
+/home/gergo/music/Tchaikovsky_ The Nutcracker/2-14 Final Waltz and Apotheosis.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 01 Requiem for Dying Mothers, Part 1.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 02 Requiem for Dying Mothers, Part 2.mp3
 /home/gergo/music/Stars of the lid/The tired sounds of/Stars of the Lid - The Tired Sounds of - 03 Down.mp3
