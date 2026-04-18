@@ -73,8 +73,11 @@ shopt -s lithist
 shopt -s no_empty_cmd_completion
 #append history instead of overwriting
 shopt -s histappend
-#instantly update hist after a command
-PROMPT_COMMAND='history -a;history -n;update_prompt'
+
+# --- HISTORY ---
+export HISTFILESIZE=15000
+export HISTCONTROL=ignoreboth:erasedups
+export HISTSIZE=3000
 
 export EDITOR='vim'
 export BROWSER='dillo'
