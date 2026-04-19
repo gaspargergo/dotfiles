@@ -18,4 +18,4 @@ do
 	fi
 done
 
-echo "" > ~/sitesToRead/readinglist.txt
+> ~/sitesToRead/readinglist.txt

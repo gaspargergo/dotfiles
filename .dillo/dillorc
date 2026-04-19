@@ -86,8 +86,8 @@ link_action="Read later:echo $url >> /home/gergo/sitesToRead/readinglist.txt"
 # If FLTK has been configured with Xft enabled (the default), you can use
 # scalable fonts such as DejaVu or Liberation (try running
 # "fc-list : family | cut -d ',' -f 2 | sort").
-#font_serif="DejaVu Serif"
-#font_sans_serif="DejaVu Sans"
+font_serif="Alegreya"
+font_sans_serif="Source Sans Pro"
 #font_cursive="DejaVu Sans"
 #font_fantasy="DejaVu Sans"
 #font_monospace="DejaVu Sans Mono"
