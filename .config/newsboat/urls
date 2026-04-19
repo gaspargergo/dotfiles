@@ -11,6 +11,7 @@ https://82mhz.net/index.xml
 https://nickyflowers.com/feed.xml
 https://herman.bearblog.dev/feed
 https://lazybea.rs/index.xml
+https://ploum.net/atom_en.xml
 "exec:gemget gemini://zaibatsu.circumlunar.space/~solderpunk/gemlog/atom.xml --output -" "~Solderpunk"
 ---Reddit---
 https://old.reddit.com/r/Gameboy/search.rss?q=%22game+of+the+month%22&restrict_sr=on&sort=new&t=month
