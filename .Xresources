@@ -9,7 +9,8 @@ UXTerm.termName: xterm-256color
 *backarrowKey: false
 *selectToClipboard: true
 UXTerm*ttyModes: erase ^?
-UXTerm*visualBell: false
+UXTerm*visualBell: true
+UXTerm*visualBellLine: true
 UXTerm*fullscreen: never
 UXTerm*internalBorder: 5
 
