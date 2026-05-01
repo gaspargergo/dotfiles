@@ -8,7 +8,6 @@
 source /usr/share/bash-completion/bash_completion
 source /usr/share/fzf/key-bindings.bash
 
-
 # --- ALIASES ---
 alias sudo="sudo "
 alias web="w3m /home/gergo/.w3m/bookmark.html"
@@ -92,15 +91,11 @@ export HISTFILESIZE=15000
 export HISTCONTROL=ignoreboth:erasedups
 export HISTSIZE=3000
 
-#when in terminal only, create tmux session; in tmux window, print a pokemon
-if [[ "$TERM" == "tmux-256color" ]]
-then
-	/home/gergo/scripts/pokescript/pokemon-colorscripts.sh -r
-fi
+#hledger file
+export LEDGER_FILE="~/pénz/2026.journal"
 
 if [[ "$TERM" == "xterm-256color" ]]
 then
-	#tmux attach-session -t "$USER" || tmux new-session -s "$USER"
 	echo ""
 	/home/gergo/scripts/pokescript/pokemon-colorscripts.sh -r
 fi
