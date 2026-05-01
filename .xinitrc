@@ -5,6 +5,9 @@ usermodmap=$HOME/.Xmodmap
 sysresources=/etc/X11/xinit/.Xresources
 sysmodmap=/etc/X11/xinit/.Xmodmap
 
+#Colors for ls and readline completions
+eval `dircolors ~/dir_colors`
+
 # merge in defaults and keymaps
 
 if [ -f $sysresources ]; then
