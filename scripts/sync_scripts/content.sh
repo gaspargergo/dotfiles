@@ -1,6 +1,9 @@
 #!/bin/bash
 
-for url in $(cat /home/gergo/sitesToRead/readinglist.txt)
+#should probably have some logic to not be able to bookmark the same thing twice inthe bookmarking logic, but it's simple to just use a uniq command here
+urls=$(cat /home/gergo/sitesToRead/readinglist.txt | cut -d' ' -f1 | uniq)
+
+for url in $urls
 do
 	if [[ $(echo $url | grep -c "youtube") -eq 1 ]]
 	then
