@@ -1,1 +1,1 @@
-COMMAND echo %s >> /home/gergo/sitesToRead/readinglist.txt
+COMMAND echo -n %s | xclip -l 0 -selection "clipboard"
