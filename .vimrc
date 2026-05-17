@@ -30,10 +30,26 @@ augroup myCmds
 	autocmd VimEnter * redraw!
 augroup END
 
-" --- timeout ---
+" --- Timeout ---
+"  This is here to make switching to normal mode after pressing escape instant
 set ttimeout
 set ttimeoutlen=1
 set ttyfast
+
+" --- Wrapping ---
+au Filetype mail setlocal tw=0
+au Filetype mail setlocal linebreak
+au Filetype mail setlocal formatoptions-=t
+au Filetype gitcommit setlocal tw=72
+autocmd Filetype nroff set textwidth=80
+
+" --- Search ---
+" incremental search
+set incsearch
+" only ignore case when there is no capital letter in search term
+set ignorecase
+set smartcase
+set nohlsearch
 
 " --- Status line --- 
 " higlight group definitions are at the end of the file
@@ -62,47 +78,6 @@ set statusline+=%y				" File type
 set statusline+=\ 		" Separator
 set statusline+=%#LineNumberColor#
 set statusline+=\ \ %l:%c\ \       " Current line and coloumn
-
-" --- Autocomplete ---
-set completeopt=menuone,longest
-set shortmess+=c
-
-" wrapping settings
-au Filetype mail setlocal tw=0
-au Filetype mail setlocal linebreak
-au Filetype mail setlocal formatoptions-=t
-au Filetype gitcommit setlocal tw=72
-
-" --- Plugins ---
-call plug#begin()
-Plug 'junegunn/goyo.vim'
-Plug 'ap/vim-css-color'
-Plug 'vim-scripts/AutoComplPop'
-Plug 'tpope/vim-surround'
-Plug 'christoomey/vim-tmux-navigator'
-call plug#end()
-
-"no autocomplete in textfiles and markdown files
-autocmd Filetype markdown AutoComplPopDisable
-autocmd Filetype text AutoComplPopDisable
-autocmd Filetype nroff AutoComplPopDisable
-
-"respect 80 for nroff
-autocmd Filetype nroff set textwidth=80
-
-" --- Search ---
-" incremental search
-set incsearch
-" only ignore case when there is no capital letter in search term
-set ignorecase
-set smartcase
-set nohlsearch
-
-" --- Functions ---
-function! Kulonora()
-	:r ~/angoll/template_kedd.md
-	:r !date 
-endfunction
 
 " --- Theming ---
 colorscheme gruvbox
